@@ -1,0 +1,4 @@
+*.py
+newspaper/*.py
+journals/*.py
+model-last
