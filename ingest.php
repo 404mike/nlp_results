@@ -5,7 +5,7 @@ class IngestData {
   public function __construct()
   {
     $this->ingestJournals();
-    $this->ingestNewspapers();
+    // $this->ingestNewspapers();
   }
 
   private function ingestJournals()
@@ -44,10 +44,40 @@ class IngestData {
       $progress = $this->checkProgress("newspaper",$key);
 
       if($progress == 0) {
-        $this->formatNewspaperData($file);
+        $this->formatJournalsData($file);
         $this->updateProgress("newspaper",$key);
       }
     }
+  }
+
+  private function formatJournalsData($data)
+  {
+    $json = file_get_contents($data);
+    $data = json_decode($json,true);
+    // print_r($data);
+
+    $arr = [];
+    // loop articles in file
+    foreach($data as $k => $v) {
+
+      $artKey = $v[0] . '_' . $v[1];
+      $date = $v[2];
+
+      foreach($v[4] as $peopleKey => $peopleVal) {
+        $arr[] = [
+          'id' => $artKey,
+          'date' => $date,
+          'name' => $peopleVal[0],
+          'start_char' => $peopleVal[1],
+          'end_char' => $peopleVal[2],
+          'type' => $peopleVal[3],
+          'qid' => $peopleVal[4],
+          'art_type' => $peopleVal[5],
+        ];
+      }
+    }
+
+    $this->parseFormatedData($arr);
   }
 
   private function formatNewspaperData($data)
@@ -78,6 +108,7 @@ class IngestData {
 
     $this->parseFormatedData($arr);
   }
+
 
   private function parseFormatedData($data)
   {
