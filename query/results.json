@@ -1,0 +1,4390 @@
+{
+    "Q179374": {
+        "numFound": 337,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+            {
+                "art_id_s": "llgc-id:2315156_llgc-id:2460997",
+                "date_pdate": [
+                    "1871-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2359",
+                "end_char_s": "2370",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b8819240-7887-4d17-bb1c-b6b45718c9b6",
+                "_version_": 1729641067618238464
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1266191",
+                "date_pdate": [
+                    "1957-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "907",
+                "end_char_s": "918",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "9053c0ba-e173-4a7c-887f-210d5a2cec1f",
+                "_version_": 1729645186874605568
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1270769",
+                "date_pdate": [
+                    "1992-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1091",
+                "end_char_s": "1102",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "35e50dfa-3d91-4905-b9fb-b7d55f0e6b28",
+                "_version_": 1729645265551360000
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1270769",
+                "date_pdate": [
+                    "1992-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3184",
+                "end_char_s": "3195",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "163a512d-80f0-456c-97d5-50012c277aaf",
+                "_version_": 1729645266069356544
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1270769",
+                "date_pdate": [
+                    "1992-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "408",
+                "end_char_s": "419",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "daaed0ff-6597-4b5e-9e75-18704e91eef1",
+                "_version_": 1729645269217181696
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1269902",
+                "date_pdate": [
+                    "1987-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1559",
+                "end_char_s": "1570",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "452556c9-001f-4622-a819-a4879f2876b5",
+                "_version_": 1729645287200260096
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1269902",
+                "date_pdate": [
+                    "1987-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "913",
+                "end_char_s": "924",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4c224556-67ec-41fd-9d55-56a554f84ab1",
+                "_version_": 1729645287248494592
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1269902",
+                "date_pdate": [
+                    "1987-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1159",
+                "end_char_s": "1170",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "892a4cbd-7119-4c9b-af5f-72c4af235945",
+                "_version_": 1729645287260028928
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1238717",
+                "date_pdate": [
+                    "1902-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1900",
+                "end_char_s": "1911",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "5e9d78c9-5eb3-4e68-a62e-2dcac7041a9f",
+                "_version_": 1729645309180510208
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268285",
+                "date_pdate": [
+                    "1976-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2146",
+                "end_char_s": "2157",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "9a7516f2-9ac7-4840-b38e-db473b94d49b",
+                "_version_": 1729645549607452672
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1242690",
+                "date_pdate": [
+                    "1936-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "559",
+                "end_char_s": "570",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "12e36d84-c10e-4af6-80c3-e3deae625a54",
+                "_version_": 1729645757879812096
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1264739",
+                "date_pdate": [
+                    "1946-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2631",
+                "end_char_s": "2642",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f0877b3e-c8a5-42b8-9c9d-6493f550e21d",
+                "_version_": 1729645345007206400
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1269493",
+                "date_pdate": [
+                    "1984-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "419",
+                "end_char_s": "430",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "5e2c2090-e4a2-40c4-a96e-8295b5aa7bb9",
+                "_version_": 1729645442341273600
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1243196",
+                "date_pdate": [
+                    "1940-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "560",
+                "end_char_s": "571",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "297b140b-871d-4e8b-aaf4-cdfcbf63b9b6",
+                "_version_": 1729645566948802560
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1243196",
+                "date_pdate": [
+                    "1940-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1060",
+                "end_char_s": "1071",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "1432fcb9-7e4e-43e9-9b53-742d26d9a702",
+                "_version_": 1729645568015204352
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1267725",
+                "date_pdate": [
+                    "1971-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "60",
+                "end_char_s": "71",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c98d3776-7bfe-4804-90b5-5db4f19784ab",
+                "_version_": 1729645366131818496
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1267725",
+                "date_pdate": [
+                    "1971-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "31",
+                "end_char_s": "42",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "37cb8496-c589-4e53-8b86-e00d92b33b8b",
+                "_version_": 1729645366180052992
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1267725",
+                "date_pdate": [
+                    "1971-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "332",
+                "end_char_s": "343",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "ba5a249d-67ea-4f65-b2f5-7cdb285d51fc",
+                "_version_": 1729645366212558848
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1267725",
+                "date_pdate": [
+                    "1971-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "435",
+                "end_char_s": "446",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "1a20ed11-8265-4719-93d1-42318fbc30de",
+                "_version_": 1729645366225141760
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268887",
+                "date_pdate": [
+                    "1980-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1663",
+                "end_char_s": "1674",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c96e120c-ace5-4de9-91f6-1a6a2db8656c",
+                "_version_": 1729645455035334656
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268887",
+                "date_pdate": [
+                    "1980-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1124",
+                "end_char_s": "1135",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "8a9cbebb-ea1c-4230-b7a8-9732ee5a438b",
+                "_version_": 1729645455165358080
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268887",
+                "date_pdate": [
+                    "1980-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "255",
+                "end_char_s": "266",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c4fe66a1-60e4-40fd-b74a-405fca4e7390",
+                "_version_": 1729645455254487040
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268887",
+                "date_pdate": [
+                    "1980-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1947",
+                "end_char_s": "1958",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "6389e3b6-7d9b-436a-85c1-cc3959c34bea",
+                "_version_": 1729645455295381504
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268887",
+                "date_pdate": [
+                    "1980-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "39",
+                "end_char_s": "50",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "1ab25111-ea86-4445-b77f-137988452ef9",
+                "_version_": 1729645455305867264
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268887",
+                "date_pdate": [
+                    "1980-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1616",
+                "end_char_s": "1627",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "135fbe4a-63e2-4e03-8cbc-7030ecd79f14",
+                "_version_": 1729645455321595904
+            },
+            {
+                "art_id_s": "llgc-id:1256711_llgc-id:1258402",
+                "date_pdate": [
+                    "1954-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "702",
+                "end_char_s": "713",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "89f5353c-367f-44f9-b81c-b5f9feba4e98",
+                "_version_": 1729645600867090432
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268010",
+                "date_pdate": [
+                    "1973-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "240",
+                "end_char_s": "251",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "eef424b3-c347-4766-be73-2830b455b7f4",
+                "_version_": 1729645412129701888
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1266444",
+                "date_pdate": [
+                    "1959-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1158",
+                "end_char_s": "1169",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "fdcbd9f7-b7f2-47d0-ac34-37df9d46fa72",
+                "_version_": 1729645407949029376
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268010",
+                "date_pdate": [
+                    "1973-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "354",
+                "end_char_s": "365",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "8962734b-fa35-4398-852d-eca67be0b343",
+                "_version_": 1729645411255189504
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268539",
+                "date_pdate": [
+                    "1978-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1176",
+                "end_char_s": "1187",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c9507dc5-5c15-44fd-b2cb-898aab5b3174",
+                "_version_": 1729645439858245632
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1243447",
+                "date_pdate": [
+                    "1942-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "320",
+                "end_char_s": "331",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "572432cc-576a-4aa6-b9f4-5f584b8c435e",
+                "_version_": 1729645579989942272
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1243447",
+                "date_pdate": [
+                    "1942-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1590",
+                "end_char_s": "1601",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "45fbf7de-02e2-47e1-8f2c-cd549d51bbc6",
+                "_version_": 1729645584822829056
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268716",
+                "date_pdate": [
+                    "1979-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "45",
+                "end_char_s": "56",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f5d94d34-1887-4ea7-9948-6d2d83b5088d",
+                "_version_": 1729645425858707456
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1268285",
+                "date_pdate": [
+                    "1976-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1376",
+                "end_char_s": "1387",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "6150da43-dcab-4086-a7a4-e312fa0e0491",
+                "_version_": 1729645555554975744
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1243196",
+                "date_pdate": [
+                    "1940-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1100",
+                "end_char_s": "1111",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "08fe0f5a-434b-4e69-8237-84fbd9293089",
+                "_version_": 1729645571749183488
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1243196",
+                "date_pdate": [
+                    "1940-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1605",
+                "end_char_s": "1616",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c6852a6a-1369-4894-8c5b-c10d97fdfb39",
+                "_version_": 1729645568374865920
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1267725",
+                "date_pdate": [
+                    "1971-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "99",
+                "end_char_s": "110",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "343a2bd2-73c2-4f7b-8079-549ea62380b7",
+                "_version_": 1729645366267084800
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1243447",
+                "date_pdate": [
+                    "1942-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1609",
+                "end_char_s": "1620",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "3ab3dcba-19f9-4a72-a333-95e37fca6229",
+                "_version_": 1729645587622526976
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1241933",
+                "date_pdate": [
+                    "1930-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "586",
+                "end_char_s": "597",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0f23581a-e6fe-4526-8b25-72f7dc629181",
+                "_version_": 1729645837694271488
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1241933",
+                "date_pdate": [
+                    "1930-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "837",
+                "end_char_s": "848",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "fe953246-04dd-4ca7-938b-41ccef2f9de7",
+                "_version_": 1729645838165082112
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1279672",
+                "date_pdate": [
+                    "1953-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2360",
+                "end_char_s": "2371",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "34a12e33-b1af-4a1e-bd1f-8376eded1515",
+                "_version_": 1729646001012080640
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1282121",
+                "date_pdate": [
+                    "1963-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1672",
+                "end_char_s": "1683",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "5ea0d7cf-17a5-43f5-ba58-ebfd23410677",
+                "_version_": 1729646145147240448
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1282242",
+                "date_pdate": [
+                    "1964-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "364",
+                "end_char_s": "375",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "250088eb-e121-4aca-8e03-303822161f70",
+                "_version_": 1729646179109568512
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1282242",
+                "date_pdate": [
+                    "1964-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2733",
+                "end_char_s": "2744",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "608de67f-431e-4d9e-b495-8a8a50122672",
+                "_version_": 1729646179343400960
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1279672",
+                "date_pdate": [
+                    "1953-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2049",
+                "end_char_s": "2060",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "37d38d14-8636-40d8-aaa1-6339ca4a63e7",
+                "_version_": 1729646000522395648
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1279672",
+                "date_pdate": [
+                    "1953-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2494",
+                "end_char_s": "2505",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "1bee92d1-1a19-49b9-9582-a08cb09c58c4",
+                "_version_": 1729646000786636800
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1282351",
+                "date_pdate": [
+                    "1964-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2102",
+                "end_char_s": "2113",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "eec4cd23-49eb-4548-ab4f-4e48503e2d43",
+                "_version_": 1729646159675260928
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1242435",
+                "date_pdate": [
+                    "1934-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3219",
+                "end_char_s": "3230",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "dbe1bf7b-6c99-4e6a-981f-265ee392e5e7",
+                "_version_": 1729645785820168192
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1242435",
+                "date_pdate": [
+                    "1934-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1623",
+                "end_char_s": "1634",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "16ec01fd-b801-40cb-a216-c2752257958a",
+                "_version_": 1729645786095943680
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1242435",
+                "date_pdate": [
+                    "1934-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1936",
+                "end_char_s": "1947",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "a658114e-7438-4ce7-b674-1cad8669bdd8",
+                "_version_": 1729645786103283712
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1283058",
+                "date_pdate": [
+                    "1967-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "254",
+                "end_char_s": "265",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "595a9557-89fd-4e4f-9abc-773610f222af",
+                "_version_": 1729646167387537408
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1242188",
+                "date_pdate": [
+                    "1932-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1347",
+                "end_char_s": "1358",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "23848d29-a145-46c1-b707-3d0e30a6a2ab",
+                "_version_": 1729645791645007872
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1242188",
+                "date_pdate": [
+                    "1932-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "400",
+                "end_char_s": "411",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "9e468c90-99c5-486d-b421-0bbb50851b12",
+                "_version_": 1729645792835141632
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1242188",
+                "date_pdate": [
+                    "1932-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "5",
+                "end_char_s": "16",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "ade1f12e-7894-4cfd-9fc5-f4284b3369a9",
+                "_version_": 1729645792786907136
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1241933",
+                "date_pdate": [
+                    "1930-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "5",
+                "end_char_s": "16",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b96dd72f-d136-455d-a94e-2fc635dc5108",
+                "_version_": 1729645844151402496
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1280432",
+                "date_pdate": [
+                    "1956-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1989",
+                "end_char_s": "2000",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "ae390d19-096c-49e1-8412-b23143253496",
+                "_version_": 1729646028022349824
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1279436",
+                "date_pdate": [
+                    "1952-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1659",
+                "end_char_s": "1670",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4049bf5d-de34-489b-8df1-e5a83b5907ac",
+                "_version_": 1729646030265253888
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1283175",
+                "date_pdate": [
+                    "1967-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1024",
+                "end_char_s": "1035",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f206d704-26a5-4c1a-91ba-c74ffc588114",
+                "_version_": 1729646393545457664
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1283175",
+                "date_pdate": [
+                    "1967-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2046",
+                "end_char_s": "2057",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "3e96219c-96b5-4227-b721-1333732cfaf6",
+                "_version_": 1729646394753417216
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1283175",
+                "date_pdate": [
+                    "1967-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1148",
+                "end_char_s": "1159",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "325eabfe-df68-43f9-8aa7-5ef0f1eb9d68",
+                "_version_": 1729646394887634944
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1283175",
+                "date_pdate": [
+                    "1967-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1493",
+                "end_char_s": "1504",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "3c52e93b-49c6-425d-8e17-e6a3b4793ac3",
+                "_version_": 1729646394933772288
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1281780",
+                "date_pdate": [
+                    "1962-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3226",
+                "end_char_s": "3237",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "efc90494-3040-4d21-9eab-5caf26c19c3e",
+                "_version_": 1729646543700492288
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1283437",
+                "date_pdate": [
+                    "1968-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2612",
+                "end_char_s": "2623",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "80f7a37a-733f-4f42-b2fa-a11d828d24fd",
+                "_version_": 1729646405671190528
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1283175",
+                "date_pdate": [
+                    "1967-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "415",
+                "end_char_s": "426",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "8ac857f4-0287-4a55-a596-3d4c6dac3cb2",
+                "_version_": 1729646391888707584
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1283175",
+                "date_pdate": [
+                    "1967-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1088",
+                "end_char_s": "1099",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "404d33ea-022d-4449-893f-2934284bd4ef",
+                "_version_": 1729646391930650624
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1283175",
+                "date_pdate": [
+                    "1967-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1262",
+                "end_char_s": "1273",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0d3e973f-c187-4831-a77e-8cf1e34e5e8a",
+                "_version_": 1729646391942184960
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1283175",
+                "date_pdate": [
+                    "1967-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "943",
+                "end_char_s": "954",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "72d34294-6cc3-478e-bd83-60ae347f3afc",
+                "_version_": 1729646392122540032
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1277889",
+                "date_pdate": [
+                    "1942-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "888",
+                "end_char_s": "899",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "848c4194-0e89-4e25-a312-66bdd8753fd3",
+                "_version_": 1729646660798119936
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1278737",
+                "date_pdate": [
+                    "1948-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "351",
+                "end_char_s": "362",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "485b5647-7864-4003-9fc5-2da5f56cf4b4",
+                "_version_": 1729646651611545600
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1279252",
+                "date_pdate": [
+                    "1951-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "178",
+                "end_char_s": "189",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4bdbaa45-1ece-4a8a-a3e6-8c429873fec8",
+                "_version_": 1729646622745296896
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1277504",
+                "date_pdate": [
+                    "1939-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1736",
+                "end_char_s": "1747",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4453e6f9-9532-4073-bb80-d121ad72cb23",
+                "_version_": 1729646688046415872
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1279252",
+                "date_pdate": [
+                    "1951-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2028",
+                "end_char_s": "2039",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c8e12bb8-e64f-4345-9096-536e0ca298ba",
+                "_version_": 1729646631024852992
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1278662",
+                "date_pdate": [
+                    "1948-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2851",
+                "end_char_s": "2862",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "993609f5-3146-438d-8be3-18601304f4f6",
+                "_version_": 1729646667477549056
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1278662",
+                "date_pdate": [
+                    "1948-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2617",
+                "end_char_s": "2628",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "9b9649c5-3e0a-4177-a29a-2949230d27ce",
+                "_version_": 1729646667851890688
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1277759",
+                "date_pdate": [
+                    "1941-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "688",
+                "end_char_s": "699",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "1bb3b8c3-b3b7-4e04-9b1c-a66359bd7b10",
+                "_version_": 1729646701599260672
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1277759",
+                "date_pdate": [
+                    "1941-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "643",
+                "end_char_s": "654",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "2345ebc2-3a8d-48d9-bdc2-3d6a433aa5f2",
+                "_version_": 1729646701755498496
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1288174",
+                "date_pdate": [
+                    "1988-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "278",
+                "end_char_s": "289",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "eba1ef72-a594-4516-b909-d12ff86bd185",
+                "_version_": 1729647206718242816
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1291574",
+                "date_pdate": [
+                    "2002-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "947",
+                "end_char_s": "958",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "17c9daf0-a6ef-4c19-bec8-ad47bfe12b47",
+                "_version_": 1729647287173382144
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1285898",
+                "date_pdate": [
+                    "1979-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1802",
+                "end_char_s": "1813",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4375b02e-2cf2-4945-b47c-cd6946fa4cf5",
+                "_version_": 1729647354051559424
+            },
+            {
+                "art_id_s": "llgc-id:1277425_llgc-id:1285452",
+                "date_pdate": [
+                    "1977-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "821",
+                "end_char_s": "832",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "68c9a266-0950-42a2-966f-67e3f724cb10",
+                "_version_": 1729646973455171584
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1241072",
+                "date_pdate": [
+                    "1920-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1650",
+                "end_char_s": "1661",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b24deabc-e1c4-4a84-890e-5d7c6be7aaf8",
+                "_version_": 1729647582534172672
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1241072",
+                "date_pdate": [
+                    "1920-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1058",
+                "end_char_s": "1069",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "096ff4ad-417c-4d9b-a499-792530fccee3",
+                "_version_": 1729647581846306816
+            },
+            {
+                "art_id_s": "llgc-id:2508808_llgc-id:2510548",
+                "date_pdate": [
+                    "1893-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3361",
+                "end_char_s": "3372",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "1645d918-4ca6-4aea-a455-ae3bdb86ec29",
+                "_version_": 1729648466409291776
+            },
+            {
+                "art_id_s": "llgc-id:1191402_llgc-id:1196500",
+                "date_pdate": [
+                    "1987-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1945",
+                "end_char_s": "1956",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "d045b187-737b-499f-8061-1c082a7434ba",
+                "_version_": 1729647813535465472
+            },
+            {
+                "art_id_s": "llgc-id:1226390_llgc-id:1229620",
+                "date_pdate": [
+                    "1973-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "925",
+                "end_char_s": "936",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f56aa768-4c8f-4b68-8b11-6444083bb9ae",
+                "_version_": 1729647942889897984
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1312858",
+                "date_pdate": [
+                    "1917-03-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2414",
+                "end_char_s": "2425",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b1766ba4-6564-4115-9b76-745a1ce67153",
+                "_version_": 1729648914519293952
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1313464",
+                "date_pdate": [
+                    "1918-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3085",
+                "end_char_s": "3096",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "5c30b6d2-5927-4508-9c0a-15fdc479d4ac",
+                "_version_": 1729648916320747520
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1313464",
+                "date_pdate": [
+                    "1918-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2427",
+                "end_char_s": "2438",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "a743f12e-cb30-4b1b-abfa-9579c9ebbc21",
+                "_version_": 1729648916454965248
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1315179",
+                "date_pdate": [
+                    "1923-09-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2106",
+                "end_char_s": "2117",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "db622e20-9dc2-41ea-a728-2176d1f84c0c",
+                "_version_": 1729648936413560832
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1317638",
+                "date_pdate": [
+                    "1929-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3302",
+                "end_char_s": "3313",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "9787d5f2-186e-4bbb-888a-ccdc6aec4dd3",
+                "_version_": 1729649101953302528
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1316563",
+                "date_pdate": [
+                    "1927-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2493",
+                "end_char_s": "2504",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "3c238261-f014-44be-b774-69d93dcbd742",
+                "_version_": 1729649147922874368
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1316904",
+                "date_pdate": [
+                    "1928-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1460",
+                "end_char_s": "1471",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "32250e49-aebf-4659-a56f-1248269c8361",
+                "_version_": 1729649192202141696
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1315774",
+                "date_pdate": [
+                    "1925-02-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3994",
+                "end_char_s": "4005",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "d42da569-b9a4-4b39-af6a-8b4187f230f9",
+                "_version_": 1729649213086629888
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1314313",
+                "date_pdate": [
+                    "1921-02-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2989",
+                "end_char_s": "3000",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0f85e7ce-ad49-4965-b637-11932c466e68",
+                "_version_": 1729649001465118720
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1317440",
+                "date_pdate": [
+                    "1929-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "984",
+                "end_char_s": "995",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "5ff181b2-f520-4ca4-8946-00f00774fd35",
+                "_version_": 1729649092062085120
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1317440",
+                "date_pdate": [
+                    "1929-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1158",
+                "end_char_s": "1169",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "5cee920a-b10d-4153-8a4a-21d9ae97d2b7",
+                "_version_": 1729649093244878848
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1317297",
+                "date_pdate": [
+                    "1928-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2817",
+                "end_char_s": "2828",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "cb0404be-5295-4df1-8394-18849b5f8b8f",
+                "_version_": 1729649093576228864
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1317297",
+                "date_pdate": [
+                    "1928-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "510",
+                "end_char_s": "521",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4b177f86-a537-43f4-b402-e21c3687a2b6",
+                "_version_": 1729649093607686144
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1317959",
+                "date_pdate": [
+                    "1930-08-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "362",
+                "end_char_s": "373",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "3298ff0f-2d9e-4fd6-9c92-82443f4bdd32",
+                "_version_": 1729649080356831232
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1318021",
+                "date_pdate": [
+                    "1930-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1784",
+                "end_char_s": "1795",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "30d75516-d3bb-449a-97b7-e7fc63567e98",
+                "_version_": 1729649077118828544
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1315492",
+                "date_pdate": [
+                    "1924-06-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1260",
+                "end_char_s": "1271",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "85f3f374-a9ae-483f-9ae4-64c8cf9de6c8",
+                "_version_": 1729649172609499136
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1312766",
+                "date_pdate": [
+                    "1917-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2568",
+                "end_char_s": "2579",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "26f7ef69-f20d-4f50-904d-007a62a9fd3a",
+                "_version_": 1729649025416691712
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1316904",
+                "date_pdate": [
+                    "1928-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2485",
+                "end_char_s": "2496",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "452d9ee2-78c3-463f-8445-02ac7849c7b0",
+                "_version_": 1729649193773957120
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1316876",
+                "date_pdate": [
+                    "1927-12-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2283",
+                "end_char_s": "2294",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "97c7f473-9a90-4191-a13b-105a16355d57",
+                "_version_": 1729649197071728640
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1316656",
+                "date_pdate": [
+                    "1927-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "4630",
+                "end_char_s": "4641",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "3ac06bf3-55dc-46b7-9c2c-633800121017",
+                "_version_": 1729649236506574848
+            },
+            {
+                "art_id_s": "llgc-id:1226390_llgc-id:1228199",
+                "date_pdate": [
+                    "1942-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1182",
+                "end_char_s": "1193",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "7f841f35-698c-48b1-97a7-f565da174f8d",
+                "_version_": 1729649484411961344
+            },
+            {
+                "art_id_s": "llgc-id:1226390_llgc-id:1228602",
+                "date_pdate": [
+                    "1950-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "276",
+                "end_char_s": "287",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "fcdb16fe-6946-41e9-ae22-b46b51bc5340",
+                "_version_": 1729649411813801984
+            },
+            {
+                "art_id_s": "llgc-id:1226390_llgc-id:1229253",
+                "date_pdate": [
+                    "1965-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "517",
+                "end_char_s": "528",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "765dc3c6-d471-448b-a698-0d5d98721bcc",
+                "_version_": 1729649260072271872
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1240100",
+                "date_pdate": [
+                    "1912-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1310",
+                "end_char_s": "1321",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "ad0d5a63-d4cf-4d08-9847-eed4cb927a59",
+                "_version_": 1729649633222721536
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1239453",
+                "date_pdate": [
+                    "1907-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "474",
+                "end_char_s": "485",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b7fda07e-4e5d-4332-9396-eb20b7741018",
+                "_version_": 1729649684011548672
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1265066",
+                "date_pdate": [
+                    "1948-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "165",
+                "end_char_s": "176",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "bb72c546-574c-4f37-bff4-d92ac028ddb1",
+                "_version_": 1729649706548592640
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1265066",
+                "date_pdate": [
+                    "1948-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "165",
+                "end_char_s": "176",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "3f20ee61-cd75-4d59-8e69-ca3cc30359fb",
+                "_version_": 1729649706590535680
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1265066",
+                "date_pdate": [
+                    "1948-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "513",
+                "end_char_s": "524",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "867b7349-094d-4261-8c06-75be7783b492",
+                "_version_": 1729649706935517184
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1239114",
+                "date_pdate": [
+                    "1904-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "776",
+                "end_char_s": "787",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "35ba86cf-7bb3-4410-a868-ba66e4d32ec2",
+                "_version_": 1729649754044891136
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1239114",
+                "date_pdate": [
+                    "1904-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1131",
+                "end_char_s": "1142",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "414e33ba-5fdd-42d0-b908-405624ef013e",
+                "_version_": 1729649754073202688
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1239777",
+                "date_pdate": [
+                    "1910-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "375",
+                "end_char_s": "386",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "dfce9c7e-941a-4917-b6d8-33dc1d9aa5db",
+                "_version_": 1729649755571617792
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1239777",
+                "date_pdate": [
+                    "1910-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "926",
+                "end_char_s": "937",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c838b95a-81fb-4565-a613-6879bb3dd571",
+                "_version_": 1729649755686961152
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1239777",
+                "date_pdate": [
+                    "1910-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "498",
+                "end_char_s": "509",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "18689107-df41-432d-a74a-172466d83ea6",
+                "_version_": 1729649761623998464
+            },
+            {
+                "art_id_s": "llgc-id:1226390_llgc-id:1227127",
+                "date_pdate": [
+                    "1927-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1619",
+                "end_char_s": "1630",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c1b8339b-2d36-414b-8380-9e81beeecdaf",
+                "_version_": 1729649568731103232
+            },
+            {
+                "art_id_s": "llgc-id:1226390_llgc-id:1226656",
+                "date_pdate": [
+                    "1915-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "845",
+                "end_char_s": "856",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0f85132c-cece-41bd-852d-0ff5f1037cb6",
+                "_version_": 1729649620324188160
+            },
+            {
+                "art_id_s": "llgc-id:1226390_llgc-id:1226619",
+                "date_pdate": [
+                    "1914-08-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "215",
+                "end_char_s": "226",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "dfea38d0-27c0-40b4-8c0c-64e8029286eb",
+                "_version_": 1729649615450406912
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1240391",
+                "date_pdate": [
+                    "1915-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "610",
+                "end_char_s": "621",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "96458850-f759-4966-9a0b-3598c4ee8b05",
+                "_version_": 1729649665103626240
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1240100",
+                "date_pdate": [
+                    "1912-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2231",
+                "end_char_s": "2242",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "1d667254-eec8-4c8d-8a45-0602b80953db",
+                "_version_": 1729649630566678528
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1240100",
+                "date_pdate": [
+                    "1912-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "346",
+                "end_char_s": "357",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f9d33fdf-4b33-4461-974b-461cf430072d",
+                "_version_": 1729649627521613824
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1265339",
+                "date_pdate": [
+                    "1950-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "718",
+                "end_char_s": "729",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4f61fb88-570c-415a-b691-099fcf2d0f78",
+                "_version_": 1729649780928282624
+            },
+            {
+                "art_id_s": "llgc-id:4718179_llgc-id:4719962",
+                "date_pdate": [
+                    "1904-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "122",
+                "end_char_s": "133",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "efe2c355-cb15-4d6d-a1db-c895cdc1aa86",
+                "_version_": 1729642147406151680
+            },
+            {
+                "art_id_s": "llgc-id:4718179_llgc-id:4731619",
+                "date_pdate": [
+                    "1925-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "793",
+                "end_char_s": "804",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "819155b2-0840-4a0a-a5bb-9eeaface8597",
+                "_version_": 1729641921381400576
+            },
+            {
+                "art_id_s": "llgc-id:2368835_llgc-id:2369221",
+                "date_pdate": [
+                    "1909-11-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3456",
+                "end_char_s": "3467",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "87640397-01a6-47ea-8f0e-28f32368cd63",
+                "_version_": 1729641743073148928
+            },
+            {
+                "art_id_s": "llgc-id:2187889_llgc-id:2188256",
+                "date_pdate": [
+                    "1894-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "965",
+                "end_char_s": "976",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "cd22abb7-58a6-4f3c-96c7-676e3746e433",
+                "_version_": 1729639487718293504
+            },
+            {
+                "art_id_s": "llgc-id:2187889_llgc-id:2189134",
+                "date_pdate": [
+                    "1896-05-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "305",
+                "end_char_s": "316",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "3357614a-841d-4e13-b33c-9ef12b068ae4",
+                "_version_": 1729640187350220800
+            },
+            {
+                "art_id_s": "llgc-id:2187889_llgc-id:2189287",
+                "date_pdate": [
+                    "1896-08-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1329",
+                "end_char_s": "1340",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "e8ec1bd1-4ba6-4a10-96b4-09d94ab1d621",
+                "_version_": 1729640236531580928
+            },
+            {
+                "art_id_s": "llgc-id:2149098_llgc-id:2151085",
+                "date_pdate": [
+                    "1899-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1115",
+                "end_char_s": "1126",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f47244e3-ca37-435e-a737-e9c5f87bcf2a",
+                "_version_": 1729640338800246784
+            },
+            {
+                "art_id_s": "llgc-id:4718179_llgc-id:4752222",
+                "date_pdate": [
+                    "1997-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "608",
+                "end_char_s": "619",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b90cd5d1-5b26-4227-87f7-ed21759a33ad",
+                "_version_": 1729651106099757056
+            },
+            {
+                "art_id_s": "llgc-id:2919943_llgc-id:2989418",
+                "date_pdate": [
+                    "1846-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "387",
+                "end_char_s": "398",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "12762307-b1cc-4221-95bf-5cbc45da6a2d",
+                "_version_": 1729650790682853376
+            },
+            {
+                "art_id_s": "llgc-id:2919943_llgc-id:2989501",
+                "date_pdate": [
+                    "1846-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "563",
+                "end_char_s": "574",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "1ef5b951-fde1-4e28-87fb-7b6476653690",
+                "_version_": 1729650796107137024
+            },
+            {
+                "art_id_s": "llgc-id:2919943_llgc-id:2989501",
+                "date_pdate": [
+                    "1846-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "860",
+                "end_char_s": "871",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0d30fef7-9c8e-4e2a-b277-f589eefd41c8",
+                "_version_": 1729650796138594304
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1414831",
+                "date_pdate": [
+                    "1958-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2161",
+                "end_char_s": "2172",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "578df77a-e998-4654-bd50-74017be691d9",
+                "_version_": 1729651514226507776
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1414831",
+                "date_pdate": [
+                    "1958-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1240",
+                "end_char_s": "1251",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f0545b11-d4b9-4f09-9e29-a84dd39f72bf",
+                "_version_": 1729651514307248128
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1409425",
+                "date_pdate": [
+                    "1938-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2235",
+                "end_char_s": "2246",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4fb9e0b9-7737-457d-96fe-0fe9a4dfb3ba",
+                "_version_": 1729651455612157952
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1409425",
+                "date_pdate": [
+                    "1938-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1723",
+                "end_char_s": "1734",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "47c5dc61-d8e6-41aa-9b1a-b942d3eae991",
+                "_version_": 1729651461011275776
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1409425",
+                "date_pdate": [
+                    "1938-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "781",
+                "end_char_s": "792",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0e8c7a5d-05bb-4d91-ada4-b0de8d73fe35",
+                "_version_": 1729651461581701120
+            },
+            {
+                "art_id_s": "llgc-id:2919943_llgc-id:2995043",
+                "date_pdate": [
+                    "1861-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1362",
+                "end_char_s": "1373",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "60b82915-0fab-46c5-a2a0-ab7cfe1c39ab",
+                "_version_": 1729650015347933184
+            },
+            {
+                "art_id_s": "llgc-id:4718179_llgc-id:4732733",
+                "date_pdate": [
+                    "1927-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1804",
+                "end_char_s": "1815",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "bb2244fa-a042-46ef-92dd-a901bfec9848",
+                "_version_": 1729650557093675008
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1386938",
+                "date_pdate": [
+                    "1903-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "520",
+                "end_char_s": "531",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c6385c6e-3703-45d7-ad7e-1add2dd0dfdb",
+                "_version_": 1729653141231632384
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1386938",
+                "date_pdate": [
+                    "1903-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "231",
+                "end_char_s": "242",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "6d4c4462-d6a8-492c-bc0e-c00be8a3c58a",
+                "_version_": 1729653140827930624
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1386938",
+                "date_pdate": [
+                    "1903-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "471",
+                "end_char_s": "482",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0c5c1aab-278a-438a-b713-81e0ae8204c5",
+                "_version_": 1729653140835270656
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1408717",
+                "date_pdate": [
+                    "1937-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2141",
+                "end_char_s": "2152",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "22a976f2-0e1d-42b5-81be-6ab4016769e2",
+                "_version_": 1729653726545707008
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1408717",
+                "date_pdate": [
+                    "1937-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1080",
+                "end_char_s": "1091",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "76e4d49e-94e2-4965-87ce-55f7d31860f1",
+                "_version_": 1729653726886494208
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1408717",
+                "date_pdate": [
+                    "1937-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1493",
+                "end_char_s": "1504",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "47550d9a-3538-498b-b316-d23f265915a3",
+                "_version_": 1729653727021760512
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1408717",
+                "date_pdate": [
+                    "1937-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2358",
+                "end_char_s": "2369",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f872c806-9d25-4025-a6e5-3e98d366d789",
+                "_version_": 1729653727044829184
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1408717",
+                "date_pdate": [
+                    "1937-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1199",
+                "end_char_s": "1210",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "508683eb-49f1-4df6-b579-c88dc37147a8",
+                "_version_": 1729653727209455616
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1408717",
+                "date_pdate": [
+                    "1937-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "145",
+                "end_char_s": "156",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "26b3b0b7-2f7a-4a61-8c26-13c607399613",
+                "_version_": 1729653727448530944
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1408717",
+                "date_pdate": [
+                    "1937-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1480",
+                "end_char_s": "1491",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "ad62d4ff-0916-4e8b-8f22-330b7129095d",
+                "_version_": 1729653725251764224
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1408717",
+                "date_pdate": [
+                    "1937-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1837",
+                "end_char_s": "1848",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "a86ff5c2-249f-4d2e-9c3a-d9336488850f",
+                "_version_": 1729653725476159488
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1424716",
+                "date_pdate": [
+                    "1995-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1988",
+                "end_char_s": "1999",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0f70c027-eb59-4b3f-94ba-dd2803b976d7",
+                "_version_": 1729653772114722816
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1424716",
+                "date_pdate": [
+                    "1995-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2890",
+                "end_char_s": "2901",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "456e2b34-9739-46f2-a067-dfa7e3439927",
+                "_version_": 1729653772183928832
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1424716",
+                "date_pdate": [
+                    "1995-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "297",
+                "end_char_s": "308",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "bc11126d-babe-4a1e-ba8c-679662c8f672",
+                "_version_": 1729653772389449728
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1424937",
+                "date_pdate": [
+                    "1996-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2548",
+                "end_char_s": "2559",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "d5e5a73b-3347-49a2-854f-8932dfce0883",
+                "_version_": 1729653802538106880
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1424937",
+                "date_pdate": [
+                    "1996-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2596",
+                "end_char_s": "2607",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "d5dffb12-0359-43aa-9a3a-a947b6cbc854",
+                "_version_": 1729653802543349760
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1425845",
+                "date_pdate": [
+                    "2000-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2079",
+                "end_char_s": "2090",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "a31724ea-0f12-4329-b4b1-5f15e44b2467",
+                "_version_": 1729653864392556544
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1425626",
+                "date_pdate": [
+                    "1999-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2720",
+                "end_char_s": "2731",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "d3080f72-7a6a-49f3-a85c-ad9b34cc3b7c",
+                "_version_": 1729653876915699712
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1424716",
+                "date_pdate": [
+                    "1995-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1909",
+                "end_char_s": "1920",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0ba7889c-1e17-4cde-9b00-821667971eee",
+                "_version_": 1729653775214313472
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1416348",
+                "date_pdate": [
+                    "1964-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2192",
+                "end_char_s": "2203",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b57a019a-f2d9-4448-848c-d24c286bbfef",
+                "_version_": 1729654200821874688
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1415290",
+                "date_pdate": [
+                    "1960-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "614",
+                "end_char_s": "625",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "57f78eb1-ce0c-4644-8878-ee2296d160e7",
+                "_version_": 1729654232066293760
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1415290",
+                "date_pdate": [
+                    "1960-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "70",
+                "end_char_s": "81",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "e7f3b5e2-fde0-4dc3-b6d5-f1ecf8f01720",
+                "_version_": 1729654232084119552
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1415290",
+                "date_pdate": [
+                    "1960-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2673",
+                "end_char_s": "2684",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "42ce54d6-8918-4107-af04-96e152d972c8",
+                "_version_": 1729654232163811328
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1415290",
+                "date_pdate": [
+                    "1960-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2666",
+                "end_char_s": "2677",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "946ba000-1938-4c5c-b34b-df2547050fb1",
+                "_version_": 1729654232437489664
+            },
+            {
+                "art_id_s": "llgc-id:2919943_llgc-id:3007706",
+                "date_pdate": [
+                    "1889-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1147",
+                "end_char_s": "1158",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f1132df3-c89a-4cee-8658-ceef9d78a9bc",
+                "_version_": 1729654757416501248
+            },
+            {
+                "art_id_s": "llgc-id:2919943_llgc-id:2999188",
+                "date_pdate": [
+                    "1870-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1054",
+                "end_char_s": "1065",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "6790093e-1663-4181-8988-65c5411e1ed5",
+                "_version_": 1729654620681142272
+            },
+            {
+                "art_id_s": "llgc-id:2426646_llgc-id:2427694",
+                "date_pdate": [
+                    "1890-05-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2030",
+                "end_char_s": "2041",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "e02e939f-9e5d-43ba-830e-4cb861845603",
+                "_version_": 1729651875107569664
+            },
+            {
+                "art_id_s": "llgc-id:4718179_llgc-id:4748469",
+                "date_pdate": [
+                    "1982-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1015",
+                "end_char_s": "1026",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "2ebff768-6b93-441b-8689-0d5a8c50a691",
+                "_version_": 1729651977682419712
+            },
+            {
+                "art_id_s": "llgc-id:4718179_llgc-id:4741990",
+                "date_pdate": [
+                    "1955-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1572",
+                "end_char_s": "1583",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b6c88ff3-2a1c-4a56-8c41-91610eeeea64",
+                "_version_": 1729651856763781120
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1403194",
+                "date_pdate": [
+                    "1928-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1426",
+                "end_char_s": "1437",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "2dc97505-5785-41e9-ac2e-b2e125d03d5c",
+                "_version_": 1729652179389644800
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1404686",
+                "date_pdate": [
+                    "1930-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1852",
+                "end_char_s": "1863",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4c03acec-8122-46a5-af8a-36e0f1a39a35",
+                "_version_": 1729652190035836928
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1415437",
+                "date_pdate": [
+                    "1961-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "499",
+                "end_char_s": "510",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "459f8782-41b2-4f87-a35a-a12b7ea2b2db",
+                "_version_": 1729652227897819136
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1418494",
+                "date_pdate": [
+                    "1971-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "881",
+                "end_char_s": "892",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "1828a576-1b63-4831-9327-a7df1a46bd0a",
+                "_version_": 1729652373463236608
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1414430",
+                "date_pdate": [
+                    "1955-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "949",
+                "end_char_s": "960",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "050c4f2c-a22d-401d-a4cc-3c4e0fc6f09e",
+                "_version_": 1729652463619801088
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1417428",
+                "date_pdate": [
+                    "1967-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "906",
+                "end_char_s": "917",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "7531a706-52a3-46f5-854d-6ecdaaadf062",
+                "_version_": 1729652519820328960
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1417428",
+                "date_pdate": [
+                    "1967-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1",
+                "end_char_s": "12",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c38bd623-cb88-44d0-96bd-0af947b14fed",
+                "_version_": 1729652519872757760
+            },
+            {
+                "art_id_s": "llgc-id:1386666_llgc-id:1417428",
+                "date_pdate": [
+                    "1967-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "772",
+                "end_char_s": "783",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "3ca327d0-84e4-4368-af2b-b046e013f23a",
+                "_version_": 1729652519997538304
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1272386",
+                "date_pdate": [
+                    "2001-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "145",
+                "end_char_s": "156",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "e6223e9c-d3c0-4ca0-8f02-2253f5392f86",
+                "_version_": 1729657890126430208
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1271859",
+                "date_pdate": [
+                    "1998-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2452",
+                "end_char_s": "2463",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "58d34596-4c80-4ab9-9cdb-06efb6b6d7e5",
+                "_version_": 1729657899261624320
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1271859",
+                "date_pdate": [
+                    "1998-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2512",
+                "end_char_s": "2523",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "2845c8cc-5872-4082-9ce7-32a606ab8308",
+                "_version_": 1729657899268964352
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1271859",
+                "date_pdate": [
+                    "1998-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2579",
+                "end_char_s": "2590",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4aabb6c9-1740-45d0-bebe-1c0496536698",
+                "_version_": 1729657899276304384
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1271859",
+                "date_pdate": [
+                    "1998-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2669",
+                "end_char_s": "2680",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f2519d89-efb8-4f10-be9f-88a9e89574dc",
+                "_version_": 1729657899281547264
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1271859",
+                "date_pdate": [
+                    "1998-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1980",
+                "end_char_s": "1991",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "22a7ee42-8216-410b-b3bd-f75e98733d0a",
+                "_version_": 1729657899359141888
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1271859",
+                "date_pdate": [
+                    "1998-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "9",
+                "end_char_s": "20",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "5c57ed5b-f4b6-490d-8e50-f63bf2159e99",
+                "_version_": 1729657899529011200
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1272665",
+                "date_pdate": [
+                    "2002-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1143",
+                "end_char_s": "1154",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "67035bc9-bb2d-45bb-9cbf-6c30470470e7",
+                "_version_": 1729657922733998080
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1241590",
+                "date_pdate": [
+                    "1923-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1734",
+                "end_char_s": "1745",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b2a2f18d-896b-4d24-bf9e-c6a2075285be",
+                "_version_": 1729657996228689920
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1266673",
+                "date_pdate": [
+                    "1961-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "415",
+                "end_char_s": "426",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f7342e23-fe38-44e5-a7be-c22806b6627e",
+                "_version_": 1729657972097810432
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1266673",
+                "date_pdate": [
+                    "1961-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2696",
+                "end_char_s": "2707",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "e8113e82-11cd-4ded-961e-bc5d5113a40a",
+                "_version_": 1729657972164919296
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1267322",
+                "date_pdate": [
+                    "1967-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "579",
+                "end_char_s": "590",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b1d3c0f7-19f4-4a35-a8a3-0847b4af416c",
+                "_version_": 1729658088556855296
+            },
+            {
+                "art_id_s": "llgc-id:1326508_llgc-id:1326676",
+                "date_pdate": [
+                    "1975-05-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1026",
+                "end_char_s": "1037",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "09c5e518-a0e4-4a2c-b7cc-b3f5a9027031",
+                "_version_": 1729658161394089984
+            },
+            {
+                "art_id_s": "llgc-id:1326508_llgc-id:1326509",
+                "date_pdate": [
+                    "1972-05-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "640",
+                "end_char_s": "651",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "dbbd8f0d-4e98-417e-bcaf-e2174f83363d",
+                "_version_": 1729658164822933504
+            },
+            {
+                "art_id_s": "llgc-id:1264487_llgc-id:1267535",
+                "date_pdate": [
+                    "1969-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1318",
+                "end_char_s": "1329",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "e0b703de-afee-47ac-9317-bce65d7538e2",
+                "_version_": 1729658078403493888
+            },
+            {
+                "art_id_s": "llgc-id:1326508_llgc-id:1328679",
+                "date_pdate": [
+                    "1994-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1562",
+                "end_char_s": "1573",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "2421a5c1-f084-4498-a140-19ff8aaff44a",
+                "_version_": 1729658104937709568
+            },
+            {
+                "art_id_s": "llgc-id:1326508_llgc-id:1328985",
+                "date_pdate": [
+                    "1996-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "583",
+                "end_char_s": "594",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0f756117-eae5-4af5-9bfa-90db1041dc30",
+                "_version_": 1729658108981018624
+            },
+            {
+                "art_id_s": "llgc-id:1326508_llgc-id:1328985",
+                "date_pdate": [
+                    "1996-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2228",
+                "end_char_s": "2239",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b2dce201-d333-4a48-bb81-3deff2890b19",
+                "_version_": 1729658109025058816
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1078288",
+                "date_pdate": [
+                    "1982-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "430",
+                "end_char_s": "441",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "97e63388-b960-4f1f-bfb5-b9f0a932d9bd",
+                "_version_": 1729656362806280192
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1078288",
+                "date_pdate": [
+                    "1982-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2076",
+                "end_char_s": "2087",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c6925037-9943-4800-b98f-cb640756fa9b",
+                "_version_": 1729656362966712320
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1078288",
+                "date_pdate": [
+                    "1982-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2184",
+                "end_char_s": "2195",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "d213e359-52b1-4833-977a-c6b656763859",
+                "_version_": 1729656362969858048
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1078288",
+                "date_pdate": [
+                    "1982-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1070",
+                "end_char_s": "1081",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "74472073-72f4-4c1f-a4d9-bfc555109f6b",
+                "_version_": 1729656363012849664
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1084601",
+                "date_pdate": [
+                    "2000-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1788",
+                "end_char_s": "1799",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "7b461a9c-b435-4a9c-b1b8-b8eba6dff4a9",
+                "_version_": 1729656046561001472
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1082250",
+                "date_pdate": [
+                    "1994-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2148",
+                "end_char_s": "2159",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "aa079ae6-73b1-42d2-a510-3122117da085",
+                "_version_": 1729656104295596032
+            },
+            {
+                "art_id_s": "llgc-id:2867877_llgc-id:2867880",
+                "date_pdate": [
+                    "1818-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1512",
+                "end_char_s": "1523",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "2196ef8a-546d-4b1e-9991-b8d033565dca",
+                "_version_": 1729655722448257024
+            },
+            {
+                "art_id_s": "llgc-id:2867877_llgc-id:2867880",
+                "date_pdate": [
+                    "1818-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1545",
+                "end_char_s": "1556",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "69937e8f-a569-4229-becf-50a7100e63b4",
+                "_version_": 1729655722452451328
+            },
+            {
+                "art_id_s": "llgc-id:1093205_llgc-id:1098184",
+                "date_pdate": [
+                    "1994-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1127",
+                "end_char_s": "1138",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "e937d379-2072-477e-bb19-2bc3984f28c1",
+                "_version_": 1729655916225101824
+            },
+            {
+                "art_id_s": "llgc-id:1041698_llgc-id:1042023",
+                "date_pdate": [
+                    "1974-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1175",
+                "end_char_s": "1186",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "68cb189b-55c4-46f5-a382-2d263ab32e25",
+                "_version_": 1729655979752030208
+            },
+            {
+                "art_id_s": "llgc-id:4718179_llgc-id:4743652",
+                "date_pdate": [
+                    "1961-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "171",
+                "end_char_s": "182",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "cf3b3589-73b7-4b6c-b3bc-2da77e4206e3",
+                "_version_": 1729655478761291776
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1079586",
+                "date_pdate": [
+                    "1986-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "656",
+                "end_char_s": "667",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "95ca4c21-9598-488f-aded-f081ddccf06d",
+                "_version_": 1729656838989807616
+            },
+            {
+                "art_id_s": "llgc-id:1169834_llgc-id:1173523",
+                "date_pdate": [
+                    "1989-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1841",
+                "end_char_s": "1852",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "bfcbab99-e2d2-4376-aa1f-a25c8c2c1e85",
+                "_version_": 1729656558920400896
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1079586",
+                "date_pdate": [
+                    "1986-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1667",
+                "end_char_s": "1678",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "34926030-86ec-418f-9424-c39bfcb05eee",
+                "_version_": 1729656839057965056
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1079586",
+                "date_pdate": [
+                    "1986-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1769",
+                "end_char_s": "1780",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "515f2434-d495-490c-823c-5aa395157596",
+                "_version_": 1729656839062159360
+            },
+            {
+                "art_id_s": "llgc-id:2187889_llgc-id:2188674",
+                "date_pdate": [
+                    "1895-08-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2119",
+                "end_char_s": "2130",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "e5a1cb1d-9a9d-49b3-93b0-5865c36f3e4c",
+                "_version_": 1729658859792891904
+            },
+            {
+                "art_id_s": "llgc-id:2393771_llgc-id:2407704",
+                "date_pdate": [
+                    "1910-03-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2210",
+                "end_char_s": "2221",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0d605cc9-ae7a-4ac9-99cb-ae092502e0bc",
+                "_version_": 1729658907902607360
+            },
+            {
+                "art_id_s": "llgc-id:2393771_llgc-id:2407426",
+                "date_pdate": [
+                    "1906-06-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "866",
+                "end_char_s": "877",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "84381a0f-5df2-407d-b970-c53102ebb026",
+                "_version_": 1729658901018705920
+            },
+            {
+                "art_id_s": "llgc-id:2393771_llgc-id:2407426",
+                "date_pdate": [
+                    "1906-06-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "964",
+                "end_char_s": "975",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "3f950933-698e-476b-83db-395bf09c5a21",
+                "_version_": 1729658901151875072
+            },
+            {
+                "art_id_s": "llgc-id:2365405_llgc-id:2417231",
+                "date_pdate": [
+                    "1907-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "699",
+                "end_char_s": "710",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "70f82f57-2cd7-4675-aaf9-1dfdfa3ecca0",
+                "_version_": 1729659065086246912
+            },
+            {
+                "art_id_s": "llgc-id:2187889_llgc-id:2188674",
+                "date_pdate": [
+                    "1895-08-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2330",
+                "end_char_s": "2341",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "72614d2b-9aec-48e9-adc4-b74c3ec74be6",
+                "_version_": 1729658856099807232
+            },
+            {
+                "art_id_s": "llgc-id:2378266_llgc-id:2379233",
+                "date_pdate": [
+                    "1908-03-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "90",
+                "end_char_s": "101",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "667f515b-3540-42d0-8986-c4c05b95131b",
+                "_version_": 1729658786160836608
+            },
+            {
+                "art_id_s": "llgc-id:1093205_llgc-id:1097087",
+                "date_pdate": [
+                    "1984-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "23",
+                "end_char_s": "34",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b659996f-5d60-40e4-a562-5f6586b6cc01",
+                "_version_": 1729657264479928320
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1073092",
+                "date_pdate": [
+                    "1960-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "800",
+                "end_char_s": "811",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f3e4dcc9-d481-4a04-b3f7-a5c9a659d565",
+                "_version_": 1729657007103803392
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1073092",
+                "date_pdate": [
+                    "1960-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1962",
+                "end_char_s": "1973",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "845a3b85-6459-45e2-9cab-7700f5fb7b5b",
+                "_version_": 1729657001863020544
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1073092",
+                "date_pdate": [
+                    "1960-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2339",
+                "end_char_s": "2350",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c21ed649-c5ea-46de-a426-a8fb7661c5cf",
+                "_version_": 1729657001931177984
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1318878",
+                "date_pdate": [
+                    "1933-03-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2370",
+                "end_char_s": "2381",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "1d0b463c-7290-45f2-a62c-756561797f8b",
+                "_version_": 1729658475767660544
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1319035",
+                "date_pdate": [
+                    "1933-08-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3794",
+                "end_char_s": "3805",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "5a787a6c-1319-4cbb-bfe5-dfd8190b198d",
+                "_version_": 1729658479180775424
+            },
+            {
+                "art_id_s": "llgc-id:2458094_llgc-id:2458318",
+                "date_pdate": [
+                    "1900-03-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1188",
+                "end_char_s": "1199",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "5be1d167-a93d-49a6-9bf2-b6454d990765",
+                "_version_": 1729658662626000896
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1318520",
+                "date_pdate": [
+                    "1932-03-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "31",
+                "end_char_s": "42",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "172c99a2-a332-4931-bb79-41f9c7ce3368",
+                "_version_": 1729658498071920640
+            },
+            {
+                "art_id_s": "llgc-id:1311205_llgc-id:1318607",
+                "date_pdate": [
+                    "1932-06-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2762",
+                "end_char_s": "2773",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4f6d5f43-a08e-4210-9b63-fc4959c49e96",
+                "_version_": 1729658488516247552
+            },
+            {
+                "art_id_s": "llgc-id:2458094_llgc-id:2508358",
+                "date_pdate": [
+                    "1905-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2030",
+                "end_char_s": "2041",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "ba3144f7-ae8a-4384-b3e1-09ed05578caa",
+                "_version_": 1729658608227975168
+            },
+            {
+                "art_id_s": "llgc-id:1337678_llgc-id:1338761",
+                "date_pdate": [
+                    "1987-09-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1956",
+                "end_char_s": "1967",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f35a84d6-964e-4d40-9b8f-6b86de90ba30",
+                "_version_": 1729658520776736768
+            },
+            {
+                "art_id_s": "llgc-id:2458094_llgc-id:2458252",
+                "date_pdate": [
+                    "1899-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1508",
+                "end_char_s": "1519",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "cc41818c-e307-4ada-8b9a-a29f8cccbeb7",
+                "_version_": 1729659273188737024
+            },
+            {
+                "art_id_s": "llgc-id:2458094_llgc-id:2458161",
+                "date_pdate": [
+                    "1897-09-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1110",
+                "end_char_s": "1121",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "2204fd8b-3d29-40b5-81e9-b0268143f5bc",
+                "_version_": 1729659226889912320
+            },
+            {
+                "art_id_s": "llgc-id:2458094_llgc-id:2508207",
+                "date_pdate": [
+                    "1902-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2113",
+                "end_char_s": "2124",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4312ee4d-8b73-4681-ade4-df161d843ff2",
+                "_version_": 1729659278021623808
+            },
+            {
+                "art_id_s": "llgc-id:2474221_llgc-id:2475071",
+                "date_pdate": [
+                    "1907-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1822",
+                "end_char_s": "1833",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c989875e-bf4f-4bae-8173-dc17f332ac97",
+                "_version_": 1729659308821446656
+            },
+            {
+                "art_id_s": "llgc-id:2474221_llgc-id:2475082",
+                "date_pdate": [
+                    "1908-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "4073",
+                "end_char_s": "4084",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "ef46ff4c-8778-4ef3-9fd4-6e47b06d4a45",
+                "_version_": 1729659307696324608
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1240706",
+                "date_pdate": [
+                    "1917-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1653",
+                "end_char_s": "1664",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "a1c4c358-5bf8-4e29-a32e-12e74ce68952",
+                "_version_": 1729657861293735936
+            },
+            {
+                "art_id_s": "llgc-id:1238716_llgc-id:1240706",
+                "date_pdate": [
+                    "1917-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "849",
+                "end_char_s": "860",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "16d9c7c6-6acf-47e6-a851-b73f4d9b7c27",
+                "_version_": 1729657861670174720
+            },
+            {
+                "art_id_s": "llgc-id:2442431_llgc-id:2442812",
+                "date_pdate": [
+                    "1909-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "5839",
+                "end_char_s": "5850",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "ff9f9c8a-5695-416d-8c6e-25c647098fa7",
+                "_version_": 1729657287688060928
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1074521",
+                "date_pdate": [
+                    "1968-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1777",
+                "end_char_s": "1788",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c2ec3122-5057-484c-a7ac-dda6b1191218",
+                "_version_": 1729657511097663488
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1074521",
+                "date_pdate": [
+                    "1968-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "753",
+                "end_char_s": "764",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "49833a6a-0fa7-44f8-bb0c-f198f0cfc39a",
+                "_version_": 1729657511809646592
+            },
+            {
+                "art_id_s": "llgc-id:1164385_llgc-id:1165394",
+                "date_pdate": [
+                    "2001-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1515",
+                "end_char_s": "1526",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "9df49d27-0001-45b0-82b0-fed4a9c773c5",
+                "_version_": 1729657714936643584
+            },
+            {
+                "art_id_s": "llgc-id:2726228_llgc-id:2726341",
+                "date_pdate": [
+                    "1900-06-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2121",
+                "end_char_s": "2132",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "29c481b3-0246-46d3-bf3e-a7f0d54c6d9c",
+                "_version_": 1729659483091632128
+            },
+            {
+                "art_id_s": "llgc-id:2726228_llgc-id:2726249",
+                "date_pdate": [
+                    "1898-09-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2855",
+                "end_char_s": "2866",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "d1c04bb1-6fb7-498b-99a7-1305a934c7ad",
+                "_version_": 1729659552465420288
+            },
+            {
+                "art_id_s": "llgc-id:2726228_llgc-id:2726271",
+                "date_pdate": [
+                    "1899-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "213",
+                "end_char_s": "224",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "2e1353dd-224f-4fa5-a265-f3fe812a5e7b",
+                "_version_": 1729659554884485120
+            },
+            {
+                "art_id_s": "llgc-id:2726228_llgc-id:2726296",
+                "date_pdate": [
+                    "1899-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "725",
+                "end_char_s": "736",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "77b3a619-9713-4993-afff-f961975d4858",
+                "_version_": 1729659557801623552
+            },
+            {
+                "art_id_s": "llgc-id:2726228_llgc-id:2726244",
+                "date_pdate": [
+                    "1898-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2290",
+                "end_char_s": "2301",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "2c8d9573-fa9c-4b39-b913-3a3a594dcf8f",
+                "_version_": 1729659551516459008
+            },
+            {
+                "art_id_s": "llgc-id:2726228_llgc-id:2726301",
+                "date_pdate": [
+                    "1899-09-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3327",
+                "end_char_s": "3338",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "6fb64fce-cc6e-4892-a65e-7eaa3e801828",
+                "_version_": 1729659558875365376
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1074978",
+                "date_pdate": [
+                    "1970-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2272",
+                "end_char_s": "2283",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "7d42004d-3cb9-48c9-abec-0fe664eef5c1",
+                "_version_": 1729657520866197504
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1073591",
+                "date_pdate": [
+                    "1964-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1249",
+                "end_char_s": "1260",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f57bd776-e633-40e5-a36a-c754590078ea",
+                "_version_": 1729657547030265856
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1073591",
+                "date_pdate": [
+                    "1964-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1200",
+                "end_char_s": "1211",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "bc736338-f917-4088-99e1-6615db89a1e0",
+                "_version_": 1729657546126393344
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1074978",
+                "date_pdate": [
+                    "1970-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "489",
+                "end_char_s": "500",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c467962f-0a81-4731-85bd-28a2dff1e7e8",
+                "_version_": 1729657529901776896
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1074978",
+                "date_pdate": [
+                    "1970-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "576",
+                "end_char_s": "587",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "6c4b87f2-9357-4300-a49a-a3d4a18e76b3",
+                "_version_": 1729657529914359808
+            },
+            {
+                "art_id_s": "llgc-id:1073091_llgc-id:1074521",
+                "date_pdate": [
+                    "1968-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1342",
+                "end_char_s": "1353",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "eed3c737-835e-436a-8f49-fbbb1495f538",
+                "_version_": 1729657501089005568
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2099368",
+                "date_pdate": [
+                    "1899-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "4906",
+                "end_char_s": "4917",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b0760d6c-91ff-4a9b-9dbb-02b4a6ccd80c",
+                "_version_": 1729661054967873536
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2098423",
+                "date_pdate": [
+                    "1896-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2883",
+                "end_char_s": "2894",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "84e4cd61-73bf-4df4-8e9c-38d4817e184c",
+                "_version_": 1729661227666243584
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2843985",
+                "date_pdate": [
+                    "1902-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1473",
+                "end_char_s": "1484",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "75723454-5550-4534-8401-d8cd2bdd41cb",
+                "_version_": 1729660731359494144
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2099550",
+                "date_pdate": [
+                    "1899-08-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1093",
+                "end_char_s": "1104",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b1d343e4-b271-4d4d-8d02-ab9d86379d01",
+                "_version_": 1729661113711198208
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2098365",
+                "date_pdate": [
+                    "1895-11-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2969",
+                "end_char_s": "2980",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "53b157f2-e60e-4ba8-a88c-b0442ac19c98",
+                "_version_": 1729661212878176256
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2098365",
+                "date_pdate": [
+                    "1895-11-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "806",
+                "end_char_s": "817",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "ec953369-7414-48d9-9db8-ec41fdf8391d",
+                "_version_": 1729661213776805888
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2098365",
+                "date_pdate": [
+                    "1895-11-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1597",
+                "end_char_s": "1608",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "ababc123-e390-4c30-80bf-c56f4ac0f6cb",
+                "_version_": 1729661213890052096
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2098784",
+                "date_pdate": [
+                    "1897-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1453",
+                "end_char_s": "1464",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "d3c63cee-495d-4976-aded-e09195de2c2e",
+                "_version_": 1729661206332964864
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2098488",
+                "date_pdate": [
+                    "1896-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2929",
+                "end_char_s": "2940",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "95c60ee3-2846-446e-a5f3-f8b87d7aacc7",
+                "_version_": 1729661166130561024
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2098365",
+                "date_pdate": [
+                    "1895-11-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2595",
+                "end_char_s": "2606",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "6335da77-7f2e-47fb-9be9-316317286d6f",
+                "_version_": 1729661213926752256
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2098365",
+                "date_pdate": [
+                    "1895-11-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3429",
+                "end_char_s": "3440",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "3e31467e-cb98-4c81-9a4a-5b43d9e778a4",
+                "_version_": 1729661213944578048
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2098365",
+                "date_pdate": [
+                    "1895-11-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "4561",
+                "end_char_s": "4572",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "30913577-7ef2-49ec-bfcf-2b4295907478",
+                "_version_": 1729661213950869504
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2844417",
+                "date_pdate": [
+                    "1903-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "4554",
+                "end_char_s": "4565",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "a633d37f-ffc7-43c6-8fdc-4a183c16ff28",
+                "_version_": 1729660689048403968
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2099905",
+                "date_pdate": [
+                    "1900-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "859",
+                "end_char_s": "870",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4e540d3e-943c-44cc-a3ef-9e427759ce87",
+                "_version_": 1729660686052622336
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2092990",
+                "date_pdate": [
+                    "1872-06-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "7145",
+                "end_char_s": "7156",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "a5fe43f8-2765-4d61-9aad-1843cb736137",
+                "_version_": 1729660560022175744
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2097551",
+                "date_pdate": [
+                    "1891-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "747",
+                "end_char_s": "758",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4d3d820d-23c6-43bd-8114-bb7f2ea22220",
+                "_version_": 1729660652525453312
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2843728",
+                "date_pdate": [
+                    "1901-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "5692",
+                "end_char_s": "5703",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "85f16a20-4f98-49b2-bf69-5ca1972455fc",
+                "_version_": 1729660757837086720
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2844752",
+                "date_pdate": [
+                    "1904-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2827",
+                "end_char_s": "2838",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "44b8407b-8acc-4da5-905e-7fc9891b3230",
+                "_version_": 1729660926001414144
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2844417",
+                "date_pdate": [
+                    "1903-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1035",
+                "end_char_s": "1046",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "9167c14b-6699-4b46-add7-af866f6fdbf0",
+                "_version_": 1729660698141655040
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2844149",
+                "date_pdate": [
+                    "1902-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2121",
+                "end_char_s": "2132",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "cadba99e-6fad-42b7-b289-a85bfc7335c7",
+                "_version_": 1729660745237397504
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2844149",
+                "date_pdate": [
+                    "1902-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3462",
+                "end_char_s": "3473",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "7dc9bae5-6189-4f62-8559-49bad5151f5c",
+                "_version_": 1729660745261514752
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2844231",
+                "date_pdate": [
+                    "1902-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3937",
+                "end_char_s": "3948",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "48a00465-ca80-4654-9725-4717bd20d247",
+                "_version_": 1729660710442500096
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2844231",
+                "date_pdate": [
+                    "1902-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "4089",
+                "end_char_s": "4100",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "0cf809b5-28a5-4aa8-ae9b-7049a9db44c0",
+                "_version_": 1729660703743148032
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:4623591",
+                "date_pdate": [
+                    "1905-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2040",
+                "end_char_s": "2051",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "14b6b8fc-8f2a-41dc-bf06-9fa5dd41d5bf",
+                "_version_": 1729660934158286848
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2094687",
+                "date_pdate": [
+                    "1881-09-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1937",
+                "end_char_s": "1948",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b507c9cb-764e-4232-8f69-18bd5bf8ba5f",
+                "_version_": 1729661767831781376
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2094700",
+                "date_pdate": [
+                    "1881-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3400",
+                "end_char_s": "3411",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b633c0ce-fac3-4602-b4a2-dff590a4ef8f",
+                "_version_": 1729661445230034944
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2094700",
+                "date_pdate": [
+                    "1881-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3505",
+                "end_char_s": "3516",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "9c870c5d-3c83-438d-8a23-fe813394f9c4",
+                "_version_": 1729661445233180672
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2094360",
+                "date_pdate": [
+                    "1880-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "930",
+                "end_char_s": "941",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "97d1d722-ae59-4824-9d97-8d6605dcdd5c",
+                "_version_": 1729661719399104512
+            },
+            {
+                "art_id_s": "llgc-id:2028163_llgc-id:2028200",
+                "date_pdate": [
+                    "1897-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1363",
+                "end_char_s": "1374",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "029b04d3-9205-4fb2-bad3-1bf65b52759e",
+                "_version_": 1729662748152823808
+            },
+            {
+                "art_id_s": "llgc-id:2037434_llgc-id:2040145",
+                "date_pdate": [
+                    "1902-09-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1854",
+                "end_char_s": "1865",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "d8cdc718-b42a-4080-b746-083a104b3f9c",
+                "_version_": 1729662137873203200
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2095975",
+                "date_pdate": [
+                    "1887-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "5632",
+                "end_char_s": "5643",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f2437691-50d6-4028-8b5e-85ab464f8603",
+                "_version_": 1729661879918264320
+            },
+            {
+                "art_id_s": "llgc-id:2043441_llgc-id:2044038",
+                "date_pdate": [
+                    "1890-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "912",
+                "end_char_s": "923",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "7f84aee5-7d35-446d-b6e3-75e3c0163cbb",
+                "_version_": 1729662150578798592
+            },
+            {
+                "art_id_s": "llgc-id:2037434_llgc-id:2039581",
+                "date_pdate": [
+                    "1901-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2649",
+                "end_char_s": "2660",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "fbe7e2ee-eca5-4cc8-8720-020a33c3fc30",
+                "_version_": 1729662131412926464
+            },
+            {
+                "art_id_s": "llgc-id:2037434_llgc-id:2039581",
+                "date_pdate": [
+                    "1901-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2817",
+                "end_char_s": "2828",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4f792052-e09d-4aa4-8ec1-7509dba5efa4",
+                "_version_": 1729662131430752256
+            },
+            {
+                "art_id_s": "llgc-id:2037434_llgc-id:2039812",
+                "date_pdate": [
+                    "1901-09-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1231",
+                "end_char_s": "1242",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "59ce7e11-9321-4616-8c2f-737954a7add4",
+                "_version_": 1729662253933789184
+            },
+            {
+                "art_id_s": "llgc-id:2037434_llgc-id:2040145",
+                "date_pdate": [
+                    "1902-09-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "4101",
+                "end_char_s": "4112",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "9583a880-5271-432c-858c-5b715c4e5a0f",
+                "_version_": 1729662209397620736
+            },
+            {
+                "art_id_s": "llgc-id:2037434_llgc-id:2039127",
+                "date_pdate": [
+                    "1899-09-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "177",
+                "end_char_s": "188",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "a06f2a83-7488-4817-9e5b-efed09cda382",
+                "_version_": 1729662249333686272
+            },
+            {
+                "art_id_s": "llgc-id:2028671_llgc-id:2028719",
+                "date_pdate": [
+                    "1878-03-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "5137",
+                "end_char_s": "5148",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c96bc764-315d-4425-8342-c4dd500f32ee",
+                "_version_": 1729662878672224256
+            },
+            {
+                "art_id_s": "llgc-id:2070008_llgc-id:2071072",
+                "date_pdate": [
+                    "1831-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2361",
+                "end_char_s": "2372",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "39a6c6af-0b15-46ca-bce6-fd5440b9f34a",
+                "_version_": 1729663021787119616
+            },
+            {
+                "art_id_s": "llgc-id:2070008_llgc-id:2071072",
+                "date_pdate": [
+                    "1831-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2683",
+                "end_char_s": "2694",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "16fb8262-6460-49f0-9061-2ce52a45429d",
+                "_version_": 1729663021812285440
+            },
+            {
+                "art_id_s": "llgc-id:2045456_llgc-id:2054200",
+                "date_pdate": [
+                    "1899-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2395",
+                "end_char_s": "2406",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "d86a142b-3ce4-48a9-ae12-234a768e0341",
+                "_version_": 1729663078051610624
+            },
+            {
+                "art_id_s": "llgc-id:2111106_llgc-id:2111116",
+                "date_pdate": [
+                    "1887-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3249",
+                "end_char_s": "3260",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4a40d20e-1db0-498f-b642-1f5f7b56f2ca",
+                "_version_": 1729662646514352128
+            },
+            {
+                "art_id_s": "llgc-id:2117935_llgc-id:2118043",
+                "date_pdate": [
+                    "1859-03-26T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "5908",
+                "end_char_s": "5919",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "db085978-e1e9-4682-a2e6-4ae509aedfbd",
+                "_version_": 1729662641985552384
+            },
+            {
+                "art_id_s": "llgc-id:2045456_llgc-id:2046706",
+                "date_pdate": [
+                    "1882-05-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1322",
+                "end_char_s": "1333",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "ec4e5e20-cc2d-44c6-9819-3e195c55d2fc",
+                "_version_": 1729662473988997120
+            },
+            {
+                "art_id_s": "llgc-id:2117935_llgc-id:2118009",
+                "date_pdate": [
+                    "1859-02-26T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2976",
+                "end_char_s": "2987",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "76fa440f-2eb7-4987-b170-a255866082d6",
+                "_version_": 1729662685695442944
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093566",
+                "date_pdate": [
+                    "1875-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2747",
+                "end_char_s": "2758",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "f6649386-4dcf-433c-a224-6ba4fb4850e0",
+                "_version_": 1729660555380129792
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093111",
+                "date_pdate": [
+                    "1873-06-04T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1536",
+                "end_char_s": "1547",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "334128f7-516a-475c-9844-3a0ad8430b06",
+                "_version_": 1729660545979645952
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093111",
+                "date_pdate": [
+                    "1873-06-04T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2418",
+                "end_char_s": "2429",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "1b80278e-daa3-48aa-82a8-e0bbe5e5dcce",
+                "_version_": 1729660545999568896
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093111",
+                "date_pdate": [
+                    "1873-06-04T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3575",
+                "end_char_s": "3586",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "b86e7087-d07c-4c1d-b0e7-ab28468c6d5d",
+                "_version_": 1729660546017394688
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093111",
+                "date_pdate": [
+                    "1873-06-04T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "4073",
+                "end_char_s": "4084",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "4db02805-aee5-4229-96d7-96a5d01c9967",
+                "_version_": 1729660546027880448
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093111",
+                "date_pdate": [
+                    "1873-06-04T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "4363",
+                "end_char_s": "4374",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "a4717dc3-5f1d-4f30-aacc-098ff96eb151",
+                "_version_": 1729660546038366208
+            },
+            {
+                "art_id_s": "llgc-id:2315156_llgc-id:2315327",
+                "date_pdate": [
+                    "1884-06-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1107",
+                "end_char_s": "1118",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "2db5d015-c834-4cb0-b9d5-58620699497c",
+                "_version_": 1729660106599038976
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093501",
+                "date_pdate": [
+                    "1875-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3750",
+                "end_char_s": "3761",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "942648f9-b559-4993-bcc2-c89392802990",
+                "_version_": 1729660515979886592
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093501",
+                "date_pdate": [
+                    "1875-07-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "4077",
+                "end_char_s": "4088",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "d4059e17-2b5f-4e52-a7e5-e10ecfcd2593",
+                "_version_": 1729660516012392448
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093121",
+                "date_pdate": [
+                    "1873-07-02T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1532",
+                "end_char_s": "1543",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "e5bb984a-7f50-44cb-ba65-43aec3930608",
+                "_version_": 1729660503096033280
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093174",
+                "date_pdate": [
+                    "1873-11-05T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "5151",
+                "end_char_s": "5162",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "28e5a651-0223-4547-9ac6-3f5e1244bdab",
+                "_version_": 1729660505464766464
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093121",
+                "date_pdate": [
+                    "1873-07-02T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "4827",
+                "end_char_s": "4838",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "14179452-a5df-47ce-9189-b5f352f4bb05",
+                "_version_": 1729660501744418816
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093203",
+                "date_pdate": [
+                    "1874-01-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "696",
+                "end_char_s": "707",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "a9c8fffe-b182-4b46-9b0d-1bfe66000b72",
+                "_version_": 1729660506998833152
+            },
+            {
+                "art_id_s": "llgc-id:2070008_llgc-id:2072032",
+                "date_pdate": [
+                    "1832-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1208",
+                "end_char_s": "1219",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "43b06203-e744-4973-979e-9b8d120d544a",
+                "_version_": 1729660375819878400
+            },
+            {
+                "art_id_s": "llgc-id:2070008_llgc-id:2070666",
+                "date_pdate": [
+                    "1830-04-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1511",
+                "end_char_s": "1522",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "e90a7201-7757-4767-a867-5206437f05b4",
+                "_version_": 1729660388091363328
+            },
+            {
+                "art_id_s": "llgc-id:2092910_llgc-id:2093726",
+                "date_pdate": [
+                    "1876-10-01T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3786",
+                "end_char_s": "3797",
+                "qid_s": "Q179374",
+                "art_type_s": "journal",
+                "id": "c1670e5c-4d42-450c-a83c-e5792e498fa0",
+                "_version_": 1729660490546675712
+            },
+            {
+                "art_id_s": "3346682-modsarticle111-3346690-1",
+                "date_pdate": [
+                    "1903-03-06T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "6889",
+                "end_char_s": "6900",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "506d6c9d-47a9-4d79-b5ed-2f55e3aade8d",
+                "_version_": 1729724128950222848
+            },
+            {
+                "art_id_s": "3313807-modsarticle42-3313815-1",
+                "date_pdate": [
+                    "1894-01-05T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "364",
+                "end_char_s": "375",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "2f6e0772-2e3c-4bac-9039-617baf8e2181",
+                "_version_": 1729719013535121408
+            },
+            {
+                "art_id_s": "3309938-modsarticle1-3309939-1",
+                "date_pdate": [
+                    "1880-08-13T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "24086",
+                "end_char_s": "24097",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "2c1b5e8c-d6ae-440b-9138-6dd261fdb53d",
+                "_version_": 1729720584674213888
+            },
+            {
+                "art_id_s": "3314581-modsarticle28-3314586-1",
+                "date_pdate": [
+                    "1895-06-07T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "5573",
+                "end_char_s": "5584",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "2ee296fc-5797-4f2b-a80c-2127b1a5564c",
+                "_version_": 1729720739784818688
+            },
+            {
+                "art_id_s": "3310973-modsarticle41-3310977-1",
+                "date_pdate": [
+                    "1882-06-30T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3277",
+                "end_char_s": "3288",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "4153481b-582b-404c-9027-be0993d69ffa",
+                "_version_": 1729718205239263232
+            },
+            {
+                "art_id_s": "3311192-modsarticle31-3311198-1",
+                "date_pdate": [
+                    "1882-11-17T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2705",
+                "end_char_s": "2716",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "79b409cb-a7c8-40b1-b821-02e8d680b002",
+                "_version_": 1729720096645971968
+            },
+            {
+                "art_id_s": "3313846-modsarticle59-3313854-1",
+                "date_pdate": [
+                    "1894-02-02T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "5172",
+                "end_char_s": "5183",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "fd6077bc-29d1-4011-8aa5-205396a0ba51",
+                "_version_": 1729720002744942592
+            },
+            {
+                "art_id_s": "3314543-modsarticle4-3314545-1",
+                "date_pdate": [
+                    "1895-05-17T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "6702",
+                "end_char_s": "6713",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "a2778e12-be74-43bf-afe1-eb6ef71996c1",
+                "_version_": 1729720025667862528
+            },
+            {
+                "art_id_s": "3305867-modsarticle36-3305870-1",
+                "date_pdate": [
+                    "1869-04-03T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1331",
+                "end_char_s": "1342",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "65d259dd-f187-4bb5-baf0-11a4d3e3e0ae",
+                "_version_": 1729727065934004224
+            },
+            {
+                "art_id_s": "3305807-modsarticle42-3305811-1",
+                "date_pdate": [
+                    "1869-01-09T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "781",
+                "end_char_s": "792",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "e1f1cd81-ca5d-44ae-b192-ededff373742",
+                "_version_": 1729726872533598208
+            },
+            {
+                "art_id_s": "3305827-modsarticle34-3305831-1",
+                "date_pdate": [
+                    "1869-02-06T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "527",
+                "end_char_s": "538",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "9fe4e5b0-7dcc-4758-ab4a-67ea7edcd723",
+                "_version_": 1729726934301016064
+            },
+            {
+                "art_id_s": "3305917-modsarticle33-3305921-1",
+                "date_pdate": [
+                    "1869-06-12T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "396",
+                "end_char_s": "407",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "d1ccbdbc-a84b-4bdc-8279-07941dea102d",
+                "_version_": 1729727301986287616
+            },
+            {
+                "art_id_s": "3305972-modsarticle36-3305976-1",
+                "date_pdate": [
+                    "1869-09-18T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "5611",
+                "end_char_s": "5622",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "2f635d7e-a6a0-4d04-8b46-461ffbe61064",
+                "_version_": 1729727488867696640
+            },
+            {
+                "art_id_s": "3305972-modsarticle32-3305976-1",
+                "date_pdate": [
+                    "1869-09-18T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "6711",
+                "end_char_s": "6722",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "542c6d80-11ba-458e-8c0a-739f4c053f03",
+                "_version_": 1729727487593676800
+            },
+            {
+                "art_id_s": "3305992-modsarticle43-3305996-1",
+                "date_pdate": [
+                    "1869-10-16T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "380",
+                "end_char_s": "391",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "f32138b8-2437-4e55-91e4-dbdbcb61fdc2",
+                "_version_": 1729727541636235264
+            },
+            {
+                "art_id_s": "3343130-modsarticle40-3343134-1",
+                "date_pdate": [
+                    "1873-01-03T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "2419",
+                "end_char_s": "2430",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "42cadcfc-f582-4ef8-84bb-102bb01aca47",
+                "_version_": 1729727822024409088
+            },
+            {
+                "art_id_s": "3343244-modsarticle80-3343252-1",
+                "date_pdate": [
+                    "1873-03-28T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1485",
+                "end_char_s": "1496",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "8b286e95-4a61-470a-a947-5f948c9a0fdc",
+                "_version_": 1729728601307217920
+            },
+            {
+                "art_id_s": "3308438-modsarticle14-3308440-1",
+                "date_pdate": [
+                    "1877-06-15T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "785",
+                "end_char_s": "796",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "026bf672-69be-43c9-a30b-f78cbfa3a193",
+                "_version_": 1729728937651601408
+            },
+            {
+                "art_id_s": "3308429-modsarticle73-3308437-1",
+                "date_pdate": [
+                    "1877-06-08T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "543",
+                "end_char_s": "554",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "0ddd5f44-2eb4-4842-8bb4-bf87142cd888",
+                "_version_": 1729728906756358144
+            },
+            {
+                "art_id_s": "3308807-modsarticle10-3308809-1",
+                "date_pdate": [
+                    "1878-03-29T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "3529",
+                "end_char_s": "3540",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "cb9f2b68-8850-4229-b162-6d7b08be27f3",
+                "_version_": 1729728909696565248
+            },
+            {
+                "art_id_s": "3308492-modsarticle68-3308500-1",
+                "date_pdate": [
+                    "1877-07-27T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "1026",
+                "end_char_s": "1037",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "743366f8-04a9-47a4-9738-c10e057108a3",
+                "_version_": 1729729270991814656
+            },
+            {
+                "art_id_s": "3309197-modsarticle110-3309205-1",
+                "date_pdate": [
+                    "1879-01-24T00:00:00Z"
+                ],
+                "name_t": "Robert Owen",
+                "start_char_s": "11506",
+                "end_char_s": "11517",
+                "qid_s": "Q179374",
+                "art_type_s": "newspaper",
+                "id": "2bcbe795-a169-4664-87b5-a52bddafda5a",
+                "_version_": 1729729122975875072
+            }
+        ]
+    }
+}
