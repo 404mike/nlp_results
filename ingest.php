@@ -5,7 +5,7 @@ class IngestData {
   public function __construct()
   {
     $this->ingestJournals();
-    // $this->ingestNewspapers();
+    $this->ingestNewspapers();
   }
 
   private function ingestJournals()
@@ -44,7 +44,7 @@ class IngestData {
       $progress = $this->checkProgress("newspaper",$key);
 
       if($progress == 0) {
-        $this->formatJournalsData($file);
+        $this->formatNewspaperData($file);
         $this->updateProgress("newspaper",$key);
       }
     }
