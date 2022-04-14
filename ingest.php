@@ -4,28 +4,32 @@ class IngestData {
 
   public function __construct()
   {
-    $this->ingestJournals();
+    // $this->ingestJournals();
     $this->ingestNewspapers();
   }
 
   private function ingestJournals()
   {
     $files = glob('journals/data/*.{json}', GLOB_BRACE);
+    shuffle($files);
+
     $numFiles = count($files);
+    $loopCount = 1;
+
     foreach($files as $key => $file) {
 
-      if($key == 0) $divKey = 1;
-      else $divKey = $key;
+      $filename = $this->cleanKeyVal($file);
 
-      $remaining = round(($divKey / $numFiles) * 100,2);
-      echo "Running file Journal - $key out of $numFiles ($remaining%)\n";
+      $remaining = round(($loopCount / $numFiles) * 100,2);
+      echo "Running file Journal - $loopCount ($filename.json) out of $numFiles ($remaining%)\n";
 
-      $progress = $this->checkProgress("journal",$key);
+      $progress = $this->checkProgress("journal",$filename);
 
       if($progress == 0) {
         $this->formatJournalsData($file);
-        $this->updateProgress("journal",$key);
+        $this->updateProgress("journal",$filename);
       }
+      $loopCount++;
     }
   }
 
@@ -33,20 +37,24 @@ class IngestData {
   {
     $files = glob('newspaper/data/*.{json}', GLOB_BRACE);
     $numFiles = count($files);
+    shuffle($files);
+
+    $loopCount = 1;
     foreach($files as $key => $file) {
 
-      if($key == 0) $divKey = 1;
-      else $divKey = $key;
+      $filename = $this->cleanKeyVal($file);
 
-      $remaining = round(($divKey / $numFiles) * 100,2);
-      echo "Running file Newspaper - $key out of $numFiles ($remaining%)\n";
+      $remaining = round(($loopCount / $numFiles) * 100,2);
+      echo "Running file Newspaper - $loopCount ($filename.json) out of $numFiles ($remaining%)\n";
 
-      $progress = $this->checkProgress("newspaper",$key);
+      $progress = $this->checkProgress("newspaper",$filename);
 
       if($progress == 0) {
         $this->formatNewspaperData($file);
-        $this->updateProgress("newspaper",$key);
+        $this->updateProgress("newspaper",$filename);
       }
+
+      $loopCount++;
     }
   }
 
@@ -179,6 +187,14 @@ class IngestData {
     // print_r($response);
   }
 
+  private function cleanKeyVal($val)
+  {
+    return str_replace(
+      ['.json',
+       'journals/data/',
+       'newspaper/data/'],'',$val);
+
+  }
 } 
 
 (new IngestData());
