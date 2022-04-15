@@ -14,8 +14,14 @@
         $last_id = '';
       }
 
+      if(empty($items)) {
+        echo "<h1>No items</h1>";
+      }
+
       foreach($items as $k => $v) {
         $id = $v['id'];
+
+        // echo '<pre>', print_r($v), '</pre>';
 
         if($id == $last_id) $recent = 'recent';
         else $recent = '';
@@ -26,7 +32,7 @@
           if($v['status'] == 9) $status = '<span class="error">error</span>';
           if($v['status'] == 1) $status = '<span class="complete">complete</span>';
 
-          echo '<p>Project: <a href="view_project.php?id='.$v['project'].'">' . $v['project'] . '</a> - ' . $status . '</p>';
+          echo '<p>Project ('.$v['project_title'].'): <a href="view_project.php?id='.$v['project'].'">' . $v['project'] . '</a> - ' . $status . '</p>';
         echo '</div>';  
       }
     ?>

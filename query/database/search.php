@@ -1,6 +1,6 @@
 <?php
 
-class AllItems {
+class ItemSearch {
 
   private $db;
 
@@ -16,18 +16,16 @@ class AllItems {
     $this->db->close();
   }
 
-  public function getAllItems()
+  public function viewItem($id)
   {
-    $results = $this->db->query('SELECT * FROM `queue` ORDER BY `updated` DESC LIMIT 50');
+    $results = $this->db->query('SELECT * FROM `queue` ORDER BY `project` DESC LIMIT 50');
 
-    $items = [];
-    while ($row = $results->fetchArray()) {
-      $items[] = $row;
-    }
-    return $items;
+    $row = $results->fetchArray();
+
+    return $row;
   }
 
   
 }
 
-(new AllItems());
+(new ItemSearch());

@@ -3,12 +3,15 @@
   <div id="container">
     <form action="process.php" method="post">
 
+      <label>Query type:</label>
       <select name="query_type">
         <option value="single">Single</option>
         <option value="sparql">SPARQL</option>
       </select>
 
-      <textarea name="sparql"></textarea>
+      <label>Project title</lable><input name="project_title" type="text" />
+
+      <label>Query:</label><textarea name="sparql"></textarea>
 
       <button type="submit">Submit</button>
     </form>

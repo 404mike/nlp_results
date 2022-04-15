@@ -2,3 +2,4 @@
 newspaper/*.py
 journals/*.py
 model-last
+results

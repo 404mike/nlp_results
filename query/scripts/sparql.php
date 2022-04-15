@@ -4,9 +4,9 @@ class SPARQLQueryDispatcher
 {
   private $endpointUrl;
 
-  public function __construct(string $endpointUrl)
+  public function __construct()
   {
-      $this->endpointUrl = $endpointUrl;
+      $this->endpointUrl = 'https://query.wikidata.org/sparql';
   }
 
   public function query(string $sparqlQuery): array

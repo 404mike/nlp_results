@@ -1,0 +1,29 @@
+Robert Owen - Q179374
+
+Welsh Artists - SELECT DISTINCT ?item ?itemLabel WHERE {
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+  {
+    SELECT DISTINCT ?item WHERE {
+      ?item p:P27 ?statement0.
+      ?statement0 (ps:P27/(wdt:P279*)) wd:Q25.
+      ?item p:P106 ?statement1.
+      ?statement1 (ps:P106/(wdt:P279*)) wd:Q1028181.
+    }
+    LIMIT 100
+  }
+}
+
+Female Scientist - SELECT DISTINCT ?item ?itemLabel ?itemDescription WHERE {
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+  {
+    SELECT DISTINCT ?item WHERE {
+      ?item p:P27 ?statement0.
+      ?statement0 (ps:P27/(wdt:P279*)) wd:Q145.
+      ?item p:P21 ?statement1.
+      ?statement1 (ps:P21/(wdt:P279*)) wd:Q6581072.
+      ?item p:P106 ?statement2.
+      ?statement2 (ps:P106/(wdt:P279*)) wd:Q901.
+    }
+    LIMIT 10000
+  }
+}
