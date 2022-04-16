@@ -1,0 +1,68 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":1,
+    "params":{
+      "q":"qid_s:Q449054",
+      "indent":"true",
+      "group.limit":"100",
+      "q.op":"OR",
+      "group.field":"art_type_s",
+      "group":"true"}},
+  "grouped":{
+    "art_type_s":{
+      "matches":5,
+      "groups":[{
+          "groupValue":"journal",
+          "doclist":{"numFound":5,"start":0,"numFoundExact":true,"docs":[
+              {
+                "art_id_s":"llgc-id:1214989_llgc-id:1217551",
+                "date_pdate":["1958-12-01T00:00:00Z"],
+                "name_t":"Nina Hamnett",
+                "start_char_s":"261",
+                "end_char_s":"273",
+                "qid_s":"Q449054",
+                "art_type_s":"journal",
+                "id":"55847be0-3d11-4d48-b424-df0ee6c4b02e",
+                "_version_":1730110768400039936},
+              {
+                "art_id_s":"llgc-id:1214989_llgc-id:1218158",
+                "date_pdate":["1959-09-01T00:00:00Z"],
+                "name_t":"Nina Hamnett",
+                "start_char_s":"251",
+                "end_char_s":"263",
+                "qid_s":"Q449054",
+                "art_type_s":"journal",
+                "id":"f8a82a41-083d-4baa-b3d2-bf03a0e6d982",
+                "_version_":1730111617466630144},
+              {
+                "art_id_s":"llgc-id:1214989_llgc-id:1218158",
+                "date_pdate":["1959-09-01T00:00:00Z"],
+                "name_t":"Nina Hamnett",
+                "start_char_s":"1472",
+                "end_char_s":"1484",
+                "qid_s":"Q449054",
+                "art_type_s":"journal",
+                "id":"27cf104d-14d7-49e9-8b04-70ccbfadb5e0",
+                "_version_":1730111617519058945},
+              {
+                "art_id_s":"llgc-id:1214989_llgc-id:1218158",
+                "date_pdate":["1959-09-01T00:00:00Z"],
+                "name_t":"Nina Hamnett",
+                "start_char_s":"1544",
+                "end_char_s":"1556",
+                "qid_s":"Q449054",
+                "art_type_s":"journal",
+                "id":"314fa8c6-1e0e-4024-b031-0877114819e2",
+                "_version_":1730111617526398976},
+              {
+                "art_id_s":"llgc-id:1214989_llgc-id:1218158",
+                "date_pdate":["1959-09-01T00:00:00Z"],
+                "name_t":"Nina Hamnett",
+                "start_char_s":"2551",
+                "end_char_s":"2563",
+                "qid_s":"Q449054",
+                "art_type_s":"journal",
+                "id":"3862e315-8787-4b83-b782-b369cb1698b2",
+                "_version_":1730111617769668610}]
+          }}]}}}

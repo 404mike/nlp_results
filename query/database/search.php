@@ -18,7 +18,7 @@ class ItemSearch {
 
   public function viewItem($id)
   {
-    $results = $this->db->query('SELECT * FROM `queue` ORDER BY `project` DESC LIMIT 50');
+    $results = $this->db->query("SELECT * FROM `queue` WHERE `project` = '$id'");
 
     $row = $results->fetchArray();
 

@@ -1,0 +1,82 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":8,
+    "params":{
+      "q":"qid_s:Q21462817",
+      "indent":"true",
+      "group.limit":"100",
+      "q.op":"OR",
+      "group.field":"art_type_s",
+      "group":"true"}},
+  "grouped":{
+    "art_type_s":{
+      "matches":6,
+      "groups":[{
+          "groupValue":"journal",
+          "doclist":{"numFound":3,"start":0,"numFoundExact":true,"docs":[
+              {
+                "art_id_s":"llgc-id:4718179_llgc-id:4728335",
+                "date_pdate":["1919-01-01T00:00:00Z"],
+                "name_t":"Vincent Evans",
+                "start_char_s":"1731",
+                "end_char_s":"1744",
+                "qid_s":"Q21462817",
+                "art_type_s":"journal",
+                "id":"a4f3d04f-f966-4e78-a9b6-7aa673229399",
+                "_version_":1730167110857916417},
+              {
+                "art_id_s":"llgc-id:1386666_llgc-id:1426329",
+                "date_pdate":["2002-01-01T00:00:00Z"],
+                "name_t":"Vincent Evans",
+                "start_char_s":"1488",
+                "end_char_s":"1501",
+                "qid_s":"Q21462817",
+                "art_type_s":"journal",
+                "id":"22439eff-cb50-4881-85e3-627a156cec5a",
+                "_version_":1730168379910651904},
+              {
+                "art_id_s":"llgc-id:2092910_llgc-id:2097336",
+                "date_pdate":["1892-03-01T00:00:00Z"],
+                "name_t":"Vincent Evans",
+                "start_char_s":"3686",
+                "end_char_s":"3699",
+                "qid_s":"Q21462817",
+                "art_type_s":"journal",
+                "id":"b07d02ad-5fad-4f13-8b74-e103b18a0e84",
+                "_version_":1730121488865951744}]
+          }},
+        {
+          "groupValue":"newspaper",
+          "doclist":{"numFound":3,"start":0,"numFoundExact":true,"docs":[
+              {
+                "art_id_s":"3431186-modsarticle8-3431187-1",
+                "date_pdate":["1897-02-27T00:00:00Z"],
+                "name_t":"Vincent Evans",
+                "start_char_s":"3065",
+                "end_char_s":"3078",
+                "qid_s":"Q21462817",
+                "art_type_s":"newspaper",
+                "id":"2d61f652-9105-4f27-898d-3aa3c0336601",
+                "_version_":1730253534596694016},
+              {
+                "art_id_s":"3105331-modsarticle6-3105333-1",
+                "date_pdate":["1900-09-15T00:00:00Z"],
+                "name_t":"Vincent Evans",
+                "start_char_s":"1045",
+                "end_char_s":"1058",
+                "qid_s":"Q21462817",
+                "art_type_s":"newspaper",
+                "id":"fa729b94-e57a-4b68-abbf-f28d0a63d2f0",
+                "_version_":1730252966697369600},
+              {
+                "art_id_s":"3414467-modsarticle100-3414475-1",
+                "date_pdate":["1918-11-22T00:00:00Z"],
+                "name_t":"Vincent Evans",
+                "start_char_s":"650",
+                "end_char_s":"663",
+                "qid_s":"Q21462817",
+                "art_type_s":"newspaper",
+                "id":"e1dd5775-8770-411c-98a3-3b955783bc74",
+                "_version_":1730273862884524032}]
+          }}]}}}

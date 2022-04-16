@@ -1,0 +1,48 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":8,
+    "params":{
+      "q":"qid_s:Q16106615",
+      "indent":"true",
+      "group.limit":"100",
+      "q.op":"OR",
+      "group.field":"art_type_s",
+      "group":"true"}},
+  "grouped":{
+    "art_type_s":{
+      "matches":3,
+      "groups":[{
+          "groupValue":"journal",
+          "doclist":{"numFound":3,"start":0,"numFoundExact":true,"docs":[
+              {
+                "art_id_s":"llgc-id:1380216_llgc-id:1385913",
+                "date_pdate":["2003-01-01T00:00:00Z"],
+                "name_t":"Ken Elias",
+                "start_char_s":"2030",
+                "end_char_s":"2039",
+                "qid_s":"Q16106615",
+                "art_type_s":"journal",
+                "id":"f3591d61-c2f4-4159-a047-28ef7c6bffbf",
+                "_version_":1730165729890664448},
+              {
+                "art_id_s":"llgc-id:1380216_llgc-id:1385277",
+                "date_pdate":["1998-01-01T00:00:00Z"],
+                "name_t":"Ken Elias",
+                "start_char_s":"2116",
+                "end_char_s":"2125",
+                "qid_s":"Q16106615",
+                "art_type_s":"journal",
+                "id":"8a79b19c-c3b2-4093-bec9-98f63441a820",
+                "_version_":1730169767820525568},
+              {
+                "art_id_s":"llgc-id:1380216_llgc-id:1385277",
+                "date_pdate":["1998-01-01T00:00:00Z"],
+                "name_t":"Ken Elias",
+                "start_char_s":"1288",
+                "end_char_s":"1297",
+                "qid_s":"Q16106615",
+                "art_type_s":"journal",
+                "id":"2d42f611-d292-48e2-acb2-c53bd79e3645",
+                "_version_":1730169767153631233}]
+          }}]}}}

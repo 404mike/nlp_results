@@ -2,16 +2,18 @@
 
 class AltoImage {
 
-  private $pid = 3419617;
-  private $targetArt = 95;
+  private $pid;
+  private $targetArt;
 
   public function __construct()
   {
-    $this->getManifest();
   }
 
-  private function getManifest()
+  public function getManifest($pid, $targetArt)
   {
+    $this->pid = $pid;
+    $this->targetArt = $targetArt;
+
     $url = "https://newspapers.library.wales/iiif/2.0/image/" . $this->pid . "/info.json";
 
     $manifest = json_decode(file_get_contents($url),true);
@@ -19,7 +21,10 @@ class AltoImage {
     $width = $manifest['width'];
     $height = $manifest['height'];
 
-    $this->getAlto($width,$height);
+    $coord = $this->getAlto($width,$height);
+
+    print_r($coord);
+    die();
   }
 
   private function getAlto($width, $height)
@@ -34,7 +39,7 @@ class AltoImage {
 
     if($numberArticles > 1) {
       $cord = $this->multiplePosition($alto[$positionKey]);
-      $this->calculate($width,$height,$cord,$this->pid);
+      return $this->calculate($width,$height,$cord,$this->pid);
     }
   }
 
@@ -48,17 +53,15 @@ class AltoImage {
 
   private function calculate($width,$height,$value,$pid)
   {
-  
-    $image = 'http://dams.llgc.org.uk/iiif/2.0/image/'.$pid.'/%d,%d,%d,%d/700,/0/default.jpg';
-    
     $newX = $value['x'] * $width;
     $newY = $value['y'] * $width;
     $newW = $value['w'] * $width;
     $newH = $value['h'] * $height;
     
-    // echo $newX . ' ';
+    // override for the viewer
+    $newH = 900;
     
-    echo sprintf($image,$newX,$newY,$newW,$newH) . "\n";
+    return [$newX,$newY,$newW,$newH];
   
   }
 
@@ -95,6 +98,22 @@ class AltoImage {
 
     return $cord;
   }
-}
 
-(new AltoImage());
+  private function writeContentStateManifest($filename, $canvas_id, $parent_id)
+  {
+    $arr = [
+      "type" => "Annotation",
+      "motivation" => "highlighting",
+      "target" => [
+        "id" => $canvas_id,
+        "type" => "Canvas",
+        "partOf" => [
+          "id" => $parent_id,
+          "type" => "Manifest"
+        ]
+      ]
+    ];
+
+    file_put_contents($filename,json_encode($arr));
+  }
+}
