@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1225327\/manifest.json",
+    "@type": "sc:Collection",
+    "label": "Minerva",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Minerva transactions of the Royal Institution of South Wales.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Minerva",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "The Royal Institution of South Wales was founded in 1835 as Swansea Philosophical and Literary Society, and was given a royal charter in 1838. Its aims are to advance the study of natural history, local history, the arts and literature. Its principal activities have been the foundation and management of Swansea Museum, and holding lectures and other events. It now acts as the Friends of Swansea Museum.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Sefydlwyd Sefydliad Brenhinol De Cymru yn 1835 o dan yr enw Cymdeithas Lenyddol ac Athronyddol Abertawe ac fe roddwyd siarter frenhinol iddo yn 1838. Ei amcanion yw hyrwyddo astudiaethau byd natur, hanes lleol, y celfyddydau a llenyddiaeth. Ei brif weithgareddau fu sefydlu a rheoli Amgueddfa Abertawe, a chynnal darlithoedd a digwyddiadau eraill. Erbyn hyn mae\u2019n gweithredu fel Cyfeillion Amgueddfa Abertawe.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Minerva was started in 1993 as an English language popular journal containing articles on historical and artistic topics related to the Swansea area.",
+            "@language": "en"
+        },
+        {
+            "@value": "Dechreuwyd cyhoeddi Minerva yn 1993 fel cylchgrawn poblogaidd Saesneg a oedd yn cynnwys erthyglau ar bynciau hanesyddol ac artistig yn ymwneud ag Abertawe a\u2019r cyffiniau.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1225327",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1225327\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1225751\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "2000-01-01T00:00:00Z",
+            "label": "Vol. 8"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1225751\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "2000-01-01T00:00:00Z",
+            "label": "Vol. 8"
+        }
+    ]
+}

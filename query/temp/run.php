@@ -3,8 +3,10 @@
 include_once '../scripts/alto.php';
 // include_once '../scripts/journal.php';
 class ParseData {
+
   private $alto;
   private $journal;
+  private $articles = [];
 
   public function __construct()
   {
@@ -39,16 +41,26 @@ class ParseData {
 
   private function parseNewspaper($data)
   {
+    $newspapers = [];
+
     foreach($data['doclist']['docs'] as $k => $v) {
-      $artParts = explode('-',$v['art_id_s']);
 
-      print_r($artParts);
-      $parent_id = $artParts[0];
-      $art_id = $artParts[2];
-      $targetArt = str_replace('modsarticle','',$artParts[1]);
+      $filename = "../data/qids/Q274339/newspaper/$v[art_id_s].json";
 
-      $this->alto->getManifest($pid,$targetArt);
+      if(!file_exists($filename)) {
+        $artParts = explode('-',$v['art_id_s']);
+        $parent_id = $artParts[0];
+        $art_id = $artParts[2];
+        $targetArt = str_replace('modsarticle','',$artParts[1]);
+        
+  
+        $this->alto->getManifest($art_id, $targetArt, $parent_id, $filename);
+      }
+
+      $newspapers[] = $filename;
     }
+
+    $this->articles['newspapers'] = $newspapers;
   }
 }
 

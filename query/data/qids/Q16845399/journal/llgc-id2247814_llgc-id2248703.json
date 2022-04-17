@@ -1,0 +1,125 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2247814\/manifest.json",
+    "@type": "sc:Collection",
+    "label": "Lamp (Oshkosh, Wisconsin)",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Y lamp cyhoeddiad misol i ieuenctyd America yn Gymraeg a Seisonaeg = The lamp : a monthly publication, chiefly for the Christian Endeavorers in Welsh churches of every denomination"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Published in Oshkosh, Wisconsin by The Calvinistic Methodist Synod of Wisconsin. Printed in Oshkosh by The Globe Printing Company.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddwyd yn Oshkosh, Wisconsin gan Fethodistiaid Calfinaidd Cymanfa Wisconsin. Argraffwyd yn Oshkosh gan Cwmni Argraffu y Globe.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Frequency",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Amlder",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Monthly",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Misol",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "A monthly bilingual non-denominational religious monthly intended for the young people of the churches of Welsh America and the Christian Endeavour movement. The periodical's main contents were religious articles and reports on the activities of the movement. The periodical was edited by the ministers, David Davies, Robert T. Roberts between 1897 and 1901, by Robert T. Roberts in 1902, and subsequently by John R. Johns. Associated titles: Yr Ymdrechydd (1894); The Cambrian and Yr Ymdrechydd (1896).",
+            "@language": "en"
+        },
+        {
+            "@value": "",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:2247814",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2247814\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2248703\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1898-04-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Cyf. II Rhif. 4 Ebrill 1898"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2248703\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1898-04-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Cyf. II Rhif. 4 Ebrill 1898"
+        }
+    ]
+}

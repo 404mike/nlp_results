@@ -9,7 +9,7 @@ class AltoImage {
   {
   }
 
-  public function getManifest($pid, $targetArt)
+  public function getManifest($pid, $targetArt, $parent_id, $filename)
   {
     $this->pid = $pid;
     $this->targetArt = $targetArt;
@@ -23,8 +23,7 @@ class AltoImage {
 
     $coord = $this->getAlto($width,$height);
 
-    print_r($coord);
-    die();
+    $this->writeContentStateManifest($coord, $canvas_id, $parent_id, $filename);
   }
 
   private function getAlto($width, $height)
@@ -34,6 +33,10 @@ class AltoImage {
     $alto = json_decode(file_get_contents($url),true);
 
     $positionKey = $this->findArticleAlto($alto);
+
+    if(empty($alto[$positionKey]['textBlocks'])) {
+      return;
+    }
 
     $numberArticles = count($alto[$positionKey]['textBlocks']);
 
@@ -60,7 +63,7 @@ class AltoImage {
     
     // override for the viewer
     $newH = 900;
-    
+
     return [$newX,$newY,$newW,$newH];
   
   }
@@ -99,8 +102,16 @@ class AltoImage {
     return $cord;
   }
 
-  private function writeContentStateManifest($filename, $canvas_id, $parent_id)
+  private function writeContentStateManifest($coord, $canvas_id, $parent_id, $filename)
   {
+    if(empty($coord)) return;
+    
+    $xyhw = implode(',',$coord);
+
+    $canvas_id = 'http://dams.llgc.org.uk/iiif/' . $parent_id . '/canvas/'.$canvas_id.'#xywh='.$xyhw;
+
+    $parent_id = 'https://damsssl.llgc.org.uk/iiif/newspaper/issue/'.$parent_id.'/manifest.json';
+
     $arr = [
       "type" => "Annotation",
       "motivation" => "highlighting",

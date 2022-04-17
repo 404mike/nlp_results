@@ -1,0 +1,43 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/IIIF-Content-State\/collection-v3.json",
+    "type": "Collection",
+    "label": {
+        "en": "Collections for David Mainwaring"
+    },
+    "summary": {
+        "en": "Collection Summary for David Mainwaring"
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4627582\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Example"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4627582\/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Example"
+                ]
+            }
+        }
+    ]
+}

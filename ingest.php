@@ -21,7 +21,8 @@ class IngestData {
       $filename = $this->cleanKeyVal($file);
 
       $remaining = round(($loopCount / $numFiles) * 100,2);
-      echo "Running file Journal - $loopCount ($filename.json) out of $numFiles ($remaining%)\n";
+      $time = date('Y-m-d H:i:s');
+      echo "Running file Journal - $loopCount ($filename.json) out of $numFiles ($remaining%) - at $time\n";
 
       $progress = $this->checkProgress("journal",$filename);
 
@@ -45,7 +46,8 @@ class IngestData {
       $filename = $this->cleanKeyVal($file);
 
       $remaining = round(($loopCount / $numFiles) * 100,2);
-      echo "Running file Newspaper - $loopCount ($filename.json) out of $numFiles ($remaining%)\n";
+      $time = date('Y-m-d H:i:s');
+      echo "Running file Newspaper - $loopCount ($filename.json) out of $numFiles ($remaining%) - at $time\n";
 
       $progress = $this->checkProgress("newspaper",$filename);
 

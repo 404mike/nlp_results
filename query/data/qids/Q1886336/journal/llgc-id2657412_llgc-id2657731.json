@@ -1,0 +1,116 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2657412\/manifest.json",
+    "@type": "sc:Collection",
+    "label": "Transactions of the Caradoc and Severn Valley Field Club",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Transactions of the Caradoc and Severn Valley Field Club"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Published in Shrewsbury by the Caradoc and Severn Valley Field Club.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddwyd yn yr Amwythig gan Clwb Maes Caradoc a Dyffryn Hafren.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Frequency",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Amlder",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Irregular"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "The periodical of the Caradoc and Severn Valley Field Club that published reports on the club's activities alongside articles on the archaeology, botany, natural history and geology of Shropshire, the Severn Valley and surrounding areas. Originally an annual publication it was published irregularly from 1941 onwards. Amongst the periodical's editors were John L. Hobbs, I. R. Bonner and A. M. Jenkinson. Associated titles: The Caradoc Field Club, Shropshire, Transactions (1869); Transaction of the Severn Valley Naturalists' Field Club (1873) Transactions (incorporating the record of bare facts) of the Caradoc and Severn Valley Field Club (Shropshire) (1943).",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn Clwb Maes Caradoc a Dyffryn Hafren a oedd yn cyhoeddi adroddiadau ar weithgareddau'r clwb ynghyd ac erthyglau ar archeoleg, botaneg, astudiaethau natur a daeareg Sir Amwythig, Dyffryn Hafren a'r cyffiniau. Yn wreiddiol yn gylchgrawn blynyddol gafodd ei chyhoeddi'n afreolaidd o 1941 ymlaen. Ymhlith golygyddion y cylchgrawn oedd John L. Hobbs, I. R. Bonner ac A. M. Jenkinson. Teitlau cysylltiol: The Caradoc Field Club, Shropshire, Transactions (1869); Transaction of the Severn Valley Naturalists' Field Club (1873); Transactions (incorporating the record of bare facts) of the Caradoc and Severn Valley Field Club (Shropshire) (1943).",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:2657412",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2657412\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2657731\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1897-01-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Vol. II no. 1 - 1897"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2657731\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1897-01-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Vol. II no. 1 - 1897"
+        }
+    ]
+}

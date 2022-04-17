@@ -8,6 +8,7 @@ class AmpQueue {
   private $db;
   private $sparql;
   private $solr;
+  private $uids = [];
 
   public function __construct()
   {
@@ -33,8 +34,9 @@ class AmpQueue {
   {
     while(true)
     {
-      sleep(10);
+      // sleep(10);
       $this->checkQueue();
+      die();
     }
   }
 
@@ -54,7 +56,6 @@ class AmpQueue {
    */
   private function processQueueItem($data)
   {
-    print_r($data);
     $project = $data['project'];
     $query = $data['query'];
     $query_type = $data['query_type'];
@@ -67,7 +68,7 @@ class AmpQueue {
   /**
    * Create project directory to store manifests
    */
-  private function createQidDir($dir, $qid)
+  private function createQidDir($qid)
   {
     $path = "../data/qids/$qid";
 
@@ -139,17 +140,20 @@ class AmpQueue {
    */
   private function solrQuery($project, $qid)
   {
-    $solrResponse = $this->solr->search($qid, $project);
+    // get number of articles for QID
+    $numQids = $this->solr->doesQidExist($qid);
 
-    // $data = json_decode($solrResponse,true);
-    // $numResults = $data['grouped']['art_type_s']['matches'];
+    // if Solr contains articles for QID
+    if($numQids > 0) {
 
-    // if($numResults > 0) {
-    //   // create project dir
-    //   $this->createQidDir($project, $qid);
+      echo "Creating directory for $qid\n";
 
-    //   file_put_contents("../data/qids/$qid/solr.json",$solrResponse);
-    // }
+      // create QID directories
+      $this->createQidDir($qid);
+
+      // search Solr for Qid
+      $solrResponse = $this->solr->search($qid, $project);
+    }
   }
 }
 

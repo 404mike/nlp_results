@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "item", "itemLabel" ]
+    "vars" : [ "item", "itemLabel", "itemDescription" ]
   },
   "results" : {
     "bindings" : [ {

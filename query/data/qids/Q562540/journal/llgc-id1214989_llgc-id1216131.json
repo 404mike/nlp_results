@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1214989\/manifest.json",
+    "@type": "sc:Collection",
+    "label": "Wales",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Wales.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Keidrych Rhys (William Ronald Rhys Jones) (1915-1987), of Penybont Farm near Carmarthen, founded the literary magazine Wales in 1937, and served as its editor. The journal was published initially by The Druid Press, Carmarthen and printed by Western Mail & Echo Ltd, and latterly by the Tudor Press, London.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Sefydlwyd y cylchgrawn llenyddol Wales gan Keidrych Rhys (William Ronald Rhys Jones) (1915-1987), o Fferm Penybont ger Caerfyrddin yn 1937, ac fe fu\u2019n olygydd arno. Cyhoeddwyd y cyfnodolyn gan y Druid Press, Caerfyrddin yn gyntaf ac fe\u2019i argraffwyd gan Western Mail & Echo Ltd, ac yn ddiweddarach gan y Tudor Press, Llundain.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Wales was an English-language literary journal containing fiction, poetry, reviews and articles. It also contained advertisements and editorials. The journal started as a quarterly publication (No. 1 (Summer 1937)-No. 11 (Winter 1939-1940), became a Wartime Broadsheeet (No. 1 (1941), then moved to six-monthly publication (1943-1949). In 1958 it was re-started as a monthly publication with No. 32, ending with No. 47 in January 1960. It was published between 1937 and 1960",
+            "@language": "en"
+        },
+        {
+            "@value": "Cyfnodolyn llenyddol Saesneg oedd Wales yn cynnwys ffuglen, barddoniaeth, adolygiadau ac erthyglau. Roedd hefyd yn cynnwys hysbysebion ac erthyglau golygyddol. Dechreuodd yn gyhoeddiad chwarterol (Rhif 1. (Haf 1937)-Rhif 11 (Gaeaf 1939-1940), daeth yn bapur llydan yn ystod y rhyfel (Rhif 1 (1941), yna symudwyd i gyhoeddi bob chwe mis (1943-1949). Yn 1958 ail ddechreuwyd ei gyhoeddi yn fisol (Rhif 32) ac fe\u2019i ddiweddwyd yn Ionawr 1960 (Rhif 47). Fe'i cyhoeddwyd rhwng 1937 and 1960",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1214989",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1214989\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1216131\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1945-12-01T00:00:00Z",
+            "label": "Vol, V no. 8\/9"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1216131\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1945-12-01T00:00:00Z",
+            "label": "Vol, V no. 8\/9"
+        }
+    ]
+}

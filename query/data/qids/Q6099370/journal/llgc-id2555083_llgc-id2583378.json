@@ -1,0 +1,125 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2555083\/manifest.json",
+    "@type": "sc:Collection",
+    "label": "ymofynydd",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Yr ymofynydd neu gyfrwng gwybodaeth a rhyddymorfyniad i'r Cymry"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Printed in Carmarthen by Josiah Thomas Jones until December 1848, in Penybont by William Winstone until April 1850, and in Cardiff by D. Evans until December 1850.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Argraffwyd yng Nghaerfyrddin gan Josiah Thomas Jones tan Ragfyr 1848, ym Mhen-y-bont gan William Winstone tan Ebrill 1850, ac yng Nghaerdydd gan D. Evans tan Ragfyr 1850.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Frequency",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Amlder",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Bimonthly",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Daufisol",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "A Welsh language religious periodical serving the Unitarians. The periodical's main contents were religious articles, domestic and foreign news and poetry. Originally a monthly publication it was published irregularly between 1969 and 1986, and bimonthly from 1987 onwards. Amongst the periodical's editors were the minister and schoolmaster, John Edward Jones (1801-1866), Thomas Arthur Thomas and David Jacob Davies. Associated titles: Yr Ymofynnydd (1926).",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn crefyddol, ar gyfer yr Undodiaid. Prif gynnwys y cylchgrawn oedd erthyglau crefyddol, newyddion cartref a tramor a barddoniaeth. Yn wreiddiol yn gylchgrawn misol gafodd ei chyhoeddi'n afreolaidd rhwng 1969 a 1986 ac yn daufisol o 1987 ymlaen. Ymhlith golygyddion y cylchgrawn oedd y gweinidog ac ysgolfeistr, John Edward Jones (1801-1866), Thomas Arthur Thomas a David Jacob Davies. Teitlau cysylltiol: Yr Ymofynnydd (1926).",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:2555083",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2555083\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2583378\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1896-09-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Rhif. 105 Medi 1896"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2583378\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1896-09-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Rhif. 105 Medi 1896"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1386666\/manifest.json",
+    "@type": "sc:Collection",
+    "label": "Transactions of the Honourable Society of Cymmrodorion",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Transactions of the Honourable Society of Cymmrodorion",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Trafodion Anrhydeddus Gymdeithas y Cymmrodorion",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "The Honourable Society of Cymmrodorion was formed in 1751 by a group of Welsh people living in London, and was reconstituted in 1820 and 1873 to promote the arts education and culture of Wales. It published its transactions, lectures and reviews in two series: Y Cymmrodor and Transactions of the Honourable Society of Cymmrodorion. The journals were published on behalf of the Society by several companies in London and elsewhere. The Society also published a Record Series and single volumes.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ffurfiwyd Anrhydeddus Gymdeithas y Cymmrodorion yn 1751 gan Gymry a oedd yn byw yn Llundain, ac fe\u2019i hail-ffurfiwyd yn 1820 a 1873 i hyrwyddo celfyddydau, addysg a diwylliant Cymru. Cyhoeddwyd ei thraddodion, darlithoedd ac adolygiadau mewn dwy gyfres: Y Cymmrodor a Thrafodion Anrhydeddus Gymdeithas y Cymmrodorion. Cyhoeddwyd y cyfnodolion ar ran y Gymdeithas gan lawer o gwmniau yn Llundain a mannau eraill. Cyhoeddodd y Gymdeithas Gyfres Cofnodion hefyd.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Trafodion Anrhydeddus Gymdeithas y Cymmrodorion (Transactions of the Honourable Society of Cymmrodorion) was published annually from 1893 (Vol. I) and contains historical and literary essays and reviews. The publication also includes society notes. For digitisation, the publication has been split into two sequences: Vol. 1 (1892-1893) \u2013 Vol. 8 (1899-1900) and Vol. 9 (1900-1901)-present.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cyhoeddwyd Trafodion Anrhydeddus Gymdeithas y Cymmrodorion yn flynyddol o 1893 (Cyf. I), ac mae'n cynnwys traethaodau hanesyddol a llenyddol ac adolygiadau. Mae\u2019r cyhoeddiad hefyd yn cynnwys nodiadau'r gymdeithas. Rhannwyd y cyhoeddiad yn ddwy gyfres ar gyfer digido: Cyf. 1 (1892-1893) \u2013 Cyf. 8 (1899-1900) a Chyf. 9 (1900-1901)-heddiw.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1386666",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1386666\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1415636\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1962-01-01T00:00:00Z",
+            "label": "1961 (Part 2)"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1415636\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1962-01-01T00:00:00Z",
+            "label": "1961 (Part 2)"
+        }
+    ]
+}
