@@ -1,0 +1,331 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/IIIF-Content-State\/collection-v3.json",
+    "type": "Collection",
+    "label": {
+        "en": "Collections for Welsh Artists"
+    },
+    "summary": {
+        "en": "Collection Summary for Welsh Artists"
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "path\/to\/Q274339\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Gwen John"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q449054\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Nina Hamnett"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q562540\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Augustus John"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q1886336\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Ben Johnson"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q2903257\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Bill James"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q4722948\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Alfred Janes"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q4758799\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Andrew Vicari"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q5039201\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Carey Morris"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q5113432\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Christopher Williams"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q5539465\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for George Frederick Harris"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q6099370\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Ivor Davies"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q6450928\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Kyffin Williams"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q6759645\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Margaret Lindsay Williams"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q6777644\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Martyn Jones"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q7025356\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Nicholas Evans"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q7199739\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Pixie O'Harris"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q7787897\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Thomas Brigstocke"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q8003042\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Will Roberts"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q11208643\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Thomas Tudor"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q16106615\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Ken Elias"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q16845399\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Hugh Hughes"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q18200042\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Edward Pugh"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q18601440\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Merlin James"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q19360836\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Roger Cecil"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q20054436\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Gwilym Prichard"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q20631844\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for R. K. Penson"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q20748839\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Isaac John Williams"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q21455263\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Alfred Oliver"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q21456839\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for James Flewitt Mullock"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q21457000\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Elinor Evans"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q21459585\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Joan Baker"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q21460680\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for John Cambrian Rowland"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q21462817\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for Vincent Evans"
+                ]
+            }
+        },
+        {
+            "id": "path\/to\/Q21467261\/mainfest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Collections for David Mainwaring"
+                ]
+            }
+        }
+    ]
+}

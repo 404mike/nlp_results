@@ -8,7 +8,7 @@ class AmpQueue {
   private $db;
   private $sparql;
   private $solr;
-  private $uids = [];
+  private $qids = [];
 
   public function __construct()
   {
@@ -57,12 +57,15 @@ class AmpQueue {
   private function processQueueItem($data)
   {
     $project = $data['project'];
+    $project_title = $data['project_title'];
     $query = $data['query'];
     $query_type = $data['query_type'];
 
     // make Wikidata query
     if($query_type == 'single') $this->solrQuery($project, $query);
     else $this->wikidataQuery($query,$project);
+
+    $this->writeMainManifestCollection($project, $project_title);
   }
 
   /**
@@ -129,7 +132,7 @@ class AmpQueue {
   private function parseWikidataResponse($response, $project)
   {
     $response = json_decode($response,true);
-    
+
     foreach($response['results']['bindings'] as $k => $v) {
       $this->solrQuery($project, $v['itemLabel']['value']);
     }
@@ -148,12 +151,56 @@ class AmpQueue {
 
       echo "Creating directory for $qid\n";
 
+      $qidName = $this->solr->getQidName($qid);
+
       // create QID directories
       $this->createQidDir($qid);
 
       // search Solr for Qid
-      $solrResponse = $this->solr->search($qid, $project);
+      $solrResponse = $this->solr->search($qid, $project, $qidName);
+
+      $this->qids[] = [
+        'qid' => $qid,
+        'name' => $qidName
+      ];
     }
+  }
+
+  private function writeMainManifestCollection($project, $project_title)
+  {
+    echo "Outputting Main Manifest\n";
+    $arr = [
+      "@context" => "http://iiif.io/api/presentation/3/context.json",
+      "id" => "https://404mike.github.io/IIIF-Content-State/collection-v3.json",
+      "type" => "Collection",
+      "label" => [
+        "en" => "Collections for $project_title"
+      ],
+      "summary" => [
+        "en" => "Collection Summary for $project_title"
+      ],
+      "requiredStatement" => [
+        "label" => [
+          "en" => ["Attribution"]
+        ],
+        "value" => [
+          "en" => ["Provided by Example Organization"]
+        ]
+      ],
+      "items" => []
+    ];
+
+    foreach($this->qids as $k => $v) {
+      $arr['items'][] = [
+        "id" => "path/to/$v[qid]/mainfest.json",
+        "type" => "Manifest",
+        "label" => [
+          "en" => ["Collections for $v[name]"]
+        ]
+      ];
+    }
+
+    file_put_contents("../data/manifests/$project/index.json",json_encode($arr,JSON_PRETTY_PRINT));
   }
 }
 

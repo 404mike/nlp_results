@@ -34,11 +34,8 @@ class SolrSearch {
   }
 
   // group by https://solr.apache.org/guide/6_6/result-grouping.html
-  public function search($qid, $project)
+  public function search($qid, $project, $qidName)
   {
-    // get qid name
-    $qidName = $this->getQidName($qid);
-
     // format Solr query
     $url = $this->solr. "select?indent=true&q.op=OR&q=qid_s:$qid&group=true&group.field=art_type_s&group.limit=2";
 
@@ -54,7 +51,7 @@ class SolrSearch {
     $this->wirteQidManifest($qid, $qidName);
   }
 
-  private function getQidName($qid)
+  public function getQidName($qid)
   {
     $url = $this->solr . "select?indent=true&q.op=OR&q=qid_s%3A$qid";
 
