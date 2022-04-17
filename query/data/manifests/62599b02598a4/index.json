@@ -1,6 +1,6 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/IIIF-Content-State\/collection-v3.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/manifests\/62599b02598a4\/index.json",
     "type": "Collection",
     "label": {
         "en": "Collections for Welsh Artists"
@@ -22,7 +22,7 @@
     },
     "items": [
         {
-            "id": "path\/to\/Q274339\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q274339\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -31,7 +31,7 @@
             }
         },
         {
-            "id": "path\/to\/Q449054\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q449054\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -40,7 +40,7 @@
             }
         },
         {
-            "id": "path\/to\/Q562540\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -49,7 +49,7 @@
             }
         },
         {
-            "id": "path\/to\/Q1886336\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1886336\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -58,7 +58,7 @@
             }
         },
         {
-            "id": "path\/to\/Q2903257\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2903257\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -67,7 +67,7 @@
             }
         },
         {
-            "id": "path\/to\/Q4722948\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -76,7 +76,7 @@
             }
         },
         {
-            "id": "path\/to\/Q4758799\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4758799\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -85,7 +85,7 @@
             }
         },
         {
-            "id": "path\/to\/Q5039201\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5039201\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -94,7 +94,7 @@
             }
         },
         {
-            "id": "path\/to\/Q5113432\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5113432\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -103,7 +103,7 @@
             }
         },
         {
-            "id": "path\/to\/Q5539465\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -112,7 +112,7 @@
             }
         },
         {
-            "id": "path\/to\/Q6099370\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6099370\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -121,7 +121,7 @@
             }
         },
         {
-            "id": "path\/to\/Q6450928\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6450928\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -130,7 +130,7 @@
             }
         },
         {
-            "id": "path\/to\/Q6759645\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -139,7 +139,7 @@
             }
         },
         {
-            "id": "path\/to\/Q6777644\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6777644\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -148,7 +148,7 @@
             }
         },
         {
-            "id": "path\/to\/Q7025356\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7025356\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -157,7 +157,7 @@
             }
         },
         {
-            "id": "path\/to\/Q7199739\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7199739\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -166,7 +166,7 @@
             }
         },
         {
-            "id": "path\/to\/Q7787897\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -175,7 +175,7 @@
             }
         },
         {
-            "id": "path\/to\/Q8003042\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q8003042\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -184,7 +184,7 @@
             }
         },
         {
-            "id": "path\/to\/Q11208643\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -193,7 +193,7 @@
             }
         },
         {
-            "id": "path\/to\/Q16106615\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16106615\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -202,7 +202,7 @@
             }
         },
         {
-            "id": "path\/to\/Q16845399\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -211,7 +211,7 @@
             }
         },
         {
-            "id": "path\/to\/Q18200042\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -220,7 +220,7 @@
             }
         },
         {
-            "id": "path\/to\/Q18601440\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18601440\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -229,7 +229,7 @@
             }
         },
         {
-            "id": "path\/to\/Q19360836\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19360836\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -238,7 +238,7 @@
             }
         },
         {
-            "id": "path\/to\/Q20054436\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20054436\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -247,7 +247,7 @@
             }
         },
         {
-            "id": "path\/to\/Q20631844\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20631844\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -256,7 +256,7 @@
             }
         },
         {
-            "id": "path\/to\/Q20748839\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -265,7 +265,7 @@
             }
         },
         {
-            "id": "path\/to\/Q21455263\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21455263\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -274,7 +274,7 @@
             }
         },
         {
-            "id": "path\/to\/Q21456839\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -283,7 +283,7 @@
             }
         },
         {
-            "id": "path\/to\/Q21457000\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21457000\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -292,7 +292,7 @@
             }
         },
         {
-            "id": "path\/to\/Q21459585\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21459585\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -301,7 +301,7 @@
             }
         },
         {
-            "id": "path\/to\/Q21460680\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21460680\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -310,7 +310,7 @@
             }
         },
         {
-            "id": "path\/to\/Q21462817\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21462817\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -319,7 +319,7 @@
             }
         },
         {
-            "id": "path\/to\/Q21467261\/mainfest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21467261\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [

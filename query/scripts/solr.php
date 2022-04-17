@@ -91,10 +91,15 @@ class SolrSearch {
         $this->journal->getManifest($v['art_id_s'], $filename);
       }
 
-      $journals[] = $filename;
+      $journals[] = [
+        'article' => $manifest_name,
+        'date' => $v['date_pdate']
+      ];
     }
 
-    $this->articles['journals'] = $journals;
+    $this->articles['journal'] = $journals;
+
+    $this->writeArticleIndexManifest($qid, $journals, 'journal');
   }
 
   /**
@@ -108,8 +113,9 @@ class SolrSearch {
     // loop response
     foreach($data['doclist']['docs'] as $k => $v) {
 
+      $artcile_name = $v['art_id_s'];
       // manifest filename
-      $filename = "../data/qids/$qid/newspaper/$v[art_id_s].json";
+      $filename = "../data/qids/$qid/newspaper/$artcile_name.json";
 
       // check if manifest has been created previously
       if(!file_exists($filename)) {
@@ -125,11 +131,61 @@ class SolrSearch {
       }
 
       // save article manifest filename
-      $newspapers[] = $v['art_id_s'];
+      $newspapers[] = [
+        'article' => $artcile_name,
+        'date' => $v['date_pdate']
+      ];
     }
 
     // add all newspaper articles to the articles array
-    $this->articles['newspapers'] = $newspapers;
+    $this->articles['newspaper'] = $newspapers;
+
+    $this->writeArticleIndexManifest($qid, $newspapers, 'newspaper');
+  }
+
+  /**
+   * 
+   */
+  private function writeArticleIndexManifest($qid, $manifests, $type)
+  {
+    $type = ucfirst($type);
+
+    echo "Outputting Manifest $type\n";
+    $arr = [
+      "@context" => "http://iiif.io/api/presentation/3/context.json",
+      "id" => "https://404mike.github.io/nel_results/data/qids/$qid/$type/manifest.json",
+      "type" => "Collection",
+      "label" => [
+        "en" => "$type"
+      ],
+      "summary" => [
+        "en" => "Collection of $type"
+      ],
+      "requiredStatement" => [
+        "label" => [
+          "en" => ["Attribution"]
+        ],
+        "value" => [
+          "en" => ["Provided by Example Organization"]
+        ]
+      ],
+      "items" => []
+    ];
+
+    foreach($manifests as $k => $v) {
+
+      $title = date('Y-m-d', strtotime($v['date'][0]));
+
+      $arr['items'][] = [
+        "id" => "https://404mike.github.io/nel_results/data/qids/$qid/$type/$v[article].json/",
+        "type" => "Manifest",
+        "label" => [
+          "en" => [$title]
+        ]
+      ];
+    }
+
+    file_put_contents("../data/qids/$qid/$type/manifest.json",json_encode($arr,JSON_PRETTY_PRINT));
   }
 
   private function wirteQidManifest($qid, $qidName)
@@ -156,12 +212,18 @@ class SolrSearch {
       "items" => []
     ];
 
+
     foreach($this->articles as $k => $v) {
+
+      if(empty($v)) continue;
+
+      $k = ucfirst($k);
+
       $arr['items'][] = [
-        "id" => "https://damsssl.llgc.org.uk/iiif/2.0/4627582/manifest.json",
+        "id" => "https://404mike.github.io/nel_results/data/qids/$qid/$k/manifest.json",
         "type" => "Manifest",
         "label" => [
-          "en" => ["Example"]
+          "en" => ["$k articles"]
         ]
       ];
     }

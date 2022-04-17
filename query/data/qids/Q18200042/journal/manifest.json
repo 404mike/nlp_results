@@ -1,0 +1,43 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/Journal\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": "Journal"
+    },
+    "summary": {
+        "en": "Collection of Journal"
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/Journal\/llgc-id2092910_llgc-id2098453.json\/",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1896-02-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/Journal\/llgc-id4718179_llgc-id4728984.json\/",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1920-01-01"
+                ]
+            }
+        }
+    ]
+}

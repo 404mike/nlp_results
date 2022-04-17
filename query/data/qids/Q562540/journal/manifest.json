@@ -1,0 +1,43 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/Journal\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": "Journal"
+    },
+    "summary": {
+        "en": "Collection of Journal"
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/Journal\/llgc-id1311205_llgc-id1312250.json\/",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1915-11-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/Journal\/llgc-id1277425_llgc-id1283175.json\/",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1967-12-01"
+                ]
+            }
+        }
+    ]
+}

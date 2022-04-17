@@ -1,0 +1,43 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/Newspaper\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": "Newspaper"
+    },
+    "summary": {
+        "en": "Collection of Newspaper"
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/Newspaper\/3309701-modsarticle107-3309708-1.json\/",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1880-02-13"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/Newspaper\/3815834-modsarticle116-3815845-1.json\/",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1910-10-01"
+                ]
+            }
+        }
+    ]
+}

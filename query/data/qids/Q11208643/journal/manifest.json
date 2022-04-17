@@ -1,0 +1,43 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/Journal\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": "Journal"
+    },
+    "summary": {
+        "en": "Collection of Journal"
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/Journal\/llgc-id1238716_llgc-id1240100.json\/",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1912-01-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/Journal\/llgc-id2092910_llgc-id2095890.json\/",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1887-07-01"
+                ]
+            }
+        }
+    ]
+}

@@ -22,20 +22,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4627582\/manifest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/Journal\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
-                    "Example"
+                    "Journal articles"
                 ]
             }
         },
         {
-            "id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4627582\/manifest.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/Newspaper\/manifest.json",
             "type": "Manifest",
             "label": {
                 "en": [
-                    "Example"
+                    "Newspaper articles"
                 ]
             }
         }

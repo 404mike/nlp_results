@@ -171,7 +171,7 @@ class AmpQueue {
     echo "Outputting Main Manifest\n";
     $arr = [
       "@context" => "http://iiif.io/api/presentation/3/context.json",
-      "id" => "https://404mike.github.io/IIIF-Content-State/collection-v3.json",
+      "id" => "https://404mike.github.io/nel_results/data/manifests/$project/index.json",
       "type" => "Collection",
       "label" => [
         "en" => "Collections for $project_title"
@@ -192,7 +192,7 @@ class AmpQueue {
 
     foreach($this->qids as $k => $v) {
       $arr['items'][] = [
-        "id" => "path/to/$v[qid]/mainfest.json",
+        "id" => "https://404mike.github.io/nel_results/data/qids/$v[qid]/manifest.json",
         "type" => "Manifest",
         "label" => [
           "en" => ["Collections for $v[name]"]
