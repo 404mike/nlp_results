@@ -1,0 +1,28 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":4,
+    "params":{
+      "q":"qid_s:Q18601440",
+      "indent":"true",
+      "group.limit":"100",
+      "q.op":"OR",
+      "group.field":"art_type_s",
+      "group":"true"}},
+  "grouped":{
+    "art_type_s":{
+      "matches":1,
+      "groups":[{
+          "groupValue":"newspaper",
+          "doclist":{"numFound":1,"start":0,"numFoundExact":true,"docs":[
+              {
+                "art_id_s":"3579599-modsarticle34-3579602-1",
+                "date_pdate":["1915-04-10T00:00:00Z"],
+                "name_t":"Merlin James",
+                "start_char_s":"3577",
+                "end_char_s":"3589",
+                "qid_s":"Q18601440",
+                "art_type_s":"newspaper",
+                "id":"09674cd3-b380-4a38-8592-99a3c49e8590",
+                "_version_":1730197619129450498}]
+          }}]}}}

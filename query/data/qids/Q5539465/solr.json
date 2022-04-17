@@ -1,0 +1,28 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":6,
+    "params":{
+      "q":"qid_s:Q5539465",
+      "indent":"true",
+      "group.limit":"100",
+      "q.op":"OR",
+      "group.field":"art_type_s",
+      "group":"true"}},
+  "grouped":{
+    "art_type_s":{
+      "matches":1,
+      "groups":[{
+          "groupValue":"journal",
+          "doclist":{"numFound":1,"start":0,"numFoundExact":true,"docs":[
+              {
+                "art_id_s":"llgc-id:2092910_llgc-id:2094382",
+                "date_pdate":["1880-02-01T00:00:00Z"],
+                "name_t":"George Frederick Harris",
+                "start_char_s":"5119",
+                "end_char_s":"5142",
+                "qid_s":"Q5539465",
+                "art_type_s":"journal",
+                "id":"0ee6c09d-35ec-4671-972a-3a5548eddbc4",
+                "_version_":1730167314312069120}]
+          }}]}}}

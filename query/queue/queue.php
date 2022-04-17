@@ -59,9 +59,6 @@ class AmpQueue {
     $query = $data['query'];
     $query_type = $data['query_type'];
 
-    // create project dir
-    $this->createProjectDir($project);
-
     // make Wikidata query
     if($query_type == 'single') $this->solrQuery($project, $query);
     else $this->wikidataQuery($query,$project);
@@ -70,9 +67,10 @@ class AmpQueue {
   /**
    * Create project directory to store manifests
    */
-  private function createProjectDir($dir)
+  private function createQidDir($dir, $qid)
   {
-    $path = "../results/$dir";
+    $path = "../data/qids/$qid";
+
     $pathNewspaper = $path ."/newspaper";
     $pathJournal = $path ."/journal";
 
@@ -92,24 +90,34 @@ class AmpQueue {
     }
   }
 
+  private function createManifestDir($project)
+  {
+    $path = "../data/manifests/$project";
+    if (!file_exists($path)) {
+      mkdir($path, 0777, true);
+    }
+  }
+
   /**
    * Sparql query to Wikidata
    */
   private function wikidataQuery($query, $project)
   {
-    $query_file = "../results/$project/sparql.query";
+    $query_file = "../data/manifests/$project/sparql.json";
 
     if(file_exists($query_file)) {
       $response = file_get_contents($query_file);
-      $this->parseWikidataResponse($response);
+      $this->parseWikidataResponse($response, $project);
     }else{
       // make request
       $response = $this->sparql->query($query);
 
+      $this->createManifestDir($project);
+
       // save response
       file_put_contents($query_file,$response);
 
-      $this->parseWikidataResponse($response);
+      $this->parseWikidataResponse($response, $project);
     }
 
   }
@@ -117,11 +125,13 @@ class AmpQueue {
   /**
    * Parse Wikidata response
    */
-  private function parseWikidataResponse($response)
+  private function parseWikidataResponse($response, $project)
   {
     $response = json_decode($response,true);
-    print_r($response);
-    die();
+    
+    foreach($response['results']['bindings'] as $k => $v) {
+      $this->solrQuery($project, $v['itemLabel']['value']);
+    }
   }
 
   /**
@@ -129,9 +139,17 @@ class AmpQueue {
    */
   private function solrQuery($project, $qid)
   {
-    $solrResponse = $this->solr->search($qid);
+    $solrResponse = $this->solr->search($qid, $project);
 
-    file_put_contents("../results/$project/solr.response",$solrResponse);
+    // $data = json_decode($solrResponse,true);
+    // $numResults = $data['grouped']['art_type_s']['matches'];
+
+    // if($numResults > 0) {
+    //   // create project dir
+    //   $this->createQidDir($project, $qid);
+
+    //   file_put_contents("../data/qids/$qid/solr.json",$solrResponse);
+    // }
   }
 }
 

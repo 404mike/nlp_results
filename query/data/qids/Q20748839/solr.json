@@ -1,0 +1,42 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":5,
+    "params":{
+      "q":"qid_s:Q20748839",
+      "indent":"true",
+      "group.limit":"100",
+      "q.op":"OR",
+      "group.field":"art_type_s",
+      "group":"true"}},
+  "grouped":{
+    "art_type_s":{
+      "matches":2,
+      "groups":[{
+          "groupValue":"journal",
+          "doclist":{"numFound":1,"start":0,"numFoundExact":true,"docs":[
+              {
+                "art_id_s":"llgc-id:1386666_llgc-id:1421422",
+                "date_pdate":["1983-01-01T00:00:00Z"],
+                "name_t":"Isaac John Williams",
+                "start_char_s":"1494",
+                "end_char_s":"1513",
+                "qid_s":"Q20748839",
+                "art_type_s":"journal",
+                "id":"8e84b039-df6d-4bf4-84c2-bb9a8c99b50f",
+                "_version_":1730108865219919872}]
+          }},
+        {
+          "groupValue":"newspaper",
+          "doclist":{"numFound":1,"start":0,"numFoundExact":true,"docs":[
+              {
+                "art_id_s":"3612081-modsarticle10-3612083-1",
+                "date_pdate":["1916-07-29T00:00:00Z"],
+                "name_t":"Isaac John Williams",
+                "start_char_s":"3808",
+                "end_char_s":"3827",
+                "qid_s":"Q20748839",
+                "art_type_s":"newspaper",
+                "id":"aeb79cfd-391b-4050-828d-cf7959e35917",
+                "_version_":1730107864002854912}]
+          }}]}}}

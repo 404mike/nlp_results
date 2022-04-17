@@ -1,0 +1,28 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":4,
+    "params":{
+      "q":"qid_s:Q4758799",
+      "indent":"true",
+      "group.limit":"100",
+      "q.op":"OR",
+      "group.field":"art_type_s",
+      "group":"true"}},
+  "grouped":{
+    "art_type_s":{
+      "matches":1,
+      "groups":[{
+          "groupValue":"journal",
+          "doclist":{"numFound":1,"start":0,"numFoundExact":true,"docs":[
+              {
+                "art_id_s":"llgc-id:1214989_llgc-id:1217883",
+                "date_pdate":["1959-04-01T00:00:00Z"],
+                "name_t":"Andrew Vicari",
+                "start_char_s":"1",
+                "end_char_s":"14",
+                "qid_s":"Q4758799",
+                "art_type_s":"journal",
+                "id":"b088d675-0a55-4399-a5a1-cd0e120d764f",
+                "_version_":1730121712256679937}]
+          }}]}}}

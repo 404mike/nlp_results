@@ -9,7 +9,7 @@ class SPARQLQueryDispatcher
       $this->endpointUrl = 'https://query.wikidata.org/sparql';
   }
 
-  public function query(string $sparqlQuery): array
+  public function query(string $sparqlQuery)
   {
     $opts = [
         'http' => [
@@ -23,7 +23,8 @@ class SPARQLQueryDispatcher
     $context = stream_context_create($opts);
 
     $url = $this->endpointUrl . '?query=' . urlencode($sparqlQuery);
+
     $response = file_get_contents($url, false, $context);
-    return json_decode($response, true);
+    return $response;
   }
 }
