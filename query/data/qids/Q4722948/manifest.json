@@ -1,12 +1,16 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/IIIF-Content-State\/collection-v3.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Alfred Janes"
+        "en": [
+            "Collections for Alfred Janes"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Alfred Janes"
+        "en": [
+            "Collection Summary for Alfred Janes"
+        ]
     },
     "requiredStatement": {
         "label": {
@@ -22,20 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/Journal\/manifest.json",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/journal\/manifest.json",
+            "type": "Collection",
             "label": {
                 "en": [
-                    "Journal articles"
+                    "journal articles"
                 ]
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/Newspaper\/manifest.json",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/newspaper\/manifest.json",
+            "type": "Collection",
             "label": {
                 "en": [
-                    "Newspaper articles"
+                    "newspaper articles"
                 ]
             }
         }

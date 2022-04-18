@@ -1,12 +1,16 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/IIIF-Content-State\/collection-v3.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21459585\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Joan Baker"
+        "en": [
+            "Collections for Joan Baker"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Joan Baker"
+        "en": [
+            "Collection Summary for Joan Baker"
+        ]
     },
     "requiredStatement": {
         "label": {
@@ -22,20 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21459585\/Journal\/manifest.json",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21459585\/journal\/manifest.json",
+            "type": "Collection",
             "label": {
                 "en": [
-                    "Journal articles"
+                    "journal articles"
                 ]
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21459585\/Newspaper\/manifest.json",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21459585\/newspaper\/manifest.json",
+            "type": "Collection",
             "label": {
                 "en": [
-                    "Newspaper articles"
+                    "newspaper articles"
                 ]
             }
         }

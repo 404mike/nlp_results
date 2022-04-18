@@ -1,12 +1,16 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/Newspaper\/manifest.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Newspaper"
+        "en": [
+            "Newspaper"
+        ]
     },
     "summary": {
-        "en": "Collection of Newspaper"
+        "en": [
+            "Collection of Newspaper"
+        ]
     },
     "requiredStatement": {
         "label": {
@@ -22,8 +26,8 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/Newspaper\/3661980-modsarticle10-3661983-1.json\/",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/3661980-modsarticle10-3661983-1.json",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1910-09-23"
@@ -31,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/Newspaper\/3661980-modsarticle13-3661983-1.json\/",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/3661980-modsarticle13-3661983-1.json",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1910-09-23"

@@ -1,12 +1,16 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/IIIF-Content-State\/collection-v3.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for James Flewitt Mullock"
+        "en": [
+            "Collections for James Flewitt Mullock"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for James Flewitt Mullock"
+        "en": [
+            "Collection Summary for James Flewitt Mullock"
+        ]
     },
     "requiredStatement": {
         "label": {
@@ -22,20 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/Journal\/manifest.json",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/journal\/manifest.json",
+            "type": "Collection",
             "label": {
                 "en": [
-                    "Journal articles"
+                    "journal articles"
                 ]
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/Newspaper\/manifest.json",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/newspaper\/manifest.json",
+            "type": "Collection",
             "label": {
                 "en": [
-                    "Newspaper articles"
+                    "newspaper articles"
                 ]
             }
         }

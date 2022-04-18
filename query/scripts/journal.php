@@ -12,7 +12,7 @@ class ParseJournalManifest {
    * Get manifest  https://damsssl.llgc.org.uk/iiif/2.0/2092910/manifest.json
    * Search for https://damsssl.llgc.org.uk/iiif/2.0/2093726/manifest.json
    */
-  public function getManifest($article_id, $filename)
+  public function getManifest($article_id, $filename, $qid)
   {
     $article_parts = explode('_',$article_id);
     
@@ -23,10 +23,10 @@ class ParseJournalManifest {
 
     $json = file_get_contents($manifest_url);
     $data = json_decode($json,true);
-    $this->cleanData($data, $target, $filename);
+    $this->cleanData($data, $target, $filename, $qid);
   }
 
-  private function cleanData($manifest, $target, $filename)
+  private function cleanData($manifest, $target, $filename, $qid)
   {
     // remove manifests
     $target_manifest = '';
@@ -51,11 +51,18 @@ class ParseJournalManifest {
     }
 
 
-    $this->formatManifest($manifest, $target_manifest, $target_members, $filename);
+    $this->formatManifest($manifest, $target_manifest, $target_members, $filename, $qid);
   }
 
-  private function formatManifest($manifest, $target_manifest, $target_members, $filename)
+  private function formatManifest($manifest, $target_manifest, $target_members, $filename, $qid)
   {
+    // new filename
+    $filenameParts = explode('/',$filename);
+    $filename_manifest = end($filenameParts);
+
+    // new @id
+    $manifest['@id'] = "https://404mike.github.io/nel_results/data/qids/$qid/journal/$filename_manifest";
+
     unset($manifest['manifests']);
     unset($manifest['members']);
 

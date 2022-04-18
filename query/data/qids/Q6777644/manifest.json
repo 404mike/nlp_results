@@ -1,12 +1,16 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/IIIF-Content-State\/collection-v3.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6777644\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Martyn Jones"
+        "en": [
+            "Collections for Martyn Jones"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Martyn Jones"
+        "en": [
+            "Collection Summary for Martyn Jones"
+        ]
     },
     "requiredStatement": {
         "label": {
@@ -22,20 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6777644\/Journal\/manifest.json",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6777644\/journal\/manifest.json",
+            "type": "Collection",
             "label": {
                 "en": [
-                    "Journal articles"
+                    "journal articles"
                 ]
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6777644\/Newspaper\/manifest.json",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6777644\/newspaper\/manifest.json",
+            "type": "Collection",
             "label": {
                 "en": [
-                    "Newspaper articles"
+                    "newspaper articles"
                 ]
             }
         }

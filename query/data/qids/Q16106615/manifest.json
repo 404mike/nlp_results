@@ -1,12 +1,16 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/IIIF-Content-State\/collection-v3.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16106615\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Ken Elias"
+        "en": [
+            "Collections for Ken Elias"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Ken Elias"
+        "en": [
+            "Collection Summary for Ken Elias"
+        ]
     },
     "requiredStatement": {
         "label": {
@@ -22,20 +26,20 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16106615\/Journal\/manifest.json",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16106615\/journal\/manifest.json",
+            "type": "Collection",
             "label": {
                 "en": [
-                    "Journal articles"
+                    "journal articles"
                 ]
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16106615\/Newspaper\/manifest.json",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16106615\/newspaper\/manifest.json",
+            "type": "Collection",
             "label": {
                 "en": [
-                    "Newspaper articles"
+                    "newspaper articles"
                 ]
             }
         }

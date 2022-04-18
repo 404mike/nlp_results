@@ -1,12 +1,16 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/Journal\/manifest.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/journal\/manifest.json",
     "type": "Collection",
     "label": {
-        "en": "Journal"
+        "en": [
+            "Journal"
+        ]
     },
     "summary": {
-        "en": "Collection of Journal"
+        "en": [
+            "Collection of Journal"
+        ]
     },
     "requiredStatement": {
         "label": {
@@ -22,8 +26,8 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/Journal\/llgc-id1272866_llgc-id1276399.json\/",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/journal\/llgc-id1272866_llgc-id1276399.json",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1994-01-01"
@@ -31,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/Journal\/llgc-id1272866_llgc-id1276399.json\/",
-            "type": "Manifest",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/journal\/llgc-id1272866_llgc-id1276399.json",
+            "type": "Collection",
             "label": {
                 "en": [
                     "1994-01-01"

@@ -88,7 +88,7 @@ class SolrSearch {
       $filename = "../data/qids/$qid/journal/$manifest_name.json";
       
       if(!file_exists($filename)) {
-        $this->journal->getManifest($v['art_id_s'], $filename);
+        $this->journal->getManifest($v['art_id_s'], $filename, $qid);
       }
 
       $journals[] = [
@@ -148,7 +148,7 @@ class SolrSearch {
    */
   private function writeArticleIndexManifest($qid, $manifests, $type)
   {
-    $type = ucfirst($type);
+    $type_title = ucfirst($type);
 
     echo "Outputting Manifest $type\n";
     $arr = [
@@ -156,10 +156,10 @@ class SolrSearch {
       "id" => "https://404mike.github.io/nel_results/data/qids/$qid/$type/manifest.json",
       "type" => "Collection",
       "label" => [
-        "en" => "$type"
+        "en" => ["$type_title"]
       ],
       "summary" => [
-        "en" => "Collection of $type"
+        "en" => ["Collection of $type_title"]
       ],
       "requiredStatement" => [
         "label" => [
@@ -177,8 +177,8 @@ class SolrSearch {
       $title = date('Y-m-d', strtotime($v['date'][0]));
 
       $arr['items'][] = [
-        "id" => "https://404mike.github.io/nel_results/data/qids/$qid/$type/$v[article].json/",
-        "type" => "Manifest",
+        "id" => "https://404mike.github.io/nel_results/data/qids/$qid/$type/$v[article].json",
+        "type" => "Collection",
         "label" => [
           "en" => [$title]
         ]
@@ -193,13 +193,13 @@ class SolrSearch {
     echo "Outputting Manifest\n";
     $arr = [
       "@context" => "http://iiif.io/api/presentation/3/context.json",
-      "id" => "https://404mike.github.io/IIIF-Content-State/collection-v3.json",
+      "id" => "https://404mike.github.io/nel_results/data/qids/$qid/manifest.json",
       "type" => "Collection",
       "label" => [
-        "en" => "Collections for $qidName"
+        "en" => ["Collections for $qidName"]
       ],
       "summary" => [
-        "en" => "Collection Summary for $qidName"
+        "en" => ["Collection Summary for $qidName"]
       ],
       "requiredStatement" => [
         "label" => [
@@ -217,11 +217,9 @@ class SolrSearch {
 
       if(empty($v)) continue;
 
-      $k = ucfirst($k);
-
       $arr['items'][] = [
         "id" => "https://404mike.github.io/nel_results/data/qids/$qid/$k/manifest.json",
-        "type" => "Manifest",
+        "type" => "Collection",
         "label" => [
           "en" => ["$k articles"]
         ]

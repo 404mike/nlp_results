@@ -193,7 +193,7 @@ class AmpQueue {
     foreach($this->qids as $k => $v) {
       $arr['items'][] = [
         "id" => "https://404mike.github.io/nel_results/data/qids/$v[qid]/manifest.json",
-        "type" => "Manifest",
+        "type" => "Collection",
         "label" => [
           "en" => ["Collections for $v[name]"]
         ]
