@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18572304\/journal\/llgc-id1093205_llgc-id1096097.json",
+    "@type": "sc:Collection",
+    "label": "Ceredigion : Journal of the Cardiganshire Antiquarian Society",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Ceredigion : Journal of the Cardiganshire Antiquarian Society",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ceredigion : cylchgrawn Cymdeithas Hynafiaethwyr Sir Aberteifi",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Cardiganshire Antiquarian Association was founded in 1911 to promote the understanding of the history and archaeology of the county. In 2002 it became Ceredigion Historical Society.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Sefydlwyd Cymdeithas Hynafiaethwyr Sir Aberteifi \/ Cardiganshire Antiquarian Association yn 1911 i hyrwyddo dealltwriaeth o hanes ac archaeoleg y sir. Yn 2002 daethpwyd yn Gymdeithas Hanesyddol Ceredigion.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "In 1951 Ceredigion: Journal of the Cardiganshire Antiquarian Association started. In 2002 it was renamed Ceredigion: Journal of Ceredigion Historical Society. It contains historical articles and book reviews. It includes society notes. It is mostly in English but there is some Welsh-language content. It was published between 1951 and 2002.",
+            "@language": "en"
+        },
+        {
+            "@value": "Yn 1951 cychwynwyd Ceredigion: Cylchgrawn Cymdeithas Hynafiaethwyr Sir Aberteifi. Yn 2002 ailenwyd yn Ceredigion: Cylchgrawn Cymdeithas Hanesyddol Ceredigion. Mae\u2019n cynnwys erthyglau hanesyddol, adolygiadau ar lyfrau ynghyd \u00e2 nodiadau ar y Gymdeithas. Saesneg yw\u2019r iaith gan fwyaf ond mae rhywfaint o\u2019r cynnwys yn yr iaith Gymraeg. Cyhoeddwyd rhwng 1951 a 2002.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1093205",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1093205\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1096097\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1976-01-01T00:00:00Z",
+            "label": "1979 - Vol. 8, nos. 1-4"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1096097\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1976-01-01T00:00:00Z",
+            "label": "1979 - Vol. 8, nos. 1-4"
+        }
+    ]
+}

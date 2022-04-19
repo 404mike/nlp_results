@@ -1,0 +1,38 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q24572773\/journal\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Journal"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Journal"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q24572773\/journal\/llgc-id1218518_llgc-id1220218.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "2003-01-01"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15990008\/journal\/llgc-id1169834_llgc-id1174654.json",
+    "@type": "sc:Collection",
+    "label": "Morgannwg",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Morgannwg transactions of the Glamorgan Local History Society.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Morgannwg",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "The Glamorgan Local History Society \/ Cymdeithas Hanes Morgannwg was founded in 1950, to promote the study of the history of the county of Glamorgan; in 1966 it changed its name to Glamorgan History Society. It has published Morgannwg since 1957.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Sefydlwyd Cymdeithas Hanes Morgannwg yn 1950, er mwyn hyrwyddo\u2019r astudiaeth o hanes Sir Forgannwg. Cyhoeddwyd Morgannwg ers 1957.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Morgannwg is an English-language historical and archaeological scholarly journal, published annually, containing historical essays, archaeological reports and book reviews. It also contains society notes and meeting reports.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cyfnodolyn Saesneg, archaeolegol a hanesyddol ysgolheigaidd a gyhoeddir yn flynyddol yw Morgannwg yn cynnwys traethodau hanesyddol, adroddiadau archaeolegol ac adolygiadau o lyfrau. Mae\u2019n cynnwys nodiadau cymdeithasol ac adroddiadau ar gyfarfodydd.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1169834",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1169834\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1174654\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1998-01-01T00:00:00Z",
+            "label": "Vol. 42"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1174654\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1998-01-01T00:00:00Z",
+            "label": "Vol. 42"
+        }
+    ]
+}

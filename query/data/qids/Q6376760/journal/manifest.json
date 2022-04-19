@@ -1,0 +1,47 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6376760\/journal\/manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Journal"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Journal"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6376760\/journal\/llgc-id2442431_llgc-id2442959.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1909-08-01"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6376760\/journal\/llgc-id1326508_llgc-id1327666.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1985-01-01"
+                ]
+            }
+        }
+    ]
+}

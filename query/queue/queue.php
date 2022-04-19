@@ -200,7 +200,11 @@ class AmpQueue {
       ];
     }
 
+    $this->createManifestDir($project);
+
     file_put_contents("../data/manifests/$project/index.json",json_encode($arr,JSON_PRETTY_PRINT));
+
+    $this->db->exec("UPDATE `queue` SET status='1' WHERE `project` = '$project'");
   }
 }
 

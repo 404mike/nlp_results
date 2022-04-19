@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5045253\/journal\/llgc-id1272866_llgc-id1276482.json",
+    "@type": "sc:Collection",
+    "label": "Gower",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Gower journal of the Gower Society.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Gower",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "The Gower Society was founded in 1947 to promote the understanding and protection of the local landscape. The society is a registered charity and it arranges lectures, visits and other events and publishes its journal, Gower.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Sefydlwyd Cymdeithas G\u0175yr yn 1947 i hyrwyddo dealltwriaeth o\u2019r tirlun lleol a\u2019i gadwraeth. Mae\u2019r gymdeithas yn elusen gofrestredig sy\u2019n trefnu darlithoedd, ymweliadau a digwyddiadau eraill ac yn cyhoeddi\u2019r cylchgrawn, Gower.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Gower is an English language annual journal containing articles, photographs and news relating to the area\u2019s archaeology, history, natural history and landscape. It was first published in 1948 and continues.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn Saesneg blynyddol yw Gower sy'n cynnwys erthyglau, ffotograffau a newyddion yn ymwneud ag archaeoleg, hanes, byd natur a thirlun yr ardal. Cyhoeddwyd gyntaf yn 1948 ac mae\u2019n parhau i ymddangos.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1272866",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1272866\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1276482\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1995-01-01T00:00:00Z",
+            "label": "Vol. 46,"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1276482\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1995-01-01T00:00:00Z",
+            "label": "Vol. 46,"
+        }
+    ]
+}

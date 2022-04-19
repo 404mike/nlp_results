@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7351503\/journal\/llgc-id1164385_llgc-id1165277.json",
+    "@type": "sc:Collection",
+    "label": "Journal of Welsh religious history",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Journal of Welsh religious history",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cylchgrawn Hanes Crefydd Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "The Journal of Welsh Religious History is published by the University of Wales Press on behalf of the Centre for the Advanced Study of Religion in Wales, Bangor University, and previously the Welsh Religious History Society.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddir Cylchgrawn Hanes Crefydd Cymru gan Wasg Prifysgol Cymru ar ran Canolfan Uwchefrydiau Crefydd yng Nghymru, Prifysgol Bangor, a chyn hynny Cymdeithas Hanes Crefydd Cymru.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "The Journal of Welsh Religious History is an English-language journal containing academic articles, reviews and news relating to the history of Christianity in Wales. Two series were published: First series, Vols. 1 (1993) to 8 (2000); new series Vol. 1 (2001) to Vol. 4 (2004).",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn Saesneg yn cynnwys erthyglau academaidd, adolygiadau a newyddion yn ymwneud \u00e2 hanes Cristionogaeth yng Nghymru yw\u2019r Journal of Welsh Religious History. Cyhoeddwyd dwy gyfres: y gyfres gyntaf, Cyfrolau 1 (1993) i 8 (2000); cyfres newydd Cyfrol (2001) i Cyfrol 4 (2004).",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1164385",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1164385\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1165277\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "2000-01-01T00:00:00Z",
+            "label": "Vol. 8"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1165277\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "2000-01-01T00:00:00Z",
+            "label": "Vol. 8"
+        }
+    ]
+}

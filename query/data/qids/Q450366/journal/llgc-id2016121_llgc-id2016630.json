@@ -1,0 +1,116 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q450366\/journal\/llgc-id2016121_llgc-id2016630.json",
+    "@type": "sc:Collection",
+    "label": "Welsh weekly",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "The Welsh weekly an independent journal of religion and social life in Wales"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Published in London by King, Sell and Railton and in Cardiff by the Welsh Weekly Printing Company until 8 July 1892, and subsequently in Merthyr Tydfil by the Merthyr and Dowlais Times Printing Company and in Cardiff by the Welsh Weekly Printing Company.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddwyd ac argraffwyd yn Llundain gan King, Sell a Railton ac yng Nghaerdydd gan Cwmni Argraffu'r Welsh Weekly tan 8 Gorffenaf, 1892, ac yna yn Merthyr Tudful gan Cwmni Argraffu'r Merthyr and Dowlais Times ac yng Nghaerdydd gan Cwmni Argraffu'r Welsh Weekly.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Frequency",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Amlder",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Weekly"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "A weekly religious periodical that mainly published religious articles, Sunday school lessons and biographies. Despite being a non-denominational periodical it was linked to the Calvinistic Methodist Church of Wales. The periodical's editor was John Griffiths.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn crefyddol wythnosol a oedd yn bennaf yn cyhoeddi erthyglau crefyddol, gwersi ysgol Sul a bywgraffiadau. Er ei fod yn gylchgrawn anenwadol 'roedd yn gysylltiedig gyda'r Eglwys Bresbyteraidd yng Nghymru. Golygwyd y cylchgrawn gan John Griffiths.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:2016121",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2016121\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2016630\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1892-08-05T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Vol. 1 No. 31 - August 5 1892"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2016630\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1892-08-05T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Vol. 1 No. 31 - August 5 1892"
+        }
+    ]
+}

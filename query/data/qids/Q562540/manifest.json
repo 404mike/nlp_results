@@ -30,7 +30,7 @@
             "type": "Collection",
             "label": {
                 "en": [
-                    "journal articles"
+                    "Journal articles"
                 ]
             }
         },
@@ -39,7 +39,7 @@
             "type": "Collection",
             "label": {
                 "en": [
-                    "newspaper articles"
+                    "Newspaper articles"
                 ]
             }
         }

@@ -1,0 +1,116 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15430700\/journal\/llgc-id2419786_llgc-id2420095.json",
+    "@type": "sc:Collection",
+    "label": "Cambrian Natural Observer",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "The Cambrian natural observer"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Published in Cardiff by the Astronomical Society of Wales.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddwyd yng Nghaerdydd gan Cymdeithas Seryddol Cymru.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Frequency",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Amlder",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Quarterly"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "The monthly periodical of the Astronomical Society of Wales that published articles on astronomy and the society's activities. The periodical was edited by the journalist and amateur astronomer Arthur Mee (1860-1926). Originally a quarterly publication, the periodical was published annually between 1902-1907, monthly during 1908, and again quarterly between 1909-1910. Associated titles: Journal of the Astronomical Society of Wales (1895- 1897); The Cambrian Natural Observer and Quarterly Journal of the Astronomical Society of Wales (May 1900); The Cambrian Natural Observer and Quarterly Record of the Astronomical Society of Wales (1902); The Journal of the Astronomical Society of Wales (1911).",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn Cymdeithas Seryddol Cymru a oedd yn cyhoeddi erthyglau ar seryddiaeth ac ar weithgareddau'r Cymdeithas. Golygwyd y gyfrol, gan y newyddiadurwr a seryddwr amatur, Arthur Mee (1860-1926). Yn wreiddiol yn gylchgrawn chwarterol, fe'i cyhoeddwyd yn flynyddol rhwng 1902-1907; yn fisol yn 1908 ac eto'n chwarterol rhwng 1909 a 1910. Teitlau cysylltiol: Journal of the Astronomical Society of Wales (1895- 1897); The Cambrian Natural Observer and Quarterly Journal of the Astronomical Society of Wales (Mai 1900); The Cambrian Natural Observer and Quarterly Record of the Astronomical Society of Wales (1902); The Journal of the Astronomical Society of Wales (1911).",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:2419786",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2419786\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2420095\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1901-02-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Vol. IV No. 1 - Feb. 1901"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2420095\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1901-02-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Vol. IV No. 1 - Feb. 1901"
+        }
+    ]
+}

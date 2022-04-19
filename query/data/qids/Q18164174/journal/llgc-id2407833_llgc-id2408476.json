@@ -1,0 +1,116 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18164174\/journal\/llgc-id2407833_llgc-id2408476.json",
+    "@type": "sc:Collection",
+    "label": "nationalist",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "The nationalist a non-political magazine for Wales = Y ddarllenno, ystyried"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Printed in Cardiff by Robert Roberts.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Argraffwyd yng Nghaerdydd gan Robert Roberts.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Frequency",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Amlder",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Quarterly, July 1909-Oct. 1912"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "A literary and general periodical that mainly published articles on literature and, current affairs, alongside reviews, biographies and poetry. Originally a monthly publication it became a quarterly from July 1909 onwards. The periodical was edited by Sir Thomas Marchant Williams (1845-1914).",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn llenyddol a chyffredinol a oedd yn bennaf yn cyhoeddi erthyglau ar lenyddiaeth a materion cyfoes, ynghyd ac adolygiadau, bywgraffiadau a barddoniaeth. Yn wreiddiol yn gylchgrawn misol, daeth yn un chwarterol yn Orffennaf 1909. Golygwyd y cylchgrawn gan Syr Thomas Marchant Williams (1845-1914).",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:2407833",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2407833\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2408476\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1908-08-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Vol. II no. 18 - August 1908"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2408476\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1908-08-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Vol. II no. 18 - August 1908"
+        }
+    ]
+}

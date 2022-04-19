@@ -26,20 +26,11 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2903257\/journal\/manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "journal articles"
-                ]
-            }
-        },
-        {
             "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2903257\/newspaper\/manifest.json",
             "type": "Collection",
             "label": {
                 "en": [
-                    "newspaper articles"
+                    "Newspaper articles"
                 ]
             }
         }

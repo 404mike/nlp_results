@@ -30,16 +30,7 @@
             "type": "Collection",
             "label": {
                 "en": [
-                    "journal articles"
-                ]
-            }
-        },
-        {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19360836\/newspaper\/manifest.json",
-            "type": "Collection",
-            "label": {
-                "en": [
-                    "newspaper articles"
+                    "Journal articles"
                 ]
             }
         }
