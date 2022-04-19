@@ -65,7 +65,10 @@ class AmpQueue {
     if($query_type == 'single') $this->solrQuery($project, $query);
     else $this->wikidataQuery($query,$project);
 
-    $this->writeMainManifestCollection($project, $project_title);
+    //
+    $this->writeMainManifestCollection($project, $project_title,false);
+    // fullpage newspaper
+    $this->writeMainManifestCollection($project, $project_title,true);
   }
 
   /**
@@ -166,12 +169,24 @@ class AmpQueue {
     }
   }
 
-  private function writeMainManifestCollection($project, $project_title)
+  /**
+   * 
+   */
+  private function writeMainManifestCollection($project, $project_title, $fullNewspaper)
   {
     echo "Outputting Main Manifest\n";
+
+    $manifestUrl = "https://404mike.github.io/nel_results/data/manifests/$project/index.json";
+    $manifestFileName = "../data/manifests/$project/index.json";
+    
+    if($fullNewspaper) {
+      $manifestUrl = "https://404mike.github.io/nel_results/data/manifests/$project/full-index.json";
+      $manifestFileName = "../data/manifests/$project/full-index.json";
+    }
+
     $arr = [
       "@context" => "http://iiif.io/api/presentation/3/context.json",
-      "id" => "https://404mike.github.io/nel_results/data/manifests/$project/index.json",
+      "id" => $manifestUrl,
       "type" => "Collection",
       "label" => [
         "en" => "Collections for $project_title"
@@ -191,8 +206,14 @@ class AmpQueue {
     ];
 
     foreach($this->qids as $k => $v) {
+      $id = "https://404mike.github.io/nel_results/data/qids/$v[qid]/manifest.json";
+
+      if($fullNewspaper) {
+        $id = "https://404mike.github.io/nel_results/data/qids/$v[qid]/full-manifest.json";
+      }
+
       $arr['items'][] = [
-        "id" => "https://404mike.github.io/nel_results/data/qids/$v[qid]/manifest.json",
+        "id" => $id,
         "type" => "Collection",
         "label" => [
           "en" => ["Collections for $v[name]"]
@@ -202,9 +223,9 @@ class AmpQueue {
 
     $this->createManifestDir($project);
 
-    file_put_contents("../data/manifests/$project/index.json",json_encode($arr,JSON_PRETTY_PRINT));
+    file_put_contents($manifestFileName,json_encode($arr,JSON_PRETTY_PRINT));
 
-    $this->db->exec("UPDATE `queue` SET status='1' WHERE `project` = '$project'");
+    // $this->db->exec("UPDATE `queue` SET status='1' WHERE `project` = '$project'");
   }
 }
 
