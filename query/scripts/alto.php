@@ -1,17 +1,20 @@
 <?php
+include_once 'newspaper_template.php';
 
 class AltoImage {
 
   private $pid;
   private $targetArt;
+  private $template;
 
   public function __construct()
   {
+    $this->template = new NewspaperTemplate();
   }
 
-  public function getManifest($pid, $targetArt, $parent_id, $filename)
+  public function getManifest($canvas_id, $targetArt, $parent_id, $filename, $date)
   {
-    $this->pid = $pid;
+    $this->pid = $canvas_id;
     $this->targetArt = $targetArt;
 
     $url = "https://newspapers.library.wales/iiif/2.0/image/" . $this->pid . "/info.json";
@@ -24,6 +27,9 @@ class AltoImage {
     $coord = $this->getAlto($width,$height);
 
     $this->writeContentStateManifest($coord, $canvas_id, $parent_id, $filename);
+
+    // whole newspaper page 
+    $this->prepareWholePage($canvas_id, $filename, $date);
   }
 
   private function getAlto($width, $height)
@@ -126,5 +132,28 @@ class AltoImage {
     ];
 
     file_put_contents($filename,json_encode($arr));
+  }
+
+  private function prepareWholePage($canvas_id, $filename, $date)
+  {
+    $newFilename = str_replace('newspaper/','newspaper/full-',$filename);
+
+    $filenameParts = explode('/',$newFilename);
+    // print_r($filenameParts);
+    $qid = $filenameParts[3];
+    $manifest = $filenameParts[5];
+
+    $url = "https://404mike.github.io/nel_results/data/qids/$qid/newspaper/$manifest";
+    $pid = "https://newspapers.library.wales/iiif/2.0/image/$canvas_id";
+    $title = date('Y-m-d',strtotime($date[0]));
+
+    $template = $this->template->getTemplate($url, $title, $pid);
+    
+    $this->writeWholePage($newFilename, $template);
+  }
+
+  private function writeWholePage($filename, $code)
+  {
+    file_put_contents($filename,$code);
   }
 }

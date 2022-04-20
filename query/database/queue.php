@@ -27,7 +27,10 @@ class AllItems {
     return $items;
   }
 
-  
+  public function updateResponse($project, $status)
+  {
+    $this->db->exec("UPDATE `queue` SET status='$status' WHERE `project` = '$project'");
+  }
 }
 
 (new AllItems());

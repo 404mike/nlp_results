@@ -36,6 +36,9 @@ class SolrSearch {
   // group by https://solr.apache.org/guide/6_6/result-grouping.html
   public function search($qid, $project, $qidName)
   {
+    // reset articles
+    $this->articles = [];
+
     // format Solr query
     $url = $this->solr. "select?indent=true&q.op=OR&q=qid_s:$qid&group=true&group.field=art_type_s&group.limit=2";
 
@@ -48,7 +51,9 @@ class SolrSearch {
     $this->loopSolrResponse($responseData, $qid);
 
     // return all the articles generated
-    $this->wirteQidManifest($qid, $qidName);
+    $this->wirteQidManifest($qid, $qidName, false);
+    // return all the articles generated, linking to full newspaper pages
+    $this->wirteQidManifest($qid, $qidName, true);
   }
 
   public function getQidName($qid)
@@ -70,6 +75,8 @@ class SolrSearch {
    */
   private function loopSolrResponse($data, $qid)
   {
+    // echo "Welll\n";
+    // echo '<pre>' , print_r($this->articles) , '</pre>';
     foreach($data['grouped']['art_type_s']['groups'] as $k => $v) {
       $type = $v['groupValue'];
 
@@ -99,7 +106,7 @@ class SolrSearch {
 
     $this->articles['journal'] = $journals;
 
-    $this->writeArticleIndexManifest($qid, $journals, 'journal');
+    $this->writeArticleIndexManifest($qid, $journals, 'journal', false);
   }
 
   /**
@@ -118,7 +125,7 @@ class SolrSearch {
       $filename = "../data/qids/$qid/newspaper/$artcile_name.json";
 
       // check if manifest has been created previously
-      if(!file_exists($filename)) {
+      if(!file_exists($filename."gg")) {
 
         // break article ID into parts
         $artParts = explode('-',$v['art_id_s']);
@@ -127,7 +134,7 @@ class SolrSearch {
         $targetArt = str_replace('modsarticle','',$artParts[1]);
         
         // generate the manifest
-        $this->alto->getManifest($art_id, $targetArt, $parent_id, $filename);
+        $this->alto->getManifest($art_id, $targetArt, $parent_id, $filename, $v['date_pdate']);
       }
 
       // save article manifest filename
@@ -136,24 +143,36 @@ class SolrSearch {
         'date' => $v['date_pdate']
       ];
     }
-
+    
     // add all newspaper articles to the articles array
     $this->articles['newspaper'] = $newspapers;
 
-    $this->writeArticleIndexManifest($qid, $newspapers, 'newspaper');
+    // output manifest linking to cropped images
+    $this->writeArticleIndexManifest($qid, $newspapers, 'newspaper', false);
+    // output manifest linking to full images
+    $this->writeArticleIndexManifest($qid, $newspapers, 'newspaper', true);
   }
 
   /**
    * 
    */
-  private function writeArticleIndexManifest($qid, $manifests, $type)
+  private function writeArticleIndexManifest($qid, $manifests, $type, $fullNewspaper)
   {
     $type_title = ucfirst($type);
+    // default variables
+    $manifestUrl = "https://404mike.github.io/nel_results/data/qids/$qid/$type/manifest.json";
+    $fileLocation = "../data/qids/$qid/$type/manifest.json";
 
-    echo "Outputting Manifest $type\n";
+    // overrides if dealing with full page newspaper
+    if($fullNewspaper) {
+      $manifestUrl = "https://404mike.github.io/nel_results/data/qids/$qid/$type/full-manifest.json";
+        $fileLocation = "../data/qids/$qid/$type/full-manifest.json";
+    }
+
+    echo "1. Outputting Article Collection Manifest $type\n";
     $arr = [
       "@context" => "http://iiif.io/api/presentation/3/context.json",
-      "id" => "https://404mike.github.io/nel_results/data/qids/$qid/$type/manifest.json",
+      "id" => "$manifestUrl",
       "type" => "Collection",
       "label" => [
         "en" => ["$type_title"]
@@ -175,9 +194,14 @@ class SolrSearch {
     foreach($manifests as $k => $v) {
 
       $title = date('Y-m-d', strtotime($v['date'][0]));
-
+      // default variable
+      $id = "https://404mike.github.io/nel_results/data/qids/$qid/$type/$v[article].json";
+      // if full page newspaper
+      if($fullNewspaper) {
+        $id = "https://404mike.github.io/nel_results/data/qids/$qid/$type/full-".$v['article'].".json";
+      }
       $arr['items'][] = [
-        "id" => "https://404mike.github.io/nel_results/data/qids/$qid/$type/$v[article].json",
+        "id" => $id,
         "type" => "Collection",
         "label" => [
           "en" => [$title]
@@ -185,15 +209,26 @@ class SolrSearch {
       ];
     }
 
-    file_put_contents("../data/qids/$qid/$type/manifest.json",json_encode($arr,JSON_PRETTY_PRINT));
+    file_put_contents($fileLocation,json_encode($arr,JSON_PRETTY_PRINT));
   }
 
-  private function wirteQidManifest($qid, $qidName)
+  /**
+   * 
+   */
+  private function wirteQidManifest($qid, $qidName, $fullNewspaper)
   {
-    echo "Outputting Manifest\n";
+    echo "2. Outputting Main Index Manifest\n";
+
+    $manifestUrl = "https://404mike.github.io/nel_results/data/qids/$qid/manifest.json";
+    $filename = "../data/qids/$qid/manifest.json";
+    
+    if($fullNewspaper) {
+      $manifestUrl = "https://404mike.github.io/nel_results/data/qids/$qid/full-manifest.json";$filename = "../data/qids/$qid/full-manifest.json";
+    }
+
     $arr = [
       "@context" => "http://iiif.io/api/presentation/3/context.json",
-      "id" => "https://404mike.github.io/nel_results/data/qids/$qid/manifest.json",
+      "id" => $manifestUrl,
       "type" => "Collection",
       "label" => [
         "en" => ["Collections for $qidName"]
@@ -212,21 +247,27 @@ class SolrSearch {
       "items" => []
     ];
 
-
     foreach($this->articles as $k => $v) {
 
       if(empty($v)) continue;
+      if(count($v) == 0) continue;
 
+      $id = "https://404mike.github.io/nel_results/data/qids/$qid/$k/manifest.json";
+
+      if($fullNewspaper) {
+        $id = "https://404mike.github.io/nel_results/data/qids/$qid/$k/full-manifest.json";
+      }      
+      // echo count($v) . "\n";
       $arr['items'][] = [
-        "id" => "https://404mike.github.io/nel_results/data/qids/$qid/$k/manifest.json",
+        "id" => $id,
         "type" => "Collection",
         "label" => [
-          "en" => ["$k articles"]
+          "en" => [ucfirst($k) . " articles"]
         ]
       ];
     }
 
-    file_put_contents("../data/qids/$qid/manifest.json",json_encode($arr,JSON_PRETTY_PRINT));
+    file_put_contents($filename,json_encode($arr,JSON_PRETTY_PRINT));
   }
 
 }
