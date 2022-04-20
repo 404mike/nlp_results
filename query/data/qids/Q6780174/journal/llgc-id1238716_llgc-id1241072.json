@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6780174\/journal\/llgc-id1238716_llgc-id1241072.json",
+    "@type": "sc:Collection",
+    "label": "Collections, historical &#38;amp; archaeological relating to Montgomeryshire",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Collections, historical &amp; archaeological relating to Montgomeryshire",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Collections, historical & archaeological relating to Montgomeryshire",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "The Powysland Club was founded in 1867 to promote the study of the archaeology and history of the county of Montgomeryshire. Its activities include lectures and excursions for members, publication of Montgomeryshire Collections and individual volumes, and operating museums and a library.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Sefydlwyd y Powysland Club yn 1867 i hyrwyddo\u2019r astudiaeth o archaeoleg a hanes Sir Drefaldwyn. Mae ei weithgareddau yn cynnwys darlithoedd a theithiau ar gyfer aelodau, cyhoeddi Casgliadau Montgomeryshire Collections a chyhoeddiadau unigol a chynnal amgueddf\u00e9ydd a llyfrgell.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Collections Historical & Archaeological relating to Montgomeryshire, latterly Montgomeryshire collections, is an annual English-language journal containing scholarly articles on archaeological and historical topics, book reviews, and society notes. For digitisation, the publication has been split into three sequences: Vol 1. (1868)-Vol. 31 (1900) (entitled Collections Historical & Archaeological relating to Montgomeryshire); Vol. 32 (1902)-Vol. 47 (1942) (entitled Collections historical & archaeological relating to Montgomeryshire and its borders); and Vol. 48 (1943)-present (entitled Montgomeryshire collections : relating to Montgomeryshire and its borders).",
+            "@language": "en"
+        },
+        {
+            "@value": "Cyfnodolyn Saesneg, yn cynnwys erthyglau ysgolheigaidd ar archaeoleg a thestunau hanesyddol, adolygiadau o lyfrau a nodiadau cymdeithasol yw Collections Historical & Archaeological relating to Montgomeryshire, neu Montgomeryshire collections yn ddiweddar. Rhennir y cyhoeddiad yn dair cyfres ar gyfer digideiddio: Cyf 1. (1868)-Cyf. 31 (1900) (\u2018Collections Historical & Archaeological relating to Montgomeryshire\u2019); Cyf. 32 (1902)-Cyf. 47 (1942) (\u2018Collections historical & archaeological relating to Montgomeryshire and its borders\u2019); a Chyf. 48 (1943)-heddiw (\u2018Montgomeryshire collections : relating to Montgomeryshire and its borders\u2019).",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1238716",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1238716\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1241072\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1920-01-01T00:00:00Z",
+            "label": "Vol. 39"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1241072\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1920-01-01T00:00:00Z",
+            "label": "Vol. 39"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21664763\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Margaret Millington"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Margaret Millington"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21664763\/newspaper\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        }
+    ]
+}

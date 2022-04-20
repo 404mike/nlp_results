@@ -1,0 +1,38 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q76944\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Kate Bosse-Griffiths"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Kate Bosse-Griffiths"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q76944\/journal\/manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Journal articles"
+                ]
+            }
+        }
+    ]
+}

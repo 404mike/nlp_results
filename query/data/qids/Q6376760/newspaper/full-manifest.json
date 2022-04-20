@@ -1,0 +1,47 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6376760\/newspaper\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Newspaper"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Newspaper"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6376760\/Manifest\/full-4171751-modsarticle108-4171754-1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1907-01-14"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6376760\/Collection\/full-4242349-modsarticle93-4242356-1.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1914-01-09"
+                ]
+            }
+        }
+    ]
+}

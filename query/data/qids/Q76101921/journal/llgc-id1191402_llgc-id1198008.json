@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q76101921\/journal\/llgc-id1191402_llgc-id1198008.json",
+    "@type": "sc:Collection",
+    "label": "Radnorshire Society transactions",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Radnorshire Society transactions",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Trafodion Cymdeithas Sir Faesyfed",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "The Radnorshire Society was established in 1930 to promote the study of the archaeology and history of the county of Radnorshire (now part of Powys).",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Sefydlwyd Cymdeithas Sir Faesyfed yn 1930 i hyrwyddo astudiaeth o archaeoleg a hanes Sir Faesyfed (sydd erbyn hyn yn rhan o Bowys).",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "The Radnorshire Society Transactions contains scholarly articles on local history topics, book reviews, and society notes. It was first published in 1931 and continues.",
+            "@language": "en"
+        },
+        {
+            "@value": "Mae Trafodion Cymdeithas Sir Faesyfed yn cynnwys erthyglau ysgolheigaidd ar bynciau hanes lleol, adolygiadau o lyfrau a nodiadau\u2019r gymdeithas. Cafodd ei gyhoeddi'n gyntaf yn 1931 ac mae'n parhau.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1191402",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1191402\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1198008\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1999-01-01T00:00:00Z",
+            "label": "Vol. 69"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1198008\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1999-01-01T00:00:00Z",
+            "label": "Vol. 69"
+        }
+    ]
+}

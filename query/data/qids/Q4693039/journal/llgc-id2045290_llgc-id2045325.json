@@ -1,0 +1,116 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4693039\/journal\/llgc-id2045290_llgc-id2045325.json",
+    "@type": "sc:Collection",
+    "label": "Pwllheli home messenger",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "The Pwllheli home messenger issued by Ala Road English Presbyterian Church"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Published in Pwllheli by the Ala Road Presbyterian Church. Printed in Pwllheli by Richard Jones until December 1899, by the Evans Brothers and D. Caradog Evans.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddwyd ym Mhwllheli gan Eglwys Bresbyteraidd Heol Ala. Argraffwyd ym Mhwllheli gan Richard Jones tan Ragfyr 1899, gan y Brodyr Evans ac D. Caradog Evans.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Frequency",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Amlder",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Monthly"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "The religious periodical of the Ala Road Presbyterian Church, Pwllheli that mainly published church news and religious articles. The Home Messenger was included as a an inset to the periodical. The periodical was edited by Alfred Ivor Parry until April 1900, and subsequently by E. Myrddin Rees. Associated titles: The Home Messenger; The Pwllheli Messenger (1902).",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn crefyddol Eglwys Bresbyteraidd Heol Ala, Pwllheli, a oedd yn bennaf yn cyhoeddi newyddion o'r eglwys ac erthyglau crefyddol. 'Roedd y cylchgrawn yn cynnwys yr Home Messenger fel mewnosodyn. Golygwyd y cylchgrawn gan Alfred Ivor Parry tan Ebrill 1900, ac yna gan E. Myrddin Rees. Teitlau cysylltiol: The Home Messenger; The Pwllheli Messenger (1902).",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:2045290",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2045290\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2045325\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1899-01-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Vol. I No. 6 - December 1899"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2045325\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1899-01-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "Vol. I No. 6 - December 1899"
+        }
+    ]
+}

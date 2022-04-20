@@ -1,0 +1,38 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6153527\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Collections for Janet Niven"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection Summary for Janet Niven"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6153527\/newspaper\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Newspaper articles"
+                ]
+            }
+        }
+    ]
+}

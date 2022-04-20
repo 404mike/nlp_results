@@ -1,0 +1,116 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15433841\/journal\/llgc-id2062893_llgc-id2067949.json",
+    "@type": "sc:Collection",
+    "label": "Red Dragon",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "The Red dragon the national magazine of Wales"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Published in Cardiff by Daniel Owen and Company.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddwyd yng Nghaerdydd gan gwmni Daniel Owen, Caerdydd.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Frequency",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Amlder",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Monthly"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "A monthly literary and general periodical that published articles on Welsh history, biographies and poetry. The periodical was edited by its founder, the historian Charles Wilkins (Catwg, 1831-1913) until June 1885 and subsequently by James Harris. Printed by Daniel Owen and Company, Cardiff. Associated titles: Chwedlau, being the Christmas number of The Red Dragon.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn llenyddol a chyffredinol misol a oedd yn cyhoeddi erthyglau ar hanes Cymru, bywgraffiadau a barddoniaeth. Golygwyd y cylchgrawn gan ei sefydlydd, yr hanesydd Charles Wilkins (Catwg, 1831-1913), tan Fehefin 1885 ac yna gan James Harris. Argraffwyd y cylchgrawn gan gwmni Daniel Owen, Caerdydd. Teitlau cysylltiol: Chwedlau, being the Christmas number of The Red Dragon.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:2062893",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2062893\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2067949\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1885-01-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "December 1885"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2067949\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1885-01-01T00:00:00Z",
+            "license": "<a href=\"http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/\">http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/<\/a>",
+            "label": "December 1885"
+        }
+    ]
+}

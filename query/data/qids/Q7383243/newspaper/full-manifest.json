@@ -1,0 +1,47 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7383243\/newspaper\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Newspaper"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Newspaper"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7383243\/Manifest\/full-4014401-modsarticle40-4014406-1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1919-09-25"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7383243\/Collection\/full-4130198-modsarticle43-4130204-1.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1915-08-06"
+                ]
+            }
+        }
+    ]
+}

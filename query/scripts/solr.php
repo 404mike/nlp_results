@@ -106,6 +106,7 @@ class SolrSearch {
 
     $this->articles['journal'] = $journals;
 
+    echo "JORNAL\n";
     $this->writeArticleIndexManifest($qid, $journals, 'journal', false);
   }
 
@@ -166,7 +167,7 @@ class SolrSearch {
     // overrides if dealing with full page newspaper
     if($fullNewspaper) {
       $manifestUrl = "https://404mike.github.io/nel_results/data/qids/$qid/$type/full-manifest.json";
-        $fileLocation = "../data/qids/$qid/$type/full-manifest.json";
+      $fileLocation = "../data/qids/$qid/$type/full-manifest.json";
     }
 
     echo "1. Outputting Article Collection Manifest $type\n";
@@ -196,13 +197,16 @@ class SolrSearch {
       $title = date('Y-m-d', strtotime($v['date'][0]));
       // default variable
       $id = "https://404mike.github.io/nel_results/data/qids/$qid/$type/$v[article].json";
+      $type = ($k == 'newspaper') ? "Manifest" : "Collection";
+
       // if full page newspaper
       if($fullNewspaper) {
         $id = "https://404mike.github.io/nel_results/data/qids/$qid/$type/full-".$v['article'].".json";
       }
+
       $arr['items'][] = [
         "id" => $id,
-        "type" => "Collection",
+        "type" => $type,
         "label" => [
           "en" => [$title]
         ]
@@ -254,7 +258,7 @@ class SolrSearch {
 
       $id = "https://404mike.github.io/nel_results/data/qids/$qid/$k/manifest.json";
 
-      if($fullNewspaper) {
+      if($fullNewspaper && $k == 'newspaper') {
         $id = "https://404mike.github.io/nel_results/data/qids/$qid/$k/full-manifest.json";
       }      
       // echo count($v) . "\n";

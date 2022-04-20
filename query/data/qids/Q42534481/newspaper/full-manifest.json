@@ -1,0 +1,47 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q42534481\/newspaper\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Newspaper"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Newspaper"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q42534481\/Manifest\/full-3341144-modsarticle93-3341152-1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1895-11-29"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q42534481\/Collection\/full-4587971-modsarticle4-4587974-1.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1863-10-10"
+                ]
+            }
+        }
+    ]
+}

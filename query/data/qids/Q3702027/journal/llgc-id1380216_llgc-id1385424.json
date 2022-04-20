@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3702027\/journal\/llgc-id1380216_llgc-id1385424.json",
+    "@type": "sc:Collection",
+    "label": "Brycheiniog",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Brycheiniog",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Brycheiniog.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "The Brecknock Society was founded c. 1928 to promote understanding of the natural and historical heritage of the county. In 1986 it merged with the Friends of Brecknock Museum to form the Brecknock Society and Museum Friends.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Sefydlwyd Cymdeithas Brycheiniog tua 1928 i hybu dealltwriaeth o dreftadaeth naturiol a hanesyddol y sir. Yn 1986 ymunodd \u00e2 Chyfeillion Amgueddfa Brycheiniog i ffurfio Cymdeithas Brycheiniog a Chyfeillion yr Amgueddfa.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Brycheiniog is an annual English archaeologiocal and historical journal, containing academic articles relating to the area, book reviews, and obituaries. It also includes society notes.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn archeolegol a hanesyddol Saesneg blynyddol yw Brycheiniog ac mae\u2019n cynnwys erthyglau academaidd yn ymwneud \u00e2\u2019r ardal, adolygiadau ar lyfrau a rhestrau coffa. Mae hefyd yn cynnwys nodiadau ar y gymdeithas.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1380216",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1380216\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1385424\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "2000-01-01T00:00:00Z",
+            "label": "Vol. 32"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1385424\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "2000-01-01T00:00:00Z",
+            "label": "Vol. 32"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q26706969\/newspaper\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Newspaper"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Newspaper"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q26706969\/Manifest\/full-3428375-modsarticle158-3428382-1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1891-02-28"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q26706969\/Collection\/full-3429485-modsarticle178-3429492-1.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1892-07-16"
+                ]
+            }
+        }
+    ]
+}

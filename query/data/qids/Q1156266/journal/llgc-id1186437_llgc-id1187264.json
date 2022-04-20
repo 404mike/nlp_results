@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1156266\/journal\/llgc-id1186437_llgc-id1187264.json",
+    "@type": "sc:Collection",
+    "label": "Cambria",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Cambria a Welsh geographical review",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cambria : cylchgrawn daearyddol Cymreig",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Cambria was published by a group of geographers in Swansea and Aberystwyth Universities.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddwyd Cambria gan gr\u0175p o ddaearegwyr ym Mhrifysgolion Abertawe ac Aberystwyth.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Cambria was an annual English-language journal containing academic articles and book reviews on geographical and related topics. It was published between 1974 and 1989.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn Saesneg blynyddol yn cynnwys erthyglau academaidd ac adolygiadau ar lyfrau yn ymwneud \u00e2 phynciau daearyddol a materion cysylltiedig oedd Cambria. Cyhoeddid ef rhwng 1974 a 1989.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1186437",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1186437\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1187264\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1978-01-01T00:00:00Z",
+            "label": "Vol. 5, no.1"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1187264\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1978-01-01T00:00:00Z",
+            "label": "Vol. 5, no.1"
+        }
+    ]
+}

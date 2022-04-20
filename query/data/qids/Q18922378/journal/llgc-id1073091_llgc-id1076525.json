@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18922378\/journal\/llgc-id1073091_llgc-id1076525.json",
+    "@type": "sc:Collection",
+    "label": "Welsh history review",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Welsh History Review Cylchgrawn Hanes Cymru.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cylchgrawn Hanes Cymru \/ Welsh History Review",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Welsh History Review is published by the University of Wales Press on behalf of the History and Law Committee of the Board of Celtic Studies.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddir Cylchgrawn Hanes Cymru gan Wasg Prifysgol Cymru ar ran Pwyllgor Hanes a Chyfraith y Bwrdd Gwybodau Celtaidd.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Welsh History Review is published in four parts per volume, one volume every two years. The majority of the material is English but some is in Welsh. It contains academic articles and book reviews. It started publication in 1960 and continues; from Vol. 21 (2002) onwards, it has been published electronically by Ingenta, in addition to the paper version. They are not available at Welsh Jorunals Online.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cyhoeddir Cylchgrawn Hanes Cymru \/ Welsh History Review mewn pedair rhan i bob cyfrol, un gyfrol bob dwy flynedd. Mae mwyafrif y deunydd yn Saesneg ond mae rhywfaint ohono yn y Gymraeg. Mae\u2019n cynnwys erthyglau academaidd ac adolygiadau ar lyfrau. Dechreuodd gyhoeddi yn 1960 ac mae\u2019n parhau o hyd; o Gyfrol 21 (2002) ymlaen, mae wedi\u2019i gyhoeddi\u2019n electronig gan Ingenta, yn ogystal \u00e2\u2019r fersiwn papur. Nid ydynt ar gael ar Cylchgronau Cymru.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1073091",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1073091\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1076525\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1976-01-01T00:00:00Z",
+            "label": "77 - Vol. 8, nos. 1-4"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1076525\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1976-01-01T00:00:00Z",
+            "label": "77 - Vol. 8, nos. 1-4"
+        }
+    ]
+}

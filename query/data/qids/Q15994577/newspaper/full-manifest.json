@@ -1,0 +1,47 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994577\/newspaper\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Newspaper"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Newspaper"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994577\/Manifest\/full-3505632-modsarticle100-3505636-1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1877-10-06"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994577\/Collection\/full-3498193-modsarticle43-3498197-1.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1873-03-21"
+                ]
+            }
+        }
+    ]
+}

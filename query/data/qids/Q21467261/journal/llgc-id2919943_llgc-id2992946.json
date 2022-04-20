@@ -1,0 +1,92 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21467261\/journal\/llgc-id2919943_llgc-id2992946.json",
+    "@type": "sc:Collection",
+    "label": "Archaeologia Cambrensis (1846-1899)",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Archaeologia Cambrensis a record of the antiquities of Wales and its Marches and the journal of the Cambrian Archaeological Association"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Frequency",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Amlder",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Annual, 1942-"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "An English language magazine established in 1846 and published annually by the Cambrian Archaeological Association. It was an archaeological and historical scholarly journal, containing excavation reports, book reviews and historical essays, alongside society notes and accounts of field visits. It also included valuable information on manuscripts, genealogy, heraldry, place names, folklore and Welsh literature.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn Saesneg ei iaith a sefydlwyd yn 1846 ac a gyhoeddwyd yn flynyddol gan Gymdeithas Hynafiaethau Cymru, Roedd yn gylchgrawn ysgolheigaidd archeolegol a hanesyddol a gynhwysai adroddiadau ar golddiadau, adolygiadau llyfrau, traathodau hanesyddol ynghyd \u00e2 nodiadau'r Gymdeithas. Roedd yn ffynhonell werthfawr ar lawysgrifau, achyddiaeth, herodraeth, enwau lleoedd, ll\u00ean gwerin a llenyddiaeth Cymru.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:2919943",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2919943\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2992946\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1888-04-01T00:00:00Z",
+            "label": "Fifth Series Vol. V No. XVIII April 1888"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2992946\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1888-04-01T00:00:00Z",
+            "label": "Fifth Series Vol. V No. XVIII April 1888"
+        }
+    ]
+}

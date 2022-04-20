@@ -1,0 +1,331 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/manifests\/62599b02598a4\/full-index.json",
+    "type": "Collection",
+    "label": {
+        "en": "Collections for Welsh Artists"
+    },
+    "summary": {
+        "en": "Collection Summary for Welsh Artists"
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q274339\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Gwen John"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q449054\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Nina Hamnett"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q562540\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Augustus John"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1886336\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ben Johnson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2903257\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Bill James"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4722948\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alfred Janes"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4758799\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Andrew Vicari"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5039201\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Carey Morris"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5113432\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Christopher Williams"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5539465\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for George Frederick Harris"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6099370\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ivor Davies"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6450928\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Kyffin Williams"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Lindsay Williams"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6777644\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Martyn Jones"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7025356\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Nicholas Evans"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7199739\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Pixie O'Harris"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Thomas Brigstocke"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q8003042\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Will Roberts"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q11208643\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Thomas Tudor"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16106615\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ken Elias"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Hugh Hughes"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18200042\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Edward Pugh"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18601440\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Merlin James"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19360836\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Roger Cecil"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20054436\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Gwilym Prichard"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20631844\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for R. K. Penson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20748839\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Isaac John Williams"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21455263\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alfred Oliver"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21456839\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for James Flewitt Mullock"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21457000\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Elinor Evans"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21459585\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Joan Baker"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21460680\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for John Cambrian Rowland"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21462817\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Vincent Evans"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21467261\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for David Mainwaring"
+                ]
+            }
+        }
+    ]
+}

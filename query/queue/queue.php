@@ -225,7 +225,7 @@ class AmpQueue {
 
     file_put_contents($manifestFileName,json_encode($arr,JSON_PRETTY_PRINT));
 
-    // $this->db->exec("UPDATE `queue` SET status='1' WHERE `project` = '$project'");
+    $this->db->exec("UPDATE `queue` SET status='1' WHERE `project` = '$project'");
   }
 }
 

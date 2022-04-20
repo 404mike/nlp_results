@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7197476\/journal\/llgc-id1179046_llgc-id1181915.json",
+    "@type": "sc:Collection",
+    "label": "Contemporary Wales",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Contemporary Wales an annual of economic & social research.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Contemporary Wales",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Contemporary Wales is published by the University of Wales Press on behalf of the Board of Celtic Studies.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddir Contemporary Wales gan Wasg Prifysgol Cymru ar ran y Bwrdd Gwybodau Celtaidd.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Contemporary Wales is an annual English-language journal containing academic articles and reviews relating to politics, history and current affairs. It was started in 1987 and continues, although 2001 is the last issue digitised here.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn Saesneg blynyddol yn cynnwys erthyglau academaidd ac adolygiadau yn ymwneud \u00e2 gwleidyddiaeth, hanes a materion cyfoes yw Contemporary Wales. Ymddangosodd gyntaf yn 1987 ac mae\u2019n parhau, er mai rhifyn 2001 yw\u2019r un olaf a ddigidwyd yma.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1179046",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1179046\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1181915\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "2000-01-01T00:00:00Z",
+            "label": "Vol. 13"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1181915\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "2000-01-01T00:00:00Z",
+            "label": "Vol. 13"
+        }
+    ]
+}

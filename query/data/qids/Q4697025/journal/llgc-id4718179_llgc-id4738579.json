@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4697025\/journal\/llgc-id4718179_llgc-id4738579.json",
+    "@type": "sc:Collection",
+    "label": "Archaeologia Cambrensis (1900-1999)",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Archaeologia Cambrensis (1900-1999)",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Archaeologia Cambrensis (1900-1999)",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "The Cambrian Archaeological Association was founded in 1846 to examine, preserve and illustrate the ancient monuments and remains of the history, language, manners, customs, arts and industries of Wales and the Marches and to educate the public in such matters.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ffurfiwyd Cymdeithas Hynafiaethau Cymru yn 1846 er mwyn archwilio, diogelu a darlunio henebion a gweddillion hanes, iaith, dulliau, traddodiadau, celfyddydau a diwydiannau Cymru a\u2019r Gororau ac i addysgu\u2019r cyhoedd yn y materion hyn.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Archaeologia Cambrensis is an English-language archaeological and historial scholarly journal, published annually, containing excavation reports, book reviews, and historical essays. It also includes society notes and accounts of field visits. The publication history of the title is complex with inconsistent volume numbering and multiple series. For digitisation, the publication has been split into two sequences: First Series Vol. 1 (1846) \u2013 Fifth Series Vol. XVI (1899) and Fifth Series Vol. XVII (1900)-present.",
+            "@language": "en"
+        },
+        {
+            "@value": "Cyfnodolyn ysgolheigaidd archaeolegol a hanesyddol a gyhoeddir yn flynyddol yn y Saesneg yw Archaeologia Cambrensis, yn cynnwys adroddiadau ar gloddiadau, adolygiadau o lyfrau a thraethodau hanesyddol. Ceir ynddo hefyd nodiadau cymdeithasol ac adroddiadau ar ymweliadau maes. Mae hanes cyhoeddi y cyfnodolyn hwn yn gymhleth; mae rhifau\u2019r cyfrolau yn anghyson ac mae yna amryw o gyfresi. Rhannwyd y cyhoeddiad yn ddwy gyfres ar gyfer digido: Y Gyfres Gyntaf Cyf. 1 (1846) \u2013 Y Bumed Gyfres Cyf. XVI (1899) a\u2019r Bumed Gyfres Cyf. XVII (1900)-heddiw.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:4718179",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/4718179\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4738579\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1939-01-01T00:00:00Z",
+            "label": "Vol. 94"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/4738579\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1939-01-01T00:00:00Z",
+            "label": "Vol. 94"
+        }
+    ]
+}

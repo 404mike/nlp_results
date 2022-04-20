@@ -1,0 +1,47 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q22111840\/newspaper\/full-manifest.json",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Newspaper"
+        ]
+    },
+    "summary": {
+        "en": [
+            "Collection of Newspaper"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q22111840\/Manifest\/full-3490388-modsarticle75-3490391-1.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "1902-10-20"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q22111840\/Collection\/full-3490393-modsarticle19-3490395-1.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "1902-10-20"
+                ]
+            }
+        }
+    ]
+}

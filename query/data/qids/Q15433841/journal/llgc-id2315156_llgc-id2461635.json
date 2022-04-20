@@ -1,0 +1,116 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15433841\/journal\/llgc-id2315156_llgc-id2461635.json",
+    "@type": "sc:Collection",
+    "label": "treasury",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "The treasury a monthly miscellany and missionary reporter in connection with the Calvinistic Methodist churches"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Published and printed in Llanelli by David Williams and Son until December 1877, and subsequently in Newport by William Jones.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cyhoeddwyd ac argraffwyd yn Llanelli gan David Williams a'i Fab tan Ragfyr 1877, ac yna yng Nghasnewydd gan William Jones.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Frequency",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Amlder",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Monthly"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "A monthly religious periodical serving the churches of the Calvinistic Methodists. The periodical's main contents were religious articles and denominational news. The periodical was edited by the minister, Joseph Evans (1832-1909). Associated titles: The Treasury with which is incorporated The Torch (1913).",
+            "@language": "en"
+        },
+        {
+            "@value": "Cylchgrawn crefyddol misol a oedd yn gwasanaethu eglwysi'r Methodistiaid Calfinaidd. Prif gynnwys y cylchgrawn oedd erthyglau crefyddol a newyddion enwadol. Golygwyd y cylchgrawn gan y gweinidog, Joseph Evans (1832-1909). Teitlau cysylltiol: The Treasury with which is incorporated The Torch (1913).",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:2315156",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/2315156\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2461635\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1883-01-01T00:00:00Z",
+            "license": "<a href=\"https:\/\/creativecommons.org\/publicdomain\/mark\/1.0\/\">https:\/\/creativecommons.org\/publicdomain\/mark\/1.0\/<\/a>",
+            "label": "Vol XX No. 240 - December 1883"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/2461635\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1883-01-01T00:00:00Z",
+            "license": "<a href=\"https:\/\/creativecommons.org\/publicdomain\/mark\/1.0\/\">https:\/\/creativecommons.org\/publicdomain\/mark\/1.0\/<\/a>",
+            "label": "Vol XX No. 240 - December 1883"
+        }
+    ]
+}

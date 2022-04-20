@@ -1,0 +1,2176 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/3\/context.json",
+    "id": "https:\/\/404mike.github.io\/nel_results\/data\/manifests\/62599b1219cf0\/full-index.json",
+    "type": "Collection",
+    "label": {
+        "en": "Collections for Female Scientist"
+    },
+    "summary": {
+        "en": "Collection Summary for Female Scientist"
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Example Organization"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q167163\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ruth Lea"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q184746\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jane Goodall"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q333992\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Eleanor Rathbone"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q334261\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Maria Miller"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4088416\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Clementina Black"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4497588\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Polly Hill"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759288\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Cole"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18166802\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Kate Wilson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q24262871\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jane Fawcett"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q27978732\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Elizabeth Brunner"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5363689\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Elizabeth Warrington"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q24034988\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Rosa Lee"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q28063907\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jane Gibson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q29570333\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Julia Lane"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q42534481\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Anderson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q50006977\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Marian Scott"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q52581420\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Florence Bell"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q29612\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Louise Johnson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2584463\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Winifred Watkins"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5367615\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Elsie Maud Wakefield"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6171595\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jean Thomas"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6709370\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Lynne Jones"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7050058\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Nora Barlow"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q14626703\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Eleanor Vachell"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15430700\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Gertrude Bacon"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16143748\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Shirley Agnew"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18759358\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary English"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19279073\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Elizabeth Robertson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19324976\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alicia Amherst"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325624\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ethel Thomas"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19857138\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jane Clarke"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21522120\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Lily Newton"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q26202440\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Elizabeth Cutter"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q32904744\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Richards"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q60430973\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Knox"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q214565\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Beatrix Potter"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21505331\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Eleonora Armitage"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q36511552\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Anne Stephenson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7416\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Thatcher"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5271679\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Dianne Edwards"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5553312\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Gertrude Elles"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6153630\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Janet Vaughan"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q17017041\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Winifred Cullis"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2900256\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Betty Moore"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3278112\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Dorothea Bate"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15492631\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Juliet Clutton-Brock"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19037431\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Annie Walker"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20146200\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Dorothy Marshall"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21664582\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alice Johnson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q29033549\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Garson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q37614457\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Emma Sherratt"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q51335\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Charlotte Lewis"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q76101921\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Dorothy Banks"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4693039\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Agnes Giberne"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4783329\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Arabella Buckley"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5378861\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Enid Charles"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6152784\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jane Smart"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6376760\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Kathleen Jones"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6779635\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Gillham"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18917216\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Hilda Ormsby"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18921880\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Helen Macdonald"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18936049\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Frances Wolseley"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325445\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Dorothy Middleton"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19598646\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Frances Pitt"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19872212\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Emily Collins"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q24718197\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jane Rumble"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q38589865\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Katie Allen"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q41776047\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Sarah Curtis"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q231111\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Leakey"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q276466\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Lydia Becker"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q394451\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Agnes Arber"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q442167\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Miriam Rothschild"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q442231\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Marie Stopes"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2836657\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alice Roberts"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4766275\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ann Bishop"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4768875\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Anne Warner"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7562969\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Sophie Bryant"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15990084\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Joan Clarke"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994577\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alice Lee"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21664763\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Millington"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q24572773\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alice Rogers"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q28199990\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Helen Wilson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q76944\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Kate Bosse-Griffiths"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q97232\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ruth Glass"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q270855\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Toft"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q275622\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Dorothy Garrod"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q432784\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Archer"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q454536\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Catherine Hakim"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q542410\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ann Oakley"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q545915\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Dorothy E. Smith"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7422836\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Sarah Thornton"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15460257\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Janet Ford"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18527942\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Edith Paterson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18619099\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Pamela Abbott"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18762035\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Stacey"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q25204271\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Tracer"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q34004176\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Sarah Birch"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q50825641\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Grace Davie"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q242542\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Murray"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q435411\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Marilyn Strathern"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q548029\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Audrey Richards"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1570201\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jacquetta Hawkes"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2646964\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alice Teichova"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4693025\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Agnes Conway"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4697025\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Aileen Fox"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4726108\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alice Stewart"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5045145\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Caroline Malone"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5045253\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Caroline Wilkinson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5362803\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Elizabeth French"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6375498\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Kate Fox"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7351503\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Roberta Gilchrist"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7383243\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ruth Tringham"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15433841\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Catherine Morgan"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994713\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Rosemary Cramp"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q17385736\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Charlotte Roberts"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18674139\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Read"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q37315513\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ruth Finnegan"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q47004865\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jane Hubert"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q275074\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Eva Crane"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3296137\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Archer"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5478964\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Frances Stewart"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6187638\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jessie Boucherett"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6896677\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Molly Scott Cato"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15126947\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jenny Scott"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15442026\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Janet Watson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18526599\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Barbara Foxley"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18559822\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Robertson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18572304\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Barbara Hammond"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18671109\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Elisabeth Murray"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q452354\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Gertrude Jekyll"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q546303\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Kate Marsden"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1156266\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Doreen Massey"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2425165\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ellen Willmott"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4725784\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alice Coleman"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5362281\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Elizabeth Alexander"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6303626\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Judith Rees"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7660904\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Sylvia Crowe"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15990008\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Gillian Griffiths"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q22915105\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Anne Cooke"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q450366\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Philippa Fawcett"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q452086\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Charlotte Scott"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q452158\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Cartwright"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1156193\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Eleanor Mildred Sidgwick"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1418322\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mavis Batey"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3702027\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Rees"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q12326341\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Malone"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15917367\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Helen Mason"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994469\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ruth Gregory"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994650\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Elizabeth Morris"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994716\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Marion Ross"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16979968\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jenny Nelson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q269848\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Myra Hess"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2089222\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Phyllis Sellick"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2735176\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Eva Turner"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4502757\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Marjorie Hayward"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5298462\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Dorothy Howell"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5298633\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Dorothy Silk"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6152522\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jane Manning"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6153527\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Janet Niven"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6376888\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Kathleen Richards"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6766340\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Marjorie Thomas"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6779704\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Hammond"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6780174\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Lucas"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7143577\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Pat Hudson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994641\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Anne Mills"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16873337\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Rachel Jenkins"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q28925161\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret May"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q432851\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Sheila Rowbotham"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1017265\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ann Brown"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759181\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Bennett"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7197476\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Pippa Norris"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q17489680\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Julie Smith"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18164174\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Millicent Mackenzie"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18526617\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Beatrice Chamberlain"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18738721\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Leonore Davidoff"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18917197\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alice Bruce"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18922096\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Caroline Herford"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18922378\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jean Lindsay"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19043388\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Somerville"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325151\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Rachel Scott"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19325423\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Dilys Glynne Jones"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19954494\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Doris Reynolds"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20676261\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Claire Wallace"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q23024039\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Sheepshanks"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q27978991\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jane Plant"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q30123119\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Susan Baker"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q459872\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Harriet Cohen"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q600922\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Joan Dickson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q1908732\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mathilde Verne"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3061380\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Evelyn Cheesman"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3560417\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Violet Alford"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5200106\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Cynthia Longfield"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6409537\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Kim Walker"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7368981\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Rosita Forbes"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q13422007\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Georgina Roberts"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15453318\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Isolde Menges"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15990005\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Lucy Green"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18529286\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Wood"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q238890\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Kathleen Kenyon"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3315889\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Miranda Aldhouse-Green"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4858874\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Barbara Edwards"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5702603\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Helen King"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6179340\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jenny Jones"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15994402\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Emily Dix"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18674199\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Kitson Clark"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18715540\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Brodrick"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q19520030\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Clare Fell"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q22234320\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Dilys Glynne"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q37591827\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Dix"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q42720207\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Clare Hartwell"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q55415750\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Grace Simpson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759914\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Stanley"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7647962\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Susan Hogan"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q20988956\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Guido"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21062161\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Julie Williams"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q27001197\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Elizabeth Shaw"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q43956385\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Vera I. Evison"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q47091408\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Catherine Johns"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q48700682\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Alice Stevenson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q55415757\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Brenda Swinbank"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q55978755\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Glenys Lloyd-Morgan"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q2406260\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Tessa Wheeler"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4768475\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Anne Johnson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5046240\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Carrie Grant"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5364540\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ella Mary Leather"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5372983\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Emma Louisa Turner"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5400905\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Estella Canziani"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q15492255\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Jacqueline Simpson"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18164438\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margerie Venables Taylor"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q18819729\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Nora Griffith"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q23884035\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Coombs"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q26706969\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Edith Eccles"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q30102308\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Joan Liversidge"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q42555320\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Margaret Brown"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q46744743\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Dorothy Charlesworth"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q4965445\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Ruth Manning-Sanders"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q22111840\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Frances Murphy"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q38148777\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Kate Maxwell"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q41791981\/full-manifest.json",
+            "type": "Collection",
+            "label": {
+                "en": [
+                    "Collections for Mary Sheridan"
+                ]
+            }
+        }
+    ]
+}

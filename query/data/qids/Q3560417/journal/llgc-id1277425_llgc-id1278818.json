@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q3560417\/journal\/llgc-id1277425_llgc-id1278818.json",
+    "@type": "sc:Collection",
+    "label": "National Library of Wales journal",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "National Library of Wales journal",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Cylchgrawn Llyfrgell Genedlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "The National Library of Wales was founded by royal charter in 1907 to collect, preserve and give access to all kinds and forms of recorded knowledge, especially relating to Wales and the Welsh people. It is based in Aberystwyth and is now an Assembly Government Sponsored Body. It holds extensive collections of printed books and journals, maps, paintings and archival material.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Sefydlwyd Llyfrgell Genedlaethol Cymru drwy Siartr Frenhinol yn 1907 i gasglu, diogelu a rhannu pob math o wybodaeth cofnodedig, yn enwedig gwybodaeth ar Gymru a\u2019r Cymry. Lleolir y Llyfrgell yn Aberystwyth ac mae'n awr yn Gorff a noddir gan Lywodraeth y Cynulliad Cenedlaethol. Mae\u2019n cynnwys casgliadau helaeth o lyfrau printiedig a chyfnodolion, mapiau, paentiadau a deunydd archifol.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "The National Library of Wales journal \/ Cylchgrawn Llyfrgell Genedlaethol Cymru is an annual journal containing scholarly articles on historical topics relating to the Library\u2019s collections. It contains articles in English and Welsh. When the journal started, two parts were issued annually, forming a four-part volume every two years; since 2004 one issue has been published annually. It was published between 1939 and 2008.",
+            "@language": "en"
+        },
+        {
+            "@value": "Mae Cylchgrawn Llyfrgell Genedlaethol Cymru yn gyfnodolyn blynyddol sy'n cynnwys erthyglau ysgolheigaidd ar destunau hanesyddol sy\u2019n ymwneud \u00e2 chasgliadau\u2019r Llyfrgell. Mae\u2019n cynnwys erthyglau Cymraeg a Saesneg. Pan gychwynwyd cyhoeddi'r cyfnodolyn, cyhoeddwyd dau ran yn flynyddol, i greu un cyfrol pedair rhan bob dwy flynedd; cyhoeddwyd un yn unig bob blwyddyn ers 2004. Cyhoeddwyd rhwng 1939 a 2008.",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1277425",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1277425\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1278818\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1949-07-01T00:00:00Z",
+            "label": "Cyf. 6, rh. 1"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1278818\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1949-07-01T00:00:00Z",
+            "label": "Cyf. 6, rh. 1"
+        }
+    ]
+}

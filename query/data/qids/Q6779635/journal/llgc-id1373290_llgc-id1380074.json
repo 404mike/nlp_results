@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6779635\/journal\/llgc-id1373290_llgc-id1380074.json",
+    "@type": "sc:Collection",
+    "label": "Reports and transactions (Cardiff Naturalists' Society), 1900-1981",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "Reports and transactions (Cardiff Naturalists' Society), 1900-1981",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Reports and transactions (Cardiff Naturalists' Society) 1900-1981",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Journal details",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Manylion y cylchgrawn",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "The Cardiff Naturalists' Society was founded in 1867 to promote the study of natural history, geology, and the natural sciences, taking in archaeology and zoology. Its members participate in programs of field visits and lectures and the Society has strong links with Cardiff museums and academic institutions. The Society is still active.",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Sefydlwyd Cymdeithas Naturiaethwyr Caerdydd yn 1867 er mwyn hyrwyddo\u2019r astudiaeth o hanes naturiol, geoleg a\u2019r gwyddorau naturiol, gan dynnu ar archaeoleg a s\u0175oleg. Mae ei haelodau yn cyfrannu mewn rhaglenni o ymweliadau maes a darlithoedd ac mae gan y Gymdeithas gysylltiadau cryf gydag amgueddf\u00e9ydd a sefydliadau ysgolheigaidd Caerdydd. Mae\u2019r Gymdeithas yn weithredol hyd heddiw.",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": [
+        {
+            "@value": "Reports and transactions (Cardiff Naturalists' Society) was published annually, containing scholarly articles on geology, archaeology and natural history, with book reviews and society notes. It was published between 1870 and 1986. For digitisation, the publication has been split into two sequences: Vol. 1 (1867) \u2013 Vol. 31 (1898-1899) and Vol. 32 (1899-1900) -Vol. 100 (1986).",
+            "@language": "en"
+        },
+        {
+            "@value": "Cyhoeddwyd \u2018Reports and transactions (Cardiff Naturalists' Society)\u2019 yn flynyddol, yn cynnwys erthyglau ysgolheigaidd ar geoleg, archaeoleg a hanes naturiol yngh\u0177d ag adolygiadau ar lyfrau a nodiadau cymdeithasol. Fe'i cyhoeddid rhwng 1870 and 1986. Rhannwyd y cyhoeddiad yn ddwy gyfres ar gyfer y gwaith digido: Cyf. 1 (1867) \u2013 Cyf. 31 (1898-1899) a Chyf. 32 (1899-1900) -Cyf. 100 (1986).",
+            "@language": "cy-GB"
+        }
+    ],
+    "seeAlso": {
+        "@id": "https:\/\/damsssl.llgc.org.uk\/object\/llgc-id:1373290",
+        "format": "application\/rdf+xml",
+        "profile": "http:\/\/www.europeana.eu\/schemas\/edm\/"
+    },
+    "service": {
+        "@context": "http:\/\/iiif.io\/api\/search\/1\/context.json",
+        "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/journals\/1373290\/search",
+        "profile": "http:\/\/iiif.io\/api\/search\/1\/search"
+    },
+    "manifests": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1380074\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1976-01-01T00:00:00Z",
+            "label": "78 - Vol. XCIX"
+        }
+    ],
+    "members": [
+        {
+            "@id": "https:\/\/damsssl.llgc.org.uk\/iiif\/2.0\/1380074\/manifest.json",
+            "@type": "sc:Manifest",
+            "navDate": "1976-01-01T00:00:00Z",
+            "label": "78 - Vol. XCIX"
+        }
+    ]
+}
