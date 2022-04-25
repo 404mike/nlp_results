@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5039201\/Manifest\/full-3585775-modsarticle28-3585778-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5039201\/newspaper\/full-3585775-modsarticle28-3585778-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5039201\/Collection\/full-3585775-modsarticle28-3585778-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q5039201\/newspaper\/full-3585775-modsarticle28-3585778-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1917-05-11"

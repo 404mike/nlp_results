@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/Manifest\/full-4519513-modsarticle4-4519515-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/newspaper\/full-4519513-modsarticle4-4519515-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/Collection\/full-4518353-modsarticle46-4518358-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q16845399\/newspaper\/full-4518353-modsarticle46-4518358-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1883-11-24"

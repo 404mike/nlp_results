@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7025356\/Manifest\/full-3884012-modsarticle75-3884016-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7025356\/newspaper\/full-3884012-modsarticle75-3884016-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7025356\/Collection\/full-4314512-modsarticle72-4314516-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7025356\/newspaper\/full-4314512-modsarticle72-4314516-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1884-04-02"

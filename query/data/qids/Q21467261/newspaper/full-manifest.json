@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21467261\/Manifest\/full-3506231-modsarticle70-3506234-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21467261\/newspaper\/full-3506231-modsarticle70-3506234-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21467261\/Collection\/full-3810594-modsarticle45-3810601-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q21467261\/newspaper\/full-3810594-modsarticle45-3810601-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1889-04-12"

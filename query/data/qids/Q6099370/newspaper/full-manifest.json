@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6099370\/Manifest\/full-3670429-modsarticle59-3670432-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6099370\/newspaper\/full-3670429-modsarticle59-3670432-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6099370\/Collection\/full-3813056-modsarticle9-3813059-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6099370\/newspaper\/full-3813056-modsarticle9-3813059-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1896-06-26"

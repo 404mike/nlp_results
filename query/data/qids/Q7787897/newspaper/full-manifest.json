@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/Manifest\/full-3052863-modsarticle12-3052865-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/newspaper\/full-3052863-modsarticle12-3052865-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/Collection\/full-3100706-modsarticle13-3100708-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q7787897\/newspaper\/full-3100706-modsarticle13-3100708-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1862-12-31"

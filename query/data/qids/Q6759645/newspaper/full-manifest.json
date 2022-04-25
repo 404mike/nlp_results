@@ -26,7 +26,7 @@
     },
     "items": [
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/Manifest\/full-3661980-modsarticle10-3661983-1.json",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/full-3661980-modsarticle10-3661983-1.json",
             "type": "Manifest",
             "label": {
                 "en": [
@@ -35,8 +35,8 @@
             }
         },
         {
-            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/Collection\/full-3661980-modsarticle13-3661983-1.json",
-            "type": "Collection",
+            "id": "https:\/\/404mike.github.io\/nel_results\/data\/qids\/Q6759645\/newspaper\/full-3661980-modsarticle13-3661983-1.json",
+            "type": "Manifest",
             "label": {
                 "en": [
                     "1910-09-23"

@@ -106,7 +106,6 @@ class SolrSearch {
 
     $this->articles['journal'] = $journals;
 
-    echo "JORNAL\n";
     $this->writeArticleIndexManifest($qid, $journals, 'journal', false);
   }
 
@@ -126,7 +125,7 @@ class SolrSearch {
       $filename = "../data/qids/$qid/newspaper/$artcile_name.json";
 
       // check if manifest has been created previously
-      if(!file_exists($filename."gg")) {
+      if(!file_exists($filename)) {
 
         // break article ID into parts
         $artParts = explode('-',$v['art_id_s']);
@@ -197,7 +196,7 @@ class SolrSearch {
       $title = date('Y-m-d', strtotime($v['date'][0]));
       // default variable
       $id = "https://404mike.github.io/nel_results/data/qids/$qid/$type/$v[article].json";
-      $type = ($k == 'newspaper') ? "Manifest" : "Collection";
+      $manifesttype = ($type == 'newspaper') ? "Manifest" : "Collection";
 
       // if full page newspaper
       if($fullNewspaper) {
@@ -206,7 +205,7 @@ class SolrSearch {
 
       $arr['items'][] = [
         "id" => $id,
-        "type" => $type,
+        "type" => $manifesttype,
         "label" => [
           "en" => [$title]
         ]

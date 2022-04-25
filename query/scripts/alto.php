@@ -35,6 +35,8 @@ class AltoImage {
   private function getAlto($width, $height)
   {
     $url = 'http://newspapers.library.wales/json/viewarticledata/llgc-id%3A'.$this->pid;
+    echo "$url\n";
+    echo $this->targetArt . "\n";
 
     $alto = json_decode(file_get_contents($url),true);
 
@@ -48,6 +50,9 @@ class AltoImage {
 
     if($numberArticles > 1) {
       $cord = $this->multiplePosition($alto[$positionKey]);
+      return $this->calculate($width,$height,$cord,$this->pid);
+    }else{
+      $cord = $this->singlePosition($alto[$positionKey]);
       return $this->calculate($width,$height,$cord,$this->pid);
     }
   }
@@ -68,15 +73,39 @@ class AltoImage {
     $newH = $value['h'] * $height;
     
     // override for the viewer
-    $newH = 900;
+    // $newH = 900;
 
     return [$newX,$newY,$newW,$newH];
   
   }
 
-  private function singlePosition()
+  private function singlePosition($alto)
   {
+    // default
+    $x = [];
+    $y = [];
+    $h = 0;
+    $w = [];
 
+    foreach($alto['textBlocks'] as $k => $v) {
+      $x[] = $v['x'];
+      $y[] = $v['y'];
+      $h += $v['h'];
+      $w[] = $v['w'];
+    }
+
+    $_x = min($x);
+    $_y = min($y);
+    $_w = max($w);
+
+    $cord = [
+      'x' => $_x,
+      'y' => $_y,
+      'h' => $h,
+      'w' => $_w
+    ];
+
+    return $cord;
   }
 
   private function multiplePosition($alto)
@@ -110,7 +139,12 @@ class AltoImage {
 
   private function writeContentStateManifest($coord, $canvas_id, $parent_id, $filename)
   {
-    if(empty($coord)) return;
+    if(empty($coord)) {
+      echo "$coord, $canvas_id, $parent_id, $filename\n";
+      print_r($coord);
+      die('END');
+      return;
+    }
     
     $xyhw = implode(',',$coord);
 
