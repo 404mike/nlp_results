@@ -34,5 +34,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "Welsh artist"
+        ]
+    },
+    "personImage": {
+        "en": [
+            ""
+        ]
+    }
 }

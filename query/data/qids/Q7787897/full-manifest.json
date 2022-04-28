@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "British artist (1809-1881)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4f\/Thomas_Brigstocke.jpg"
+        ]
+    }
 }

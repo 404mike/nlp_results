@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "British artist (1882-1968)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/21\/Carey-Morris.jpg"
+        ]
+    }
 }

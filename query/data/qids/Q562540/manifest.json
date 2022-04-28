@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "Welsh painter (1878-1961)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/31\/Augustus_John_by_George_Charles_Beresford_%281902%29_%28NPG_x13487%29.jpg"
+        ]
+    }
 }

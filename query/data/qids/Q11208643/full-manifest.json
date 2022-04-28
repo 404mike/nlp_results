@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "land agent and artist (1785-1885)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/82\/ThomasTudor.jpg"
+        ]
+    }
 }

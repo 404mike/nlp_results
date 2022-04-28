@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "British artist, teacher\u00a0(1922\u20132017)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            ""
+        ]
+    }
 }

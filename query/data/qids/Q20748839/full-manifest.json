@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "first Keeper of Art at the National Museum of Wales"
+        ]
+    },
+    "personImage": {
+        "en": [
+            ""
+        ]
+    }
 }

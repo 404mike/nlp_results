@@ -34,5 +34,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "British artist"
+        ]
+    },
+    "personImage": {
+        "en": [
+            ""
+        ]
+    }
 }

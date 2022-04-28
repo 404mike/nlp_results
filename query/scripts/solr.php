@@ -2,12 +2,14 @@
 
 include_once 'alto.php';
 include_once 'journal.php';
+include_once 'wikidata.php';
 
 class SolrSearch {
 
   private $solr;
   private $alto;
   private $journal;
+  private $wiki;
 
   private $articles = [];
 
@@ -16,6 +18,7 @@ class SolrSearch {
     $this->solr = 'http://localhost:8983/solr/amp/';
     $this->alto = new AltoImage();
     $this->journal = new ParseJournalManifest();
+    $this->wiki = new Wikidata();
   }
 
   /**
@@ -222,6 +225,9 @@ class SolrSearch {
   {
     echo "2. Outputting Main Index Manifest\n";
 
+
+    $personData = $this->wiki->getQidData($qid);
+
     $manifestUrl = "https://404mike.github.io/nel_results/data/qids/$qid/manifest.json";
     $filename = "../data/qids/$qid/manifest.json";
     
@@ -250,6 +256,17 @@ class SolrSearch {
       "items" => []
     ];
 
+    // add person description if we have one
+    if(isset($personData['description'])) {
+      $arr["personDescription"] = ['en' => [$personData['description']]];
+    }
+
+    // add person image if we have one
+    if(isset($personData['image'])) {
+      $arr["personImage"] = ['en' => [$personData['image']]];
+    }
+
+    // add linked articles
     foreach($this->articles as $k => $v) {
 
       if(empty($v)) continue;

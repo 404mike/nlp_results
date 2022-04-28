@@ -3,10 +3,14 @@
     "id": "https:\/\/404mike.github.io\/nel_results\/data\/manifests\/62599b02598a4\/full-index.json",
     "type": "Collection",
     "label": {
-        "en": "Collections for Welsh Artists"
+        "en": [
+            "Collections for Welsh Artists"
+        ]
     },
     "summary": {
-        "en": "Collection Summary for Welsh Artists"
+        "en": [
+            "Collection Summary for Welsh Artists"
+        ]
     },
     "requiredStatement": {
         "label": {

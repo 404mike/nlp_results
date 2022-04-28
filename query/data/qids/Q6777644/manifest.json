@@ -34,5 +34,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "British artist"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d9\/Martyn_Jones_2009.jpg"
+        ]
+    }
 }

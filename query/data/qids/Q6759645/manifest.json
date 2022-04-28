@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "Welsh painter (1888-1960)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0e\/Margaret_Lindsay_Williams_%26_painting_of_Warren_G._Harding.jpg"
+        ]
+    }
 }

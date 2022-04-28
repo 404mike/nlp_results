@@ -23,10 +23,11 @@ class AltoImage {
     
     $width = $manifest['width'];
     $height = $manifest['height'];
+    $dime = ['width' => $width, 'height' => $height];
 
     $coord = $this->getAlto($width,$height);
 
-    $this->writeContentStateManifest($coord, $canvas_id, $parent_id, $filename);
+    $this->writeContentStateManifest($coord, $canvas_id, $parent_id, $filename, $dime);
 
     // whole newspaper page 
     $this->prepareWholePage($canvas_id, $filename, $date);
@@ -35,8 +36,8 @@ class AltoImage {
   private function getAlto($width, $height)
   {
     $url = 'http://newspapers.library.wales/json/viewarticledata/llgc-id%3A'.$this->pid;
-    echo "$url\n";
-    echo $this->targetArt . "\n";
+    // echo "$url\n";
+    // echo $this->targetArt . "\n";
 
     $alto = json_decode(file_get_contents($url),true);
 
@@ -137,13 +138,12 @@ class AltoImage {
     return $cord;
   }
 
-  private function writeContentStateManifest($coord, $canvas_id, $parent_id, $filename)
+  private function writeContentStateManifest($coord, $canvas_id, $parent_id, $filename, $dime)
   {
+    // if the $coord is empty the alto may be on the previous page
     if(empty($coord)) {
-      echo "$coord, $canvas_id, $parent_id, $filename\n";
-      print_r($coord);
-      die('END');
-      return;
+      $this->pid = ((int)$this->pid - 1);
+      $coord = $this->getAlto($dime['width'], $dime['height']);
     }
     
     $xyhw = implode(',',$coord);

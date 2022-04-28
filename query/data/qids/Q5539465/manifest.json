@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "Welsh artist; moved to Australia 1920"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/60\/Portrait_of_a_Man_%28gcf05119%29.jpg"
+        ]
+    }
 }

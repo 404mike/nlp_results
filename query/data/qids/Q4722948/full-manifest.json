@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "painter (1911-1999)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            ""
+        ]
+    }
 }

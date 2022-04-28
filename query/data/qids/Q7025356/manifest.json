@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "British artist (1907-2004)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            ""
+        ]
+    }
 }

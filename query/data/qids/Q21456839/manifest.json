@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "British painter (1818-1892)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            ""
+        ]
+    }
 }

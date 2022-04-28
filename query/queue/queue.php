@@ -189,10 +189,10 @@ class AmpQueue {
       "id" => $manifestUrl,
       "type" => "Collection",
       "label" => [
-        "en" => "Collections for $project_title"
+        "en" => ["Collections for $project_title"]
       ],
       "summary" => [
-        "en" => "Collection Summary for $project_title"
+        "en" => ["Collection Summary for $project_title"]
       ],
       "requiredStatement" => [
         "label" => [

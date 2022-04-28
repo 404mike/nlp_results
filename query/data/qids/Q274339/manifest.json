@@ -43,5 +43,15 @@
                 ]
             }
         }
-    ]
+    ],
+    "personDescription": {
+        "en": [
+            "Welsh painter (1876-1939)"
+        ]
+    },
+    "personImage": {
+        "en": [
+            "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/69\/Gwen_John_-_Self-portrait_%281900%29.jpg"
+        ]
+    }
 }
