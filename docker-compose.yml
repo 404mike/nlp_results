@@ -1,0 +1,17 @@
+version: '3.2'
+
+services:
+  webserver:
+    image: php:7.4.3-apache
+    container_name: web
+    ports:
+      - "8181:80"
+    depends_on:
+      - solr
+    volumes:
+      - .:/var/www/html
+  solr:
+    image: solr:latest
+    container_name: solr
+    ports:
+      - "8983:8983"
