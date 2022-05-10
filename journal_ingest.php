@@ -83,17 +83,17 @@ class IngestData {
       $solr[] = $arr;
     }
 
-    $solr[] = [
-      'commitWithin' => 1000,
-      'overwrite' => true
-    ];
+    // $solr[] = [
+    //   'commitWithin' => 1000,
+    //   'overwrite' => true
+    // ];
 
     $this->ingest($solr);
   }
 
   private function ingest($data)
   {
-    $ch = curl_init($this->solr . ":8983/solr/amp/update/json");
+    $ch = curl_init($this->solr . ":8983/solr/amp/update?wtjson&commitWithin=1000&overwrite=true");
 
     $data_string = json_encode($data);
 

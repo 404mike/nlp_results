@@ -23,14 +23,14 @@ class IngestData {
 
       $remaining = round(($loopCount / $numFiles) * 100,2);
       $time = date('Y-m-d H:i:s');
-      echo "Running file Journal - $loopCount ($filename.json) out of $numFiles ($remaining%) - at $time\n";
+      echo "Running file Newspaper - $loopCount ($filename.json) out of $numFiles ($remaining%) - at $time\n";
 
-      $progress = $this->checkProgress("journal",$filename);
+      $progress = $this->checkProgress("newspaper",$filename);
 
       if($progress == 0) {
         // echo "no file\n";
         $this->formatNewspaperData($file);
-        $this->updateProgress("journal",$filename);
+        $this->updateProgress("newspaper",$filename);
       }
       $loopCount++;
     }
