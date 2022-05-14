@@ -66,9 +66,9 @@ class AmpQueue {
     else $this->wikidataQuery($query,$project);
 
     //
-    $this->writeMainManifestCollection($project, $project_title,false);
+    $this->writeMainManifestCollection($project, $project_title, false);
     // fullpage newspaper
-    $this->writeMainManifestCollection($project, $project_title,true);
+    $this->writeMainManifestCollection($project, $project_title, true);
   }
 
   /**
@@ -162,10 +162,13 @@ class AmpQueue {
       // search Solr for Qid
       $solrResponse = $this->solr->search($qid, $project, $qidName);
 
-      $this->qids[] = [
-        'qid' => $qid,
-        'name' => $qidName
-      ];
+      if($solrResponse) {
+        $this->qids[] = [
+          'qid' => $qid,
+          'name' => $qidName
+        ];
+      }
+
     }
   }
 

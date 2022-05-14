@@ -18,7 +18,8 @@ class Wikidata {
       $image = $this->getQidImageData($qid);
       $response = [
         'description' => $desc,
-        'image' => $image
+        'image' => $image,
+        'dob' => $this->dateOfBirth($data, $qid)
       ];  
     }
     
@@ -52,5 +53,13 @@ class Wikidata {
     }
 
     return $imagePath;
+  }
+
+  private function dateOfBirth($data, $qid)
+  {
+    if(isset($data['entities'][$qid]['claims']['P569'])) {
+      $date = $data['entities'][$qid]['claims']['P569'][0]['mainsnak']['datavalue']['value']['time'];
+      return date('Y',strtotime($date));
+    }
   }
 }

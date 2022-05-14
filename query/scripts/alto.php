@@ -12,10 +12,10 @@ class AltoImage {
     $this->template = new NewspaperTemplate();
   }
 
-  public function getManifest($canvas_id, $targetArt, $parent_id, $filename, $date)
+  public function getManifest($artId, $canvas_id, $targetArt, $parent_id, $filename, $date)
   {
     $this->pid = $canvas_id;
-    $this->targetArt = $targetArt;
+    $this->targetArt = $artId;
 
     $url = "https://newspapers.library.wales/iiif/2.0/image/" . $this->pid . "/info.json";
 
@@ -38,6 +38,7 @@ class AltoImage {
     $url = 'http://newspapers.library.wales/json/viewarticledata/llgc-id%3A'.$this->pid;
     // echo "$url\n";
     // echo $this->targetArt . "\n";
+    // die();
 
     $alto = json_decode(file_get_contents($url),true);
 
@@ -62,7 +63,7 @@ class AltoImage {
   {
     foreach($alto as $k => $v) {
       $id = $v['id'];
-      if($id == "ART" .$this->targetArt) return $k;
+      if($id == $this->targetArt) return $k;
     }
   }
 
@@ -145,7 +146,8 @@ class AltoImage {
       $this->pid = ((int)$this->pid - 1);
       $coord = $this->getAlto($dime['width'], $dime['height']);
     }
-    
+    // print_r($coord);
+    // die();
     $xyhw = implode(',',$coord);
 
     $canvas_id = 'http://dams.llgc.org.uk/iiif/' . $parent_id . '/canvas/'.$canvas_id.'#xywh='.$xyhw;

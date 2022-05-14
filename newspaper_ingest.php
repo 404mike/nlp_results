@@ -11,7 +11,7 @@ class IngestData {
 
   private function ingestNewspapers()
   {
-    $files = glob('newspaper/data/*.{json}', GLOB_BRACE);
+    $files = glob('newspaper/complete/*.{json}', GLOB_BRACE);
     shuffle($files);
 
     $numFiles = count($files);
@@ -148,7 +148,7 @@ class IngestData {
     return str_replace(
       ['.json',
        'journals/data/',
-       'newspaper/data/'],'',$val);
+       'newspaper/complete/'],'',$val);
   }
 } 
 
