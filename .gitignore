@@ -3,3 +3,6 @@ newspaper/*.py
 journals/*.py
 model-last
 results
+query/data/*
+kb/*
+gephi/*
